@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>COT Desk — Weekly Positioning Tracker</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 16 16%22><rect width=%2216%22 height=%2216%22 rx=%223%22 fill=%22%230a0c10%22/><path d=%22M2 12 L6 6 L9 9 L14 3%22 stroke=%22%23d9a441%22 stroke-width=%221.6%22 fill=%22none%22 stroke-linecap=%22round%22 stroke-linejoin=%22round%22/></svg>">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<div class="topbar">
+  <div class="topbar-inner">
+    <div class="brand">
+      <span class="brand-mark">COT</span>
+      <span class="brand-name">Desk</span>
+      <span class="brand-sub">weekly positioning tracker</span>
+    </div>
+    <div class="topbar-meta" id="meta"><span class="dot"></span>loading…</div>
+  </div>
+</div>
+
+<div class="page">
+  <div class="hero">
+    <div class="hero-eyebrow">CFTC / CME Commitment of Traders</div>
+    <h1>Who's actually positioned, across everything you trade.</h1>
+    <p>Every pair below is Leveraged Funds (or Managed Money) net positioning vs. Dealer/Producer hedging, pulled from the weekly CFTC report. Click a symbol to see the full history and spot where price and positioning disagree.</p>
+  </div>
+
+  <div id="categories"></div>
+
+  <div id="empty" class="empty-note" style="display:none">No data loaded — check that data/cot.json exists.</div>
+</div>
+
+<footer>
+  Source: CME Group / QuikStrike, CFTC.gov · Report reflects Tuesday positioning, published the following Friday · Not investment advice
+</footer>
+
+<script src="app.js"></script>
+<script>
+loadData().then(renderIndex);
+</script>
+</body>
+</html>
