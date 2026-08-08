@@ -1,0 +1,44 @@
+name: Fetch COT data
+
+# Runs every Saturday at 9:00 AM UTC (after the Friday 3:30 PM EST release)
+# Fetches new COT data from the CFTC API, updates weekly.csv, then
+# rebuilds cot.json automatically.
+
+on:
+  schedule:
+    # Saturday 09:00 UTC = 10:00 AM UK time (after Friday 3:30 PM EST release)
+    - cron: "0 9 * * 6"
+  workflow_dispatch: {}  # lets you trigger it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch new COT data from CFTC API
+        run: python3 scripts/fetch_cot.py
+
+      - name: Rebuild cot.json
+        run: python3 scripts/build_data.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "cot-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data-source/weekly.csv data/cot.json
+          if git diff --cached --quiet; then
+            echo "No new COT data this week - nothing to commit."
+          else
+            git commit -m "Auto-fetch COT data from CFTC API"
+            git push
+          fi
