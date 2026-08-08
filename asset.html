@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Asset Detail | COT Quant Desk</title>
+
+  <!-- Google Fonts: Inter & JetBrains Mono -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+  <!-- Chart.js CDN -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+  <!-- Stylesheet -->
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <!-- Top Header / Quant Terminal Bar -->
+  <header class="app-header">
+    <div class="header-top">
+      <a href="index.html" class="brand">
+        <span class="brand-dot"></span>
+        <span class="logo-text">COT <span class="accent">QUANT</span> DESK</span>
+      </a>
+
+      <div class="header-meta">
+        <div class="status-indicator">
+          <span>TERMINAL ONLINE</span>
+        </div>
+        <div class="live-time num" id="utc-clock">--:--:-- UTC</div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Content Container for Detail View -->
+  <main class="main-container" id="detail-app">
+    <!-- Rendered dynamically by app.js -->
+  </main>
+
+  <!-- Footer -->
+  <footer class="app-footer">
+    <div><strong>COT QUANT TERMINAL</strong> &bull; Institutional Commitment of Traders Analytics</div>
+    <div>Data Sources: CFTC (Public Reporting API), FinancialJuice RSS, ForexFactory / Faireconomy</div>
+  </footer>
+
+  <!-- App Script -->
+  <script src="app.js"></script>
+</body>
+</html>
