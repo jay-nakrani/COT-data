@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>COT Quant Terminal | Market Positioning, News & Sentiment</title>
+
+  <!-- Google Fonts: Inter & JetBrains Mono -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+  <!-- Chart.js CDN -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+  <!-- Stylesheet -->
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <!-- Top Header / Quant Terminal Bar -->
+  <header class="app-header">
+    <div class="header-top">
+      <a href="index.html" class="brand">
+        <span class="brand-dot"></span>
+        <span class="logo-text">COT <span class="accent">QUANT</span> DESK</span>
+      </a>
+
+      <div class="header-search">
+        <span class="search-icon">🔍</span>
+        <input type="text" id="global-search" placeholder="Search asset (e.g. Gold, NQ, EUR)...">
+      </div>
+
+      <div class="header-meta">
+        <div class="status-indicator">
+          <span>TERMINAL ONLINE</span>
+        </div>
+        <div class="live-time num" id="utc-clock">--:--:-- UTC</div>
+      </div>
+    </div>
+
+    <!-- Tab Navigation Bar -->
+    <div class="header-nav-bar">
+      <ul class="tab-nav">
+        <li>
+          <button class="tab-btn active" data-tab="overview">
+            <span>📊 Overview</span>
+          </button>
+        </li>
+        <li>
+          <button class="tab-btn" data-tab="news">
+            <span>📰 Financial News</span>
+            <span class="tab-badge num" id="news-count">0</span>
+          </button>
+        </li>
+        <li>
+          <button class="tab-btn" data-tab="calendar">
+            <span>📅 Economic Calendar</span>
+            <span class="tab-badge num" id="cal-count">0</span>
+          </button>
+        </li>
+        <li>
+          <button class="tab-btn" data-tab="sentiment">
+            <span>🎯 Market Sentiment</span>
+          </button>
+        </li>
+      </ul>
+
+      <div class="live-time num" id="last-updated-time" style="font-size: 0.72rem; opacity: 0.8;">
+        UPDATED: RECENT
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Content Container -->
+  <main class="main-container">
+
+    <!-- ====================================================================
+         TAB 1: OVERVIEW
+         ==================================================================== -->
+    <section id="tab-overview" class="tab-pane active">
+      <!-- KPI Metric Summary Bar -->
+      <div class="kpi-bar">
+        <div class="kpi-card">
+          <span class="kpi-label">Tracked Markets</span>
+          <span class="kpi-value num" id="kpi-total-assets">--</span>
+          <span class="kpi-sub">Metals, Equities, FX</span>
+        </div>
+        <div class="kpi-card">
+          <span class="kpi-label">Bullish Net Bias</span>
+          <span class="kpi-value num pos" id="kpi-bullish-ratio">-- / --</span>
+          <span class="kpi-sub">50th+ percentile positioning</span>
+        </div>
+        <div class="kpi-card">
+          <span class="kpi-label">Divergence Alerts</span>
+          <span class="kpi-value num neutral" id="kpi-divergences">--</span>
+          <span class="kpi-sub">Price vs COT Squeeze risk</span>
+        </div>
+      </div>
+
+      <!-- Toolbar / Filters -->
+      <div class="toolbar">
+        <div class="filter-group">
+          <span class="filter-label">Category:</span>
+          <button class="pill-btn category-pill active" onclick="setCategoryFilter('all', this)">All</button>
+          <button class="pill-btn category-pill" onclick="setCategoryFilter('metals', this)">Metals</button>
+          <button class="pill-btn category-pill" onclick="setCategoryFilter('equityindices', this)">Equity Indices</button>
+          <button class="pill-btn category-pill" onclick="setCategoryFilter('fxmajors', this)">FX Majors</button>
+        </div>
+      </div>
+
+      <!-- Asset Grid -->
+      <div id="asset-grid" class="asset-grid">
+        <!-- Rendered dynamically by app.js -->
+      </div>
+    </section>
+
+
+    <!-- ====================================================================
+         TAB 2: NEWS FEED
+         ==================================================================== -->
+    <section id="tab-news" class="tab-pane">
+      <div class="toolbar">
+        <div class="filter-group">
+          <span class="filter-label">Filter Asset:</span>
+          <select id="news-asset-filter" class="select-control">
+            <option value="all">All Assets</option>
+          </select>
+        </div>
+
+        <div class="filter-group">
+          <span class="filter-label">AI Sentiment:</span>
+          <button class="pill-btn news-sentiment-pill active" data-sentiment="all">All</button>
+          <button class="pill-btn news-sentiment-pill" data-sentiment="bullish">Bullish 🟢</button>
+          <button class="pill-btn news-sentiment-pill" data-sentiment="bearish">Bearish 🔴</button>
+          <button class="pill-btn news-sentiment-pill" data-sentiment="neutral">Neutral 🟡</button>
+        </div>
+      </div>
+
+      <!-- News Cards Feed -->
+      <div id="news-feed" class="news-feed">
+        <!-- Rendered dynamically by app.js -->
+      </div>
+    </section>
+
+
+    <!-- ====================================================================
+         TAB 3: ECONOMIC CALENDAR
+         ==================================================================== -->
+    <section id="tab-calendar" class="tab-pane">
+      <div class="toolbar">
+        <div class="filter-group">
+          <span class="filter-label">Impact Level:</span>
+          <button class="pill-btn cal-impact-pill active" data-impact="all">All</button>
+          <button class="pill-btn cal-impact-pill" data-impact="high">High Impact 🔴</button>
+          <button class="pill-btn cal-impact-pill" data-impact="medium">Medium 🟡</button>
+          <button class="pill-btn cal-impact-pill" data-impact="low">Low ⚪</button>
+        </div>
+
+        <div class="filter-group">
+          <span class="filter-label">Country:</span>
+          <select id="cal-country-filter" class="select-control">
+            <option value="all">All Countries</option>
+          </select>
+        </div>
+      </div>
+
+      <!-- Calendar Feed -->
+      <div id="calendar-feed" class="calendar-feed">
+        <!-- Rendered dynamically by app.js -->
+      </div>
+    </section>
+
+
+    <!-- ====================================================================
+         TAB 4: MARKET SENTIMENT
+         ==================================================================== -->
+    <section id="tab-sentiment" class="tab-pane">
+      <div class="toolbar">
+        <div class="filter-group">
+          <span class="filter-label">Category:</span>
+          <button class="pill-btn category-pill active" onclick="setCategoryFilter('all', this)">All</button>
+          <button class="pill-btn category-pill" onclick="setCategoryFilter('metals', this)">Metals</button>
+          <button class="pill-btn category-pill" onclick="setCategoryFilter('equityindices', this)">Equity Indices</button>
+          <button class="pill-btn category-pill" onclick="setCategoryFilter('fxmajors', this)">FX Majors</button>
+        </div>
+      </div>
+
+      <!-- Sentiment Gauges Grid -->
+      <div id="sentiment-grid" class="sentiment-grid">
+        <!-- Rendered dynamically by app.js -->
+      </div>
+    </section>
+
+  </main>
+
+  <!-- Footer -->
+  <footer class="app-footer">
+    <div><strong>COT QUANT TERMINAL</strong> &bull; Institutional Commitment of Traders Analytics</div>
+    <div>Data Sources: CFTC (Public Reporting API), FinancialJuice RSS, ForexFactory / Faireconomy</div>
+  </footer>
+
+  <!-- App Script -->
+  <script src="app.js"></script>
+</body>
+</html>
