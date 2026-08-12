@@ -1,6 +1,831 @@
 {
- "generated": "2026-08-11T22:41:38.802486+00:00",
+ "generated": "2026-08-12T01:58:26.231148+00:00",
  "news": [
+  {
+   "id": "8cf2fb73007f",
+   "title": "British Pound loses as rising US Dollar, geopolitical tensions weigh on sentiment",
+   "pubDate": "2026-08-12T01:55:40+00:00",
+   "pubDateDisplay": "Wed, 12 Aug 2026 01:55:40 GMT",
+   "source": "FXStreet",
+   "category": "forex",
+   "categories": [],
+   "link": "https://www.fxstreet.com/news/british-pound-loses-as-rising-us-dollar-geopolitical-tensions-weigh-on-sentiment-202608120155",
+   "description": "GBP/USD inches lower after remaining flat in the previous day, trading around 1.3500 during the Asian hours on Wednesday. The currency pair continues to hold its losses as the US Dollar (USD) gains strength ahead of a crucial inflation report.",
+   "analysis": {
+    "assets": [
+     {
+      "symbol": "6B",
+      "name": "British Pound",
+      "direction": "neutral",
+      "confidence": 50,
+      "explanation": "Neutral impact on British Pound - no clear directional bias."
+     },
+     {
+      "symbol": "USD",
+      "name": "US Dollar",
+      "direction": "bullish",
+      "confidence": 95,
+      "explanation": "Bullish for US Dollar (95%) - hawkish Fed or strong US data supports the dollar."
+     }
+    ],
+    "overall": "bullish",
+    "score": 0.2,
+    "confidence": 95,
+    "summary": "Bullish (95%) - rising, gains, strength"
+   }
+  },
+  {
+   "id": "71ce1a31418c",
+   "title": "World's biggest private gold holder Tether gives users weeks to exit vault",
+   "pubDate": "2026-08-12T01:46:39+00:00",
+   "pubDateDisplay": "Wed, 12 Aug 2026 01:46:39 GMT",
+   "source": "ForexLive",
+   "category": "forex",
+   "categories": [
+    "Commodities"
+   ],
+   "link": "https://investinglive.com/commodities/world-s-biggest-private-gold-holder-tether-gives-users-weeks-to-exit-vault/",
+   "description": "The story is more interesting for what it reveals about Tether's balance sheet than for any market impact from the shutdown itself, since Alloy was always a rounding error against Tether's broader gold holdings, with only a few hundred thousand dollars of Tether Gold locked in the platform against a company wide stash worth close to 19 billion dollars. That stash is the more consequential detail for anyone tracking physical gold demand: at 146 metric tons and rising after a 14 tonne addition las",
+   "analysis": {
+    "assets": [
+     {
+      "symbol": "GC",
+      "name": "Gold",
+      "direction": "neutral",
+      "confidence": 50,
+      "explanation": "Neutral impact on Gold - no clear directional bias."
+     },
+     {
+      "symbol": "USD",
+      "name": "US Dollar",
+      "direction": "bearish",
+      "confidence": 64,
+      "explanation": "Bearish for US Dollar (64%) - dovish Fed or weak US data weakens the dollar."
+     },
+     {
+      "symbol": "BONDS",
+      "name": "US Treasuries",
+      "direction": "bearish",
+      "confidence": 52,
+      "explanation": "Bearish for US Treasuries (52%) - rate hike expectations or inflation fears hit bonds."
+     }
+    ],
+    "overall": "bullish",
+    "score": 0.17,
+    "confidence": 95,
+    "summary": "Bullish (95%) - not retreat, not down, not down, not down, not down"
+   }
+  },
+  {
+   "id": "5e9405fd9241",
+   "title": "Gold trades with positive bias below $4,400; Fed hike bets cap gains ahead of US CPI",
+   "pubDate": "2026-08-12T01:38:52+00:00",
+   "pubDateDisplay": "Wed, 12 Aug 2026 01:38:52 GMT",
+   "source": "FXStreet",
+   "category": "forex",
+   "categories": [],
+   "link": "https://www.fxstreet.com/news/gold-trades-with-positive-bias-below-4-400-fed-hike-bets-cap-gains-ahead-of-us-cpi-202608120138",
+   "description": "Gold (XAU/USD) attracts some dip-buyers during the Asian session on Wednesday, stalling the previous day's retracement slide from the $4,435 region, or the highest level since June 5.",
+   "analysis": {
+    "assets": [
+     {
+      "symbol": "GC",
+      "name": "Gold",
+      "direction": "bullish",
+      "confidence": 76,
+      "explanation": "Bullish for Gold (76%) - safe-haven demand or dollar weakness typically lifts precious metals."
+     },
+     {
+      "symbol": "USD",
+      "name": "US Dollar",
+      "direction": "bullish",
+      "confidence": 76,
+      "explanation": "Bullish for US Dollar (76%) - hawkish Fed or strong US data supports the dollar."
+     }
+    ],
+    "overall": "bullish",
+    "score": 0.33,
+    "confidence": 76,
+    "summary": "Bullish (76%) - gains, positive"
+   }
+  },
+  {
+   "id": "06e1eb787da5",
+   "title": "Trump says has total control of Hormuz. Remarks that jar with weeks of shipping attacks.",
+   "pubDate": "2026-08-12T01:31:54+00:00",
+   "pubDateDisplay": "Wed, 12 Aug 2026 01:31:54 GMT",
+   "source": "ForexLive",
+   "category": "forex",
+   "categories": [
+    "Commodities"
+   ],
+   "link": "https://investinglive.com/commodities/trump-says-has-total-control-of-hormuz-remarks-that-jar-with-weeks-of-shipping-attacks/",
+   "description": "Trump's tarmac comments sit awkwardly against the news flow of the past several days, with Iran's top security official reiterating the strait stays closed until Washington meets its conditions, continued Houthi and blockade related shipping attacks, and Brent and WTI both grinding higher on that same uncertainty. One reading traders may take from the remarks, delivered with unusual confidence given that backdrop, is a jawboning attempt aimed at talking down oil and, by extension, US gasoline pr",
+   "analysis": {
+    "assets": [
+     {
+      "symbol": "OIL",
+      "name": "Crude Oil",
+      "direction": "bullish",
+      "confidence": 95,
+      "explanation": "Bullish for Crude Oil (95%) - supply concerns or demand growth lifts crude prices."
+     }
+    ],
+    "overall": "bullish",
+    "score": 0.17,
+    "confidence": 95,
+    "summary": "Bullish (95%) - higher, higher, higher, uncertainty, not down"
+   }
+  },
+  {
+   "id": "6a47e4ccc77d",
+   "title": "Sen. Darline Graham advances to Republican special primary runoff in South Carolina",
+   "pubDate": "2026-08-12T01:26:46+00:00",
+   "pubDateDisplay": "Wed, 12 Aug 2026 01:26:46 GMT",
+   "source": "CNBC",
+   "category": "general",
+   "categories": [],
+   "link": "https://www.cnbc.com/2026/08/11/primary-election-wisconsin-minnesota-south-carolina-democrats-hong-flanagan-craig.html",
+   "description": "Progressive Democrats hope to keep their winning streak rolling in Minnesota and Wisconsin.",
+   "analysis": {
+    "assets": [],
+    "overall": "bearish",
+    "score": -1.0,
+    "confidence": 52,
+    "summary": "Bearish (52%) - not advances"
+   }
+  },
+  {
+   "id": "ebead617dc97",
+   "title": "EVs dominate China\u2019s car market: 5 takeaways from the country's latest auto sales data",
+   "pubDate": "2026-08-12T01:20:13+00:00",
+   "pubDateDisplay": "Wed, 12 Aug 2026 01:20:13 GMT",
+   "source": "CNBC",
+   "category": "general",
+   "categories": [],
+   "link": "https://www.cnbc.com/2026/08/12/china-car-sales-data-byd-tesla-geely-vw.html",
+   "description": "The China Passenger Car Association released data Tuesday showing penetration of new energy vehicles rose in July. Tesla's Model Y remained popular.",
+   "analysis": {
+    "assets": [
+     {
+      "symbol": "OIL",
+      "name": "Crude Oil",
+      "direction": "bullish",
+      "confidence": 52,
+      "explanation": "Bullish for Crude Oil (52%) - supply concerns or demand growth lifts crude prices."
+     }
+    ],
+    "overall": "bullish",
+    "score": 1.0,
+    "confidence": 52,
+    "summary": "Bullish (52%) - rose"
+   }
+  },
+  {
+   "id": "ae1d3f255634",
+   "title": "Experts split on whether next RBA move is a hike or cut amid energy risks",
+   "pubDate": "2026-08-12T01:15:32+00:00",
+   "pubDateDisplay": "Wed, 12 Aug 2026 01:15:32 GMT",
+   "source": "FXStreet",
+   "category": "forex",
+   "categories": [],
+   "link": "https://www.fxstreet.com/news/banks-split-on-whether-next-rba-move-is-a-hike-or-cut-amid-energy-risks-202608120115",
+   "description": "The Reserve Bank of Australia (RBA) unanimously held rates at 4.35% in August, but major economic forecasters offer varying takes on what comes next:",
+   "analysis": {
+    "assets": [
+     {
+      "symbol": "6A",
+      "name": "Australian Dollar",
+      "direction": "neutral",
+      "confidence": 0,
+      "explanation": "Neutral impact on Australian Dollar - no clear directional bias."
+     },
+     {
+      "symbol": "USD",
+      "name": "US Dollar",
+      "direction": "neutral",
+      "confidence": 0,
+      "explanation": "Neutral impact on US Dollar - no clear directional bias."
+     },
+     {
+      "symbol": "OIL",
+      "name": "Crude Oil",
+      "direction": "neutral",
+      "confidence": 0,
+      "explanation": "Neutral impact on Crude Oil - no clear directional bias."
+     }
+    ],
+    "overall": "neutral",
+    "score": 0,
+    "confidence": 0,
+    "summary": "Neutral / mixed signals"
+   }
+  },
+  {
+   "id": "87560f5adee8",
+   "title": "PBOC sets USD/CNY reference rate at 6.7882 vs. 6.7900 previous",
+   "pubDate": "2026-08-12T01:15:30+00:00",
+   "pubDateDisplay": "Wed, 12 Aug 2026 01:15:30 GMT",
+   "source": "FXStreet",
+   "category": "forex",
+   "categories": [],
+   "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67882-vs-67900-previous-202608120115",
+   "description": "On Wednesday, the People\u2019s Bank of China (PBOC) sets the USD/CNY central rate for the trading session ahead at 6.7882 compared to the previous day's fix of 6.7900 and 6.7430 Reuters estimate.",
+   "analysis": {
+    "assets": [
+     {
+      "symbol": "USD",
+      "name": "US Dollar",
+      "direction": "neutral",
+      "confidence": 0,
+      "explanation": "Neutral impact on US Dollar - no clear directional bias."
+     }
+    ],
+    "overall": "neutral",
+    "score": 0,
+    "confidence": 0,
+    "summary": "Neutral / mixed signals"
+   }
+  },
+  {
+   "id": "c282956b3d55",
+   "title": "PBOC sets USD/ CNY mid-point today at 6.7882 (vs. estimate at 6.7430)",
+   "pubDate": "2026-08-12T01:15:16+00:00",
+   "pubDateDisplay": "Wed, 12 Aug 2026 01:15:16 GMT",
+   "source": "ForexLive",
+   "category": "forex",
+   "categories": [
+    "Central Banks"
+   ],
+   "link": "https://investinglive.com/central-banks/pboc-sets-usd-cny-mid-point-today-at-6-7-vs-estimate-at-6-7430/",
+   "description": "The PBOC allows the yuan to fluctuate within a +/- 2% range, around this reference rate. More here.Zero 7-day reverse repos volume today, PBOIC citing demand from primary dealers This article was written by Eamonn Sheridan at investinglive.com.",
+   "analysis": {
+    "assets": [
+     {
+      "symbol": "USD",
+      "name": "US Dollar",
+      "direction": "neutral",
+      "confidence": 0,
+      "explanation": "Neutral impact on US Dollar - no clear directional bias."
+     }
+    ],
+    "overall": "neutral",
+    "score": 0,
+    "confidence": 0,
+    "summary": "Neutral / mixed signals"
+   }
+  },
+  {
+   "id": "3d98da854941",
+   "title": "Euro consolidates below mid-1.1500s vs USD ahead of German HICP, US CPI",
+   "pubDate": "2026-08-12T01:08:56+00:00",
+   "pubDateDisplay": "Wed, 12 Aug 2026 01:08:56 GMT",
+   "source": "FXStreet",
+   "category": "forex",
+   "categories": [],
+   "link": "https://www.fxstreet.com/news/euro-consolidates-below-mid-11500s-vs-usd-ahead-of-german-hicp-us-cpi-202608120108",
+   "description": "The EUR/USD pair struggles to gain any meaningful traction and holds steady around mid-1.1500s during the Asian session on Wednesday, within a familiar range held over the past week or so.",
+   "analysis": {
+    "assets": [
+     {
+      "symbol": "6E",
+      "name": "Euro",
+      "direction": "bullish",
+      "confidence": 52,
+      "explanation": "Bullish for Euro (52%) - relative strength in this currency vs peers."
+     },
+     {
+      "symbol": "USD",
+      "name": "US Dollar",
+      "direction": "bullish",
+      "confidence": 52,
+      "explanation": "Bullish for US Dollar (52%) - hawkish Fed or strong US data supports the dollar."
+     }
+    ],
+    "overall": "bullish",
+    "score": 1.0,
+    "confidence": 52,
+    "summary": "Bullish (52%) - gain"
+   }
+  },
+  {
+   "id": "fd81eff9b5db",
+   "title": "Goldman chief economist Hatzius expects a benign July US CPI print",
+   "pubDate": "2026-08-12T01:07:46+00:00",
+   "pubDateDisplay": "Wed, 12 Aug 2026 01:07:46 GMT",
+   "source": "ForexLive",
+   "category": "forex",
+   "categories": [
+    "News"
+   ],
+   "link": "https://investinglive.com/news/goldman-chief-economist-hatzius-expects-a-benign-july-us-cpi-print/",
+   "description": "Hatzius's forecast, a headline print around 0.05% month on month and core near 0.19%, would sit in line with or slightly below consensus and reinforce the softer trend he says began in June, a read that would ease pressure on the Fed heading into September if it holds. The more consequential number in the interview may be the sharp downward revision to Goldman's underlying payrolls trend, from around 75,000 to just 5,000 a month, which underscores how quickly the labour picture has deteriorated ",
+   "analysis": {
+    "assets": [
+     {
+      "symbol": "USD",
+      "name": "US Dollar",
+      "direction": "bullish",
+      "confidence": 95,
+      "explanation": "Bullish for US Dollar (95%) - hawkish Fed or strong US data supports the dollar."
+     },
+     {
+      "symbol": "OIL",
+      "name": "Crude Oil",
+      "direction": "bearish",
+      "confidence": 95,
+      "explanation": "Bearish for Crude Oil (95%) - demand concerns or supply glut pressures crude."
+     }
+    ],
+    "overall": "bullish",
+    "score": 0.17,
+    "confidence": 95,
+    "summary": "Bullish (95%) - tariff, not decline, not decline, not down, not down"
+   }
+  },
+  {
+   "id": "9cbbea434b58",
+   "title": "WTI advances above $82.50 due to mixed signals regarding potential US-Iran deal",
+   "pubDate": "2026-08-12T00:53:20+00:00",
+   "pubDateDisplay": "Wed, 12 Aug 2026 00:53:20 GMT",
+   "source": "FXStreet",
+   "category": "forex",
+   "categories": [],
+   "link": "https://www.fxstreet.com/news/wti-advances-above-8250-due-to-mixed-signals-regarding-potential-us-iran-deal-202608120053",
+   "description": "West Texas Intermediate (WTI) oil price extends its gains for the third successive day, trading around $82.70 per barrel during the Asian hours on Wednesday. Crude oil prices advance as investors weigh mixed signals regarding a potential deal between the United States (US) and Iran.",
+   "analysis": {
+    "assets": [
+     {
+      "symbol": "OIL",
+      "name": "Crude Oil",
+      "direction": "bullish",
+      "confidence": 76,
+      "explanation": "Bullish for Crude Oil (76%) - supply concerns or demand growth lifts crude prices."
+     }
+    ],
+    "overall": "bullish",
+    "score": 1.0,
+    "confidence": 76,
+    "summary": "Bullish (76%) - gains, advance, advances"
+   }
+  },
+  {
+   "id": "eb419bfd024a",
+   "title": "Japan bond yields rise as oil gains stoke fresh inflation concerns",
+   "pubDate": "2026-08-12T00:40:56+00:00",
+   "pubDateDisplay": "Wed, 12 Aug 2026 00:40:56 GMT",
+   "source": "ForexLive",
+   "category": "forex",
+   "categories": [
+    "News"
+   ],
+   "link": "https://investinglive.com/news/japan-bond-yields-rise-as-oil-gains-stoke-fresh-inflation-concerns/",
+   "description": "The move higher in JGB yields, led by a record high on the five year and the highest two year print since May 1995, reflects markets pricing a firmer case for further Bank of Japan tightening as imported inflation risk builds via crude. That the two year, the tenor most sensitive to BOJ policy, is leading the move fits with Tokyo Tanshi data showing traders now assign roughly two in three odds to a September hike. Notably, the rise in domestic yields has not yet translated into yen support, with",
+   "analysis": {
+    "assets": [
+     {
+      "symbol": "NQ",
+      "name": "Nasdaq 100",
+      "direction": "bullish",
+      "confidence": 64,
+      "explanation": "Bullish for Nasdaq 100 (64%) - risk-on sentiment or positive data supports equity indices."
+     },
+     {
+      "symbol": "6J",
+      "name": "Japanese Yen",
+      "direction": "neutral",
+      "confidence": 50,
+      "explanation": "Neutral impact on Japanese Yen - no clear directional bias."
+     },
+     {
+      "symbol": "USD",
+      "name": "US Dollar",
+      "direction": "neutral",
+      "confidence": 50,
+      "explanation": "Neutral impact on US Dollar - no clear directional bias."
+     },
+     {
+      "symbol": "OIL",
+      "name": "Crude Oil",
+      "direction": "neutral",
+      "confidence": 50,
+      "explanation": "Neutral impact on Crude Oil - no clear directional bias."
+     },
+     {
+      "symbol": "BONDS",
+      "name": "US Treasuries",
+      "direction": "neutral",
+      "confidence": 50,
+      "explanation": "Neutral impact on US Treasuries - no clear directional bias."
+     }
+    ],
+    "overall": "neutral",
+    "score": 0.1,
+    "confidence": 50,
+    "summary": "Neutral / mixed signals"
+   }
+  },
+  {
+   "id": "ee805bed63ef",
+   "title": "PBOC is expected to set the USD/CNY reference rate at 6.7430 \u2013 Reuters estimate",
+   "pubDate": "2026-08-12T00:22:38+00:00",
+   "pubDateDisplay": "Wed, 12 Aug 2026 00:22:38 GMT",
+   "source": "ForexLive",
+   "category": "forex",
+   "categories": [
+    "Central Banks"
+   ],
+   "link": "https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-7-reuters-estimate-3/",
+   "description": "The People\u2019s Bank of China is due to set the daily USD/CNY reference rate at around 0115 GMT (2115 US Eastern time), a fixing that remains one of the most closely watched signals in Asian foreign exchange markets. China operates a managed floating exchange rate system, under which the renminbi (yuan) is allowed to trade within a prescribed band around a central reference rate, or midpoint, set each trading day by the PBOC. The current trading band permits the currency to move plus or minus 2% fr",
+   "analysis": {
+    "assets": [
+     {
+      "symbol": "USD",
+      "name": "US Dollar",
+      "direction": "bearish",
+      "confidence": 64,
+      "explanation": "Bearish for US Dollar (64%) - dovish Fed or weak US data weakens the dollar."
+     }
+    ],
+    "overall": "bearish",
+    "score": -1.0,
+    "confidence": 64,
+    "summary": "Bearish (64%) - not strength, not growth"
+   }
+  },
+  {
+   "id": "9f35739f2c45",
+   "title": "CoreWeave\u2019s stock soars as earnings show major AI momentum",
+   "pubDate": "2026-08-12T00:17:00+00:00",
+   "pubDateDisplay": "Wed, 12 Aug 2026 00:17:00 GMT",
+   "source": "MarketWatch",
+   "category": "general",
+   "categories": [],
+   "link": "https://www.marketwatch.com/story/coreweaves-stock-soars-as-earnings-show-major-ai-momentum-d3a5bede?mod=mw_rss_topstories",
+   "description": "The AI cloud provider topped revenue and earnings expectations, with its CEO cheering \u201can important inflection point.\u201d",
+   "analysis": {
+    "assets": [],
+    "overall": "bullish",
+    "score": 1.0,
+    "confidence": 52,
+    "summary": "Bullish (52%) - soars"
+   }
+  },
+  {
+   "id": "42894da21c26",
+   "title": "Super Micro\u2019s earnings report brings more good news, and the stock is climbing",
+   "pubDate": "2026-08-12T00:16:00+00:00",
+   "pubDateDisplay": "Wed, 12 Aug 2026 00:16:00 GMT",
+   "source": "MarketWatch",
+   "category": "general",
+   "categories": [],
+   "link": "https://www.marketwatch.com/story/super-micros-earnings-report-brings-more-good-news-and-the-stock-is-climbing-30e5ca89?mod=mw_rss_topstories",
+   "description": "The company impressed Wall Street several weeks ago by teasing an improved profitability trajectory. Super Micro\u2019s latest forecast has exceeded expectations as well.",
+   "analysis": {
+    "assets": [
+     {
+      "symbol": "ES",
+      "name": "S&P 500",
+      "direction": "neutral",
+      "confidence": 0,
+      "explanation": "Neutral impact on S&P 500 - no clear directional bias."
+     }
+    ],
+    "overall": "neutral",
+    "score": 0,
+    "confidence": 0,
+    "summary": "Neutral / mixed signals"
+   }
+  },
+  {
+   "id": "8bc9bbb19393",
+   "title": "Lumentum sees sales more than double as AI demand swells",
+   "pubDate": "2026-08-12T00:15:00+00:00",
+   "pubDateDisplay": "Wed, 12 Aug 2026 00:15:00 GMT",
+   "source": "MarketWatch",
+   "category": "general",
+   "categories": [],
+   "link": "https://www.marketwatch.com/story/lumentum-sees-sales-more-than-double-as-ai-demand-swells-6ebe6ef1?mod=mw_rss_topstories",
+   "description": "Though Lumentum posted blowout earnings and an upbeat forecast, its stock was largely flat after hours.",
+   "analysis": {
+    "assets": [],
+    "overall": "neutral",
+    "score": 0,
+    "confidence": 0,
+    "summary": "Neutral / mixed signals"
+   }
+  },
+  {
+   "id": "29c1ae57d1c2",
+   "title": "Japan Money Supply M2+CD (YoY) unchanged at 2.2% in July",
+   "pubDate": "2026-08-12T00:05:32+00:00",
+   "pubDateDisplay": "Wed, 12 Aug 2026 00:05:32 GMT",
+   "source": "FXStreet",
+   "category": "forex",
+   "categories": [],
+   "link": "https://www.fxstreet.com/news/japan-money-supply-m2cd-yoy-unchanged-at-22-in-july-202608120005",
+   "description": "",
+   "analysis": {
+    "assets": [],
+    "overall": "neutral",
+    "score": 0,
+    "confidence": 0,
+    "summary": "Neutral / mixed signals"
+   }
+  },
+  {
+   "id": "adb398490009",
+   "title": "Fed's Goolsbee \"said\" ((7 weeks ago!) inflation is economy's biggest problem",
+   "pubDate": "2026-08-11T23:48:38+00:00",
+   "pubDateDisplay": "Tue, 11 Aug 2026 23:48:38 GMT",
+   "source": "ForexLive",
+   "category": "forex",
+   "categories": [
+    "Central Banks"
+   ],
+   "link": "https://investinglive.com/central-banks/fed-s-goolsbee-said-7-weeks-ago-inflation-is-economy-s-biggest-problem/",
+   "description": "Goolsbee's comments carry limited direct market weight given he holds no vote this year, but they land at a moment when the Fed's internal balance of opinion is genuinely contested, with three of twelve voting policymakers already having pushed for a hike in July. His framing reinforces the camp arguing inflation, not labour softness, should dominate the September debate, even as Friday's surprise July payrolls decline has pulled CME futures pricing toward roughly even odds between a hold and a ",
+   "analysis": {
+    "assets": [
+     {
+      "symbol": "USD",
+      "name": "US Dollar",
+      "direction": "bullish",
+      "confidence": 95,
+      "explanation": "Bullish for US Dollar (95%) - hawkish Fed or strong US data supports the dollar."
+     }
+    ],
+    "overall": "bullish",
+    "score": 0.41,
+    "confidence": 95,
+    "summary": "Bullish (95%) - up, uncertainty, uncertainty, not falling, not decline"
+   }
+  },
+  {
+   "id": "d3b6b7b18c09",
+   "title": "MUFG says Hormuz impasse and hawkish Trump keep RBA hike risk alive",
+   "pubDate": "2026-08-11T23:30:33+00:00",
+   "pubDateDisplay": "Tue, 11 Aug 2026 23:30:33 GMT",
+   "source": "ForexLive",
+   "category": "forex",
+   "categories": [
+    "Central Banks"
+   ],
+   "link": "https://investinglive.com/central-banks/mufg-says-hormuz-impasse-and-hawkish-trump-keep-rba-hike-risk-alive/",
+   "description": "MUFG's framing puts the RBA firmly in the same bucket as other central banks now watching an externally driven inflation shock rather than a domestically generated one, which changes the calculus for how quickly policy might need to respond. The bank reads today's RBA communication as deliberately unhurried rather than dovish, arguing the Board has bought itself time by leaning on softer unemployment and property market signals even while Governor Bullock left the door open to another hike. Mark",
+   "analysis": {
+    "assets": [
+     {
+      "symbol": "6A",
+      "name": "Australian Dollar",
+      "direction": "neutral",
+      "confidence": 50,
+      "explanation": "Neutral impact on Australian Dollar - no clear directional bias."
+     },
+     {
+      "symbol": "6J",
+      "name": "Japanese Yen",
+      "direction": "bearish",
+      "confidence": 95,
+      "explanation": "Bearish for Japanese Yen (95%) - relative weakness in this currency vs peers."
+     },
+     {
+      "symbol": "USD",
+      "name": "US Dollar",
+      "direction": "bullish",
+      "confidence": 95,
+      "explanation": "Bullish for US Dollar (95%) - hawkish Fed or strong US data supports the dollar."
+     },
+     {
+      "symbol": "OIL",
+      "name": "Crude Oil",
+      "direction": "neutral",
+      "confidence": 50,
+      "explanation": "Neutral impact on Crude Oil - no clear directional bias."
+     }
+    ],
+    "overall": "neutral",
+    "score": -0.02,
+    "confidence": 50,
+    "summary": "Neutral / mixed signals"
+   }
+  },
+  {
+   "id": "bbe0063516a0",
+   "title": "GBP/JPY Price Forecast: Struggles at 50-day SMA with bulls near 215.50",
+   "pubDate": "2026-08-11T23:17:17+00:00",
+   "pubDateDisplay": "Tue, 11 Aug 2026 23:17:17 GMT",
+   "source": "FXStreet",
+   "category": "forex",
+   "categories": [],
+   "link": "https://www.fxstreet.com/news/gbp-jpy-price-forecast-struggles-at-50-day-sma-with-bulls-near-21550-202608112317",
+   "description": "The GBP/JPY ended Tuesday\u2019s session unchanged at 215.17 as buyers remained reluctant to test the 50-day Simple Moving Average (SMA) at 215.43, seen as the first resistance level on its way to re-test yearly peaked at around 219.61.",
+   "analysis": {
+    "assets": [
+     {
+      "symbol": "6J",
+      "name": "Japanese Yen",
+      "direction": "neutral",
+      "confidence": 0,
+      "explanation": "Neutral impact on Japanese Yen - no clear directional bias."
+     },
+     {
+      "symbol": "6B",
+      "name": "British Pound",
+      "direction": "neutral",
+      "confidence": 0,
+      "explanation": "Neutral impact on British Pound - no clear directional bias."
+     }
+    ],
+    "overall": "neutral",
+    "score": 0,
+    "confidence": 0,
+    "summary": "Neutral / mixed signals"
+   }
+  },
+  {
+   "id": "6e8b5cd7e944",
+   "title": "Reuters Tankan hits highest manufacturing reading since March on chip boom",
+   "pubDate": "2026-08-11T23:12:19+00:00",
+   "pubDateDisplay": "Tue, 11 Aug 2026 23:12:19 GMT",
+   "source": "ForexLive",
+   "category": "forex",
+   "categories": [
+    "News"
+   ],
+   "link": "https://investinglive.com/news/reuters-tankan-hits-highest-manufacturing-reading-since-march-on-chip-boom/",
+   "description": "The improvement in both readings, and particularly the jump in the chemicals and metal and machinery sub-indexes, points to semiconductor supply chain strength continuing to broaden out across Japan's industrial base rather than staying concentrated in a narrow set of chipmakers. That the manufacturers' index has reached its best level since March suggests the earlier drag from global trade uncertainty has largely faded for exporters tied to chip demand, even as flat transport equipment sentimen",
+   "analysis": {
+    "assets": [
+     {
+      "symbol": "NQ",
+      "name": "Nasdaq 100",
+      "direction": "bearish",
+      "confidence": 95,
+      "explanation": "Bearish for Nasdaq 100 (95%) - risk-off or economic concerns weigh on equities."
+     },
+     {
+      "symbol": "6J",
+      "name": "Japanese Yen",
+      "direction": "bullish",
+      "confidence": 95,
+      "explanation": "Bullish for Japanese Yen (95%) - relative strength in this currency vs peers."
+     },
+     {
+      "symbol": "USD",
+      "name": "US Dollar",
+      "direction": "neutral",
+      "confidence": 0,
+      "explanation": "Neutral impact on US Dollar - no clear directional bias."
+     }
+    ],
+    "overall": "neutral",
+    "score": -0.07,
+    "confidence": 50,
+    "summary": "Neutral / mixed signals"
+   }
+  },
+  {
+   "id": "91140379f6ec",
+   "title": "Singapore Dollar: Decline risks assessed against US Dollar \u2013 OCBC",
+   "pubDate": "2026-08-11T23:07:00+00:00",
+   "pubDateDisplay": "Tue, 11 Aug 2026 23:07:00 GMT",
+   "source": "FXStreet",
+   "category": "forex",
+   "categories": [],
+   "link": "https://www.fxstreet.com/news/singapore-dollar-decline-risks-assessed-against-us-dollar-ocbc-202608112307",
+   "description": "OCBC analysts Sim Moh Siong and Christopher Wong discuss USD/SGD after its post-payroll decline, noting the pair last traded near 1.28 with bearish momentum starting to wane.",
+   "analysis": {
+    "assets": [
+     {
+      "symbol": "USD",
+      "name": "US Dollar",
+      "direction": "neutral",
+      "confidence": 50,
+      "explanation": "Neutral impact on US Dollar - no clear directional bias."
+     }
+    ],
+    "overall": "bearish",
+    "score": -0.33,
+    "confidence": 76,
+    "summary": "Bearish (76%) - decline, bearish"
+   }
+  },
+  {
+   "id": "f8f71b7b48b3",
+   "title": "South Korea Unemployment Rate up to 2.8% in July from previous 2.7%",
+   "pubDate": "2026-08-11T23:00:01+00:00",
+   "pubDateDisplay": "Tue, 11 Aug 2026 23:00:01 GMT",
+   "source": "FXStreet",
+   "category": "forex",
+   "categories": [],
+   "link": "https://www.fxstreet.com/news/south-korea-unemployment-rate-up-to-28-in-july-from-previous-27-202608112300",
+   "description": "",
+   "analysis": {
+    "assets": [],
+    "overall": "bullish",
+    "score": 1.0,
+    "confidence": 64,
+    "summary": "Bullish (64%) - up, up"
+   }
+  },
+  {
+   "id": "5cf598efd69f",
+   "title": "NAB on RBA wording shift: Outlook relatively even handed, sees first rate cut mid-2027",
+   "pubDate": "2026-08-11T22:52:02+00:00",
+   "pubDateDisplay": "Tue, 11 Aug 2026 22:52:02 GMT",
+   "source": "ForexLive",
+   "category": "forex",
+   "categories": [
+    "Central Banks"
+   ],
+   "link": "https://investinglive.com/central-banks/nab-on-rba-wording-shift-outlook-relatively-even-handed-sees-first-rate-cut-mid-2027/",
+   "description": "National Australia Bank analyst framing puts less weight on the RBA's unchanged headline numbers and more on the subtle language shift between June and August, arguing that a smaller output gap and a \"somewhat restrictive\" description of financial conditions together suggest the Board thinks the economy no longer needs to slow further to bring inflation to target. That reading, if it holds, implies a steadier and more predictable growth path than markets may have been pricing, with quarterly GDP",
+   "analysis": {
+    "assets": [
+     {
+      "symbol": "6A",
+      "name": "Australian Dollar",
+      "direction": "neutral",
+      "confidence": 50,
+      "explanation": "Neutral impact on Australian Dollar - no clear directional bias."
+     }
+    ],
+    "overall": "neutral",
+    "score": 0.14,
+    "confidence": 50,
+    "summary": "Neutral / mixed signals"
+   }
+  },
+  {
+   "id": "a5a5d469381a",
+   "title": "CoreWeave stock pops 14% as revenue doubles on accelerating AI infrastructure demand",
+   "pubDate": "2026-08-11T22:51:06+00:00",
+   "pubDateDisplay": "Tue, 11 Aug 2026 22:51:06 GMT",
+   "source": "CNBC",
+   "category": "general",
+   "categories": [],
+   "link": "https://www.cnbc.com/2026/08/11/coreweave-crwv-q2-earnings-report-2026.html",
+   "description": "CoreWeave's revenue is surging as the AI boom continues, but the company is also sitting on $35 billion in debt.",
+   "analysis": {
+    "assets": [],
+    "overall": "neutral",
+    "score": 0,
+    "confidence": 0,
+    "summary": "Neutral / mixed signals"
+   }
+  },
+  {
+   "id": "87158ebce4f8",
+   "title": "The Australian Dollar goes seven weeks without a central bank",
+   "pubDate": "2026-08-11T22:44:18+00:00",
+   "pubDateDisplay": "Tue, 11 Aug 2026 22:44:18 GMT",
+   "source": "FXStreet",
+   "category": "forex",
+   "categories": [],
+   "link": "https://www.fxstreet.com/news/the-australian-dollar-goes-seven-weeks-without-a-central-bank-202608112244",
+   "description": "AUD/USD trades just above 0.7050 on Tuesday August 11, a tenth of a percent firmer inside a 29-pip range, having taken the Reserve Bank of Australia (RBA) decision entirely in its stride.",
+   "analysis": {
+    "assets": [
+     {
+      "symbol": "6A",
+      "name": "Australian Dollar",
+      "direction": "neutral",
+      "confidence": 0,
+      "explanation": "Neutral impact on Australian Dollar - no clear directional bias."
+     },
+     {
+      "symbol": "USD",
+      "name": "US Dollar",
+      "direction": "neutral",
+      "confidence": 0,
+      "explanation": "Neutral impact on US Dollar - no clear directional bias."
+     }
+    ],
+    "overall": "neutral",
+    "score": 0,
+    "confidence": 0,
+    "summary": "Neutral / mixed signals"
+   }
+  },
+  {
+   "id": "d7e9b330556d",
+   "title": "GM reaches up to $4.5 billion parts deal designed to avoid supply chain troubles",
+   "pubDate": "2026-08-11T22:42:10+00:00",
+   "pubDateDisplay": "Tue, 11 Aug 2026 22:42:10 GMT",
+   "source": "CNBC",
+   "category": "general",
+   "categories": [],
+   "link": "https://www.cnbc.com/2026/08/11/gm-makes-4point5-billion-parts-deal-to-bolster-supply-chain.html",
+   "description": "The deal follows years of global automotive supply chain issues for GM and other companies.",
+   "analysis": {
+    "assets": [],
+    "overall": "bullish",
+    "score": 1.0,
+    "confidence": 52,
+    "summary": "Bullish (52%) - up"
+   }
+  },
   {
    "id": "0a003bb507f0",
    "title": "US yields ease as CPI caution offsets Oil rally",
@@ -164,6 +989,39 @@
    "description": "CoreWeave's revenue is surging as the AI boom continues, but the company is also sitting on $35 billion in debt.",
    "analysis": {
     "assets": [],
+    "overall": "neutral",
+    "score": 0,
+    "confidence": 0,
+    "summary": "Neutral / mixed signals"
+   }
+  },
+  {
+   "id": "8da7be8566b2",
+   "title": "Cramer says ask yourself these 3 questions to figure out what's really happening in the market",
+   "pubDate": "2026-08-11T22:15:30+00:00",
+   "pubDateDisplay": "Tue, 11 Aug 2026 22:15:30 GMT",
+   "source": "CNBC",
+   "category": "general",
+   "categories": [],
+   "link": "https://www.cnbc.com/2026/08/11/cramer-questions-figure-out-market.html",
+   "description": "CNBC\u2019s Jim Cramer said investors can quickly gauge the market by focusing on three things: bonds, oil and Nvidia.",
+   "analysis": {
+    "assets": [
+     {
+      "symbol": "OIL",
+      "name": "Crude Oil",
+      "direction": "neutral",
+      "confidence": 0,
+      "explanation": "Neutral impact on Crude Oil - no clear directional bias."
+     },
+     {
+      "symbol": "BONDS",
+      "name": "US Treasuries",
+      "direction": "neutral",
+      "confidence": 0,
+      "explanation": "Neutral impact on US Treasuries - no clear directional bias."
+     }
+    ],
     "overall": "neutral",
     "score": 0,
     "confidence": 0,
@@ -835,6 +1693,24 @@
     "score": 1.0,
     "confidence": 64,
     "summary": "Bullish (64%) - up, higher"
+   }
+  },
+  {
+   "id": "244d1a211071",
+   "title": "Cava\u2019s sales surge as diners swap lettuce for grain bowls and pitas amid food-safety scare",
+   "pubDate": "2026-08-11T20:41:00+00:00",
+   "pubDateDisplay": "Tue, 11 Aug 2026 20:41:00 GMT",
+   "source": "MarketWatch",
+   "category": "general",
+   "categories": [],
+   "link": "https://www.marketwatch.com/story/cava-reports-sales-growth-even-as-some-customers-steer-clear-of-lettuce-044b7f51?mod=mw_rss_topstories",
+   "description": "Cava Group says some diners have switched up their orders to avoid lettuce, but the fast-casual chain has still been able to sport sales growth despite a summer of food-safety scares impacting the restaurant industry writ large.",
+   "analysis": {
+    "assets": [],
+    "overall": "bullish",
+    "score": 1.0,
+    "confidence": 76,
+    "summary": "Bullish (76%) - surge, up, growth"
    }
   },
   {
@@ -2202,24 +3078,6 @@
    }
   },
   {
-   "id": "03de4a05fc4d",
-   "title": "Longtime OpenAI executive Brad Lightcap leaves as shakeup at AI lab continues",
-   "pubDate": "2026-08-11T16:55:53+00:00",
-   "pubDateDisplay": "Tue, 11 Aug 2026 16:55:53 GMT",
-   "source": "CNBC",
-   "category": "general",
-   "categories": [],
-   "link": "https://www.cnbc.com/2026/08/11/longtime-openai-executive-brad-lightcap-leaves-as-shakeup-at-ai-lab-continues.html",
-   "description": "",
-   "analysis": {
-    "assets": [],
-    "overall": "neutral",
-    "score": 0,
-    "confidence": 0,
-    "summary": "Neutral / mixed signals"
-   }
-  },
-  {
    "id": "b0860fa9f498",
    "title": "Invitation Homes CEO says ban on institutional homebuying will bring down prices, but not immediately",
    "pubDate": "2026-08-11T16:54:38+00:00",
@@ -2256,78 +3114,6 @@
    }
   },
   {
-   "id": "2e42fe7253f3",
-   "title": "Flight-Tracking Platform Sues Kalshi Over Flight Cancellation Prediction Markets",
-   "pubDate": "2026-08-11T16:48:00+00:00",
-   "pubDateDisplay": "2026-08-11T16:48:00Z",
-   "source": "Yahoo Finance",
-   "category": "general",
-   "categories": [],
-   "link": "https://www.wsj.com/business/airlines/flight-tracking-platform-sues-kalshi-over-flight-cancellation-prediction-markets-421221d1?siteid=yhoof2&yptr=yahoo",
-   "description": "",
-   "analysis": {
-    "assets": [],
-    "overall": "neutral",
-    "score": 0,
-    "confidence": 0,
-    "summary": "Neutral / mixed signals"
-   }
-  },
-  {
-   "id": "16c50e63921a",
-   "title": "MoneyGram brings cash-to-crypto service to Solana",
-   "pubDate": "2026-08-11T16:35:46+00:00",
-   "pubDateDisplay": "2026-08-11T16:35:46Z",
-   "source": "Yahoo Finance",
-   "category": "general",
-   "categories": [],
-   "link": "https://finance.yahoo.com/markets/crypto/articles/moneygram-brings-cash-crypto-solana-163546890.html",
-   "description": "",
-   "analysis": {
-    "assets": [],
-    "overall": "neutral",
-    "score": 0,
-    "confidence": 0,
-    "summary": "Neutral / mixed signals"
-   }
-  },
-  {
-   "id": "f9596a40b287",
-   "title": "A town outside of Boston is the hottest ZIP code in the US \u2014 you may need $50,000 over asking price to buy a home there",
-   "pubDate": "2026-08-11T16:35:00+00:00",
-   "pubDateDisplay": "2026-08-11T16:35:00Z",
-   "source": "Yahoo Finance",
-   "category": "general",
-   "categories": [],
-   "link": "https://finance.yahoo.com/real-estate/articles/town-outside-boston-hottest-zip-163500603.html",
-   "description": "",
-   "analysis": {
-    "assets": [],
-    "overall": "bullish",
-    "score": 1.0,
-    "confidence": 64,
-    "summary": "Bullish (64%) - buy, buy"
-   }
-  },
-  {
-   "id": "f4dd88a3f320",
-   "title": "Warren Buffett Has Always Said This 1 Thing About Long-Term Investing. History Has Never Once Proved Him Wrong.",
-   "pubDate": "2026-08-11T16:35:00+00:00",
-   "pubDateDisplay": "2026-08-11T16:35:00Z",
-   "source": "Yahoo Finance",
-   "category": "general",
-   "categories": [],
-   "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-always-said-1-163500459.html",
-   "description": "",
-   "analysis": {
-    "assets": [],
-    "overall": "neutral",
-    "score": 0,
-    "confidence": 0,
-    "summary": "Neutral / mixed signals"
-   }
-  },
-  {
    "id": "6439f660c1f1",
    "title": "Fed's Goolsbee: Biggest problem facing the economy is inflation",
    "pubDate": "2026-08-11T16:34:08+00:00",
@@ -2353,224 +3139,6 @@
     "score": 1.0,
     "confidence": 52,
     "summary": "Bullish (52%) - not inflation"
-   }
-  },
-  {
-   "id": "4681eca21220",
-   "title": "Michael Burry sends warning on one of Wall Street's top stocks",
-   "pubDate": "2026-08-11T16:33:00+00:00",
-   "pubDateDisplay": "2026-08-11T16:33:00Z",
-   "source": "Yahoo Finance",
-   "category": "general",
-   "categories": [],
-   "link": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-sends-warning-one-163300369.html",
-   "description": "",
-   "analysis": {
-    "assets": [
-     {
-      "symbol": "ES",
-      "name": "S&P 500",
-      "direction": "neutral",
-      "confidence": 0,
-      "explanation": "Neutral impact on S&P 500 - no clear directional bias."
-     }
-    ],
-    "overall": "neutral",
-    "score": 0,
-    "confidence": 0,
-    "summary": "Neutral / mixed signals"
-   }
-  },
-  {
-   "id": "63499082147a",
-   "title": "CoreWeave Earnings Prediction Market Preview: What Will the AI Cloud Company Say About Nvidia and Anthropic?",
-   "pubDate": "2026-08-11T16:32:51+00:00",
-   "pubDateDisplay": "2026-08-11T16:32:51Z",
-   "source": "Yahoo Finance",
-   "category": "general",
-   "categories": [],
-   "link": "https://finance.yahoo.com/markets/stocks/articles/coreweave-earnings-prediction-market-preview-163251271.html",
-   "description": "",
-   "analysis": {
-    "assets": [],
-    "overall": "neutral",
-    "score": 0,
-    "confidence": 0,
-    "summary": "Neutral / mixed signals"
-   }
-  },
-  {
-   "id": "1f311f88c2b3",
-   "title": "The Biggest Market Movers: Aehr Test Systems Climbs on Strong Earnings",
-   "pubDate": "2026-08-11T16:32:39+00:00",
-   "pubDateDisplay": "2026-08-11T16:32:39Z",
-   "source": "Yahoo Finance",
-   "category": "general",
-   "categories": [],
-   "link": "https://finance.yahoo.com/markets/stocks/articles/biggest-market-movers-aehr-test-163239449.html",
-   "description": "",
-   "analysis": {
-    "assets": [],
-    "overall": "bullish",
-    "score": 1.0,
-    "confidence": 88,
-    "summary": "Bullish (88%) - climbs, climbs, strong, strong"
-   }
-  },
-  {
-   "id": "29650d309e20",
-   "title": "Walmart Earnings Are Due. This Short-Term Options Trade Could Post A 14% Return.",
-   "pubDate": "2026-08-11T16:31:36+00:00",
-   "pubDateDisplay": "2026-08-11T16:31:36Z",
-   "source": "Yahoo Finance",
-   "category": "general",
-   "categories": [],
-   "link": "https://www.investors.com/research/options/walmart-stock-wmt-retail-earnings-options-trade-markets-strategy-income-return/?src=A00220&yptr=yahoo",
-   "description": "",
-   "analysis": {
-    "assets": [],
-    "overall": "neutral",
-    "score": 0,
-    "confidence": 0,
-    "summary": "Neutral / mixed signals"
-   }
-  },
-  {
-   "id": "5d413d155fa7",
-   "title": "Auto & Transport Roundup: Market Talk",
-   "pubDate": "2026-08-11T16:31:00+00:00",
-   "pubDateDisplay": "2026-08-11T16:31:00Z",
-   "source": "Yahoo Finance",
-   "category": "general",
-   "categories": [],
-   "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-1303721d?siteid=yhoof2&yptr=yahoo",
-   "description": "",
-   "analysis": {
-    "assets": [],
-    "overall": "neutral",
-    "score": 0,
-    "confidence": 0,
-    "summary": "Neutral / mixed signals"
-   }
-  },
-  {
-   "id": "0a5343fe14fb",
-   "title": "Nvidia\u2019s Next Act: Can NVDA Defy Gravity Again?",
-   "pubDate": "2026-08-11T16:30:23+00:00",
-   "pubDateDisplay": "2026-08-11T16:30:23Z",
-   "source": "Yahoo Finance",
-   "category": "general",
-   "categories": [],
-   "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-next-act-nvda-defy-163023473.html",
-   "description": "",
-   "analysis": {
-    "assets": [],
-    "overall": "neutral",
-    "score": 0,
-    "confidence": 0,
-    "summary": "Neutral / mixed signals"
-   }
-  },
-  {
-   "id": "d241b06cf86e",
-   "title": "Coupang Keeps Falling: Why One Analyst Expects the Amazon of South Korea to Jump Nearly 100%",
-   "pubDate": "2026-08-11T16:30:09+00:00",
-   "pubDateDisplay": "2026-08-11T16:30:09Z",
-   "source": "Yahoo Finance",
-   "category": "general",
-   "categories": [],
-   "link": "https://finance.yahoo.com/markets/stocks/articles/coupang-keeps-falling-why-one-163009565.html",
-   "description": "",
-   "analysis": {
-    "assets": [],
-    "overall": "neutral",
-    "score": 0.0,
-    "confidence": 50,
-    "summary": "Neutral / mixed signals"
-   }
-  },
-  {
-   "id": "bbb0fc6eecf6",
-   "title": "Dow Jones AI Giants Nvidia, Amazon In Or Near Buy Zones; Avnet, Okta Are Stocks To Watch",
-   "pubDate": "2026-08-11T16:28:03+00:00",
-   "pubDateDisplay": "2026-08-11T16:28:03Z",
-   "source": "Yahoo Finance",
-   "category": "general",
-   "categories": [],
-   "link": "https://www.investors.com/stock-lists/stocks-near-a-buy-zone/dow-jones-ai-giants-nvidia-stock-nvda-amazon-amzn/?src=A00220&yptr=yahoo",
-   "description": "",
-   "analysis": {
-    "assets": [
-     {
-      "symbol": "ES",
-      "name": "S&P 500",
-      "direction": "bullish",
-      "confidence": 64,
-      "explanation": "Bullish for S&P 500 (64%) - risk-on sentiment or positive data supports equity indices."
-     },
-     {
-      "symbol": "YM",
-      "name": "Dow Jones",
-      "direction": "bullish",
-      "confidence": 64,
-      "explanation": "Bullish for Dow Jones (64%) - risk-on sentiment or positive data supports equity indices."
-     }
-    ],
-    "overall": "bullish",
-    "score": 1.0,
-    "confidence": 64,
-    "summary": "Bullish (64%) - buy, buy"
-   }
-  },
-  {
-   "id": "cc50db58e1d9",
-   "title": "Australian Dollar Price Forecast: Looking to extend the recovery",
-   "pubDate": "2026-08-11T16:26:32+00:00",
-   "pubDateDisplay": "Tue, 11 Aug 2026 16:26:32 GMT",
-   "source": "FXStreet",
-   "category": "forex",
-   "categories": [],
-   "link": "https://www.fxstreet.com/analysis/australian-dollar-price-forecast-looking-to-extend-the-recovery-202608111626",
-   "description": "The Aussie Dollar's recovery appears to have met some resistance in the 0.7070-0.7080 band against the US Dollar so far. Indeed, AUD/USD still shows signs of struggling to surpass 0.7000 in a sustainable fashion, while the constructive outlook still appears unchanged above its key 200-day SMA.",
-   "analysis": {
-    "assets": [
-     {
-      "symbol": "6A",
-      "name": "Australian Dollar",
-      "direction": "bullish",
-      "confidence": 52,
-      "explanation": "Bullish for Australian Dollar (52%) - relative strength in this currency vs peers."
-     },
-     {
-      "symbol": "USD",
-      "name": "US Dollar",
-      "direction": "bullish",
-      "confidence": 52,
-      "explanation": "Bullish for US Dollar (52%) - hawkish Fed or strong US data supports the dollar."
-     }
-    ],
-    "overall": "bullish",
-    "score": 1.0,
-    "confidence": 52,
-    "summary": "Bullish (52%) - surpass"
-   }
-  },
-  {
-   "id": "70539096ccc8",
-   "title": "Government fights trade judge\u2019s order for tariff refunds to all importers",
-   "pubDate": "2026-08-11T16:25:01+00:00",
-   "pubDateDisplay": "2026-08-11T16:25:01Z",
-   "source": "Yahoo Finance",
-   "category": "general",
-   "categories": [],
-   "link": "https://finance.yahoo.com/economy/policy/articles/government-fights-trade-judge-order-162501578.html",
-   "description": "",
-   "analysis": {
-    "assets": [],
-    "overall": "bullish",
-    "score": 1.0,
-    "confidence": 64,
-    "summary": "Bullish (64%) - tariff, tariff"
    }
   },
   {
@@ -2669,57 +3237,6 @@
    }
   },
   {
-   "id": "20894ab3038d",
-   "title": "Cramer: Intel may have something up its sleeve; Nvidia's financing push is 'monumentally positive'",
-   "pubDate": "2026-08-11T16:21:35+00:00",
-   "pubDateDisplay": "Tue, 11 Aug 2026 16:21:35 GMT",
-   "source": "CNBC",
-   "category": "general",
-   "categories": [],
-   "link": "https://www.cnbc.com/2026/08/11/cramer-intel-may-have-something-up-its-sleeve-nvidias-financing-push-is-positive.html",
-   "description": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
-   "analysis": {
-    "assets": [],
-    "overall": "bullish",
-    "score": 1.0,
-    "confidence": 64,
-    "summary": "Bullish (64%) - up, positive"
-   }
-  },
-  {
-   "id": "7c61ce4bbab3",
-   "title": "Iran took back the Dow Jones Industrial Average breakout",
-   "pubDate": "2026-08-11T16:21:26+00:00",
-   "pubDateDisplay": "Tue, 11 Aug 2026 16:21:26 GMT",
-   "source": "FXStreet",
-   "category": "forex",
-   "categories": [],
-   "link": "https://www.fxstreet.com/news/iran-took-back-the-dow-jones-industrial-average-breakout-202608111621",
-   "description": "The Dow Jones Industrial Average broke the three-session coil that had pinned it beneath its record, traded up through 54,200, and has since surrendered the entire move.",
-   "analysis": {
-    "assets": [
-     {
-      "symbol": "ES",
-      "name": "S&P 500",
-      "direction": "bullish",
-      "confidence": 64,
-      "explanation": "Bullish for S&P 500 (64%) - risk-on sentiment or positive data supports equity indices."
-     },
-     {
-      "symbol": "YM",
-      "name": "Dow Jones",
-      "direction": "bullish",
-      "confidence": 64,
-      "explanation": "Bullish for Dow Jones (64%) - risk-on sentiment or positive data supports equity indices."
-     }
-    ],
-    "overall": "bullish",
-    "score": 1.0,
-    "confidence": 64,
-    "summary": "Bullish (64%) - up, breakout"
-   }
-  },
-  {
    "id": "6cbe67e28876",
    "title": "Manus to return as independent company after China forced Meta to unwind $2 billion deal",
    "pubDate": "2026-08-11T16:12:27+00:00",
@@ -2738,34 +3255,6 @@
    }
   },
   {
-   "id": "6b139eb57d0e",
-   "title": "NZDUSD trades within a 49 pip trading range over the last 7 trading days. That is not a lot.",
-   "pubDate": "2026-08-11T15:45:43+00:00",
-   "pubDateDisplay": "Tue, 11 Aug 2026 15:45:43 GMT",
-   "source": "ForexLive",
-   "category": "forex",
-   "categories": [
-    "Technical Analysis"
-   ],
-   "link": "https://investinglive.com/technical-analysis/nzdusd-trades-within-a-49-pip-trading-range-over-the-last-7-trading-days-that-is-not-a-lot/",
-   "description": "The NZDUSD has been stuck in a narrow 49-pip trading range over the last seven trading days, highlighting a market that has seen plenty of intraday and day-to-day price action but very little net progress.The broader move had been more bullish following the June 26 low, but that momentum has transitioned into a more neutral, consolidative phase. Evidence of that balance can be seen in the 100-hour and 200-hour moving averages, which have converged near 0.5878\u20130.58799. The sideways price action h",
-   "analysis": {
-    "assets": [
-     {
-      "symbol": "6N",
-      "name": "NZ Dollar",
-      "direction": "neutral",
-      "confidence": 0,
-      "explanation": "Neutral impact on NZ Dollar - no clear directional bias."
-     }
-    ],
-    "overall": "bullish",
-    "score": 0.33,
-    "confidence": 76,
-    "summary": "Bullish (76%) - bullish, breakout"
-   }
-  },
-  {
    "id": "d38ab94ed44b",
    "title": "Target appoints its first chief AI officer as big retailers bet on AI",
    "pubDate": "2026-08-11T15:44:43+00:00",
@@ -2781,48 +3270,6 @@
     "score": 0,
     "confidence": 0,
     "summary": "Neutral / mixed signals"
-   }
-  },
-  {
-   "id": "8e003eb4173a",
-   "title": "The buzzwords in the AI investment space are a red flag",
-   "pubDate": "2026-08-11T15:37:21+00:00",
-   "pubDateDisplay": "Tue, 11 Aug 2026 15:37:21 GMT",
-   "source": "ForexLive",
-   "category": "forex",
-   "categories": [
-    "Stocks"
-   ],
-   "link": "https://investinglive.com/stocks/the-buzzwords-in-the-ai-investment-space-are-a-red-flag/",
-   "description": "So the latest buzzword -- or buzzphrase -- is that \"Compute is an investable asset class\".It's a line that Nvidia CEO Jensen Huang is touting and it's throwing up all kinds of red flags for me. Firstly, I'm reminded of very similar wording around crypto near the top, just at the time the Wall Street investment banks piled in. It was ultimately a huge bait-and-switch as mom & pop investors were lured in to be exit liquidity for early investors.Now, we have Huang announcing a partnership with Apol",
-   "analysis": {
-    "assets": [
-     {
-      "symbol": "GC",
-      "name": "Gold",
-      "direction": "neutral",
-      "confidence": 0,
-      "explanation": "Neutral impact on Gold - no clear directional bias."
-     },
-     {
-      "symbol": "ES",
-      "name": "S&P 500",
-      "direction": "neutral",
-      "confidence": 0,
-      "explanation": "Neutral impact on S&P 500 - no clear directional bias."
-     },
-     {
-      "symbol": "NQ",
-      "name": "Nasdaq 100",
-      "direction": "neutral",
-      "confidence": 0,
-      "explanation": "Neutral impact on Nasdaq 100 - no clear directional bias."
-     }
-    ],
-    "overall": "bullish",
-    "score": 0.43,
-    "confidence": 95,
-    "summary": "Bullish (95%) - rising, up, up, not sell, not risk"
    }
   },
   {
@@ -2895,41 +3342,6 @@
    }
   },
   {
-   "id": "0b628ac5c5e5",
-   "title": "Nasdaq and S&P indices little changed on the day. What are the technicals telling traders?",
-   "pubDate": "2026-08-11T14:47:21+00:00",
-   "pubDateDisplay": "Tue, 11 Aug 2026 14:47:21 GMT",
-   "source": "ForexLive",
-   "category": "forex",
-   "categories": [
-    "Technical Analysis"
-   ],
-   "link": "https://investinglive.com/technical-analysis/nasdaq-and-s-p-indices-little-changed-on-the-day-what-are-the-technicals-telling-traders/",
-   "description": "The broader S&P and Nasdaq indices are mixed in intraday trading, with the S&P currently up around 0.07% while the Nasdaq is down -0.08%.For the S&P index, the technical picture remains bullish as the index trades near its all-time high of 7793.68, reached during last week\u2019s trading. A break above that level would put the focus on an upward-sloping trendline connecting recent highs on the hourly chart. That trendline currently comes in near 7850.00 and is moving higher.Recall that last Tuesday, ",
-   "analysis": {
-    "assets": [
-     {
-      "symbol": "ES",
-      "name": "S&P 500",
-      "direction": "bullish",
-      "confidence": 88,
-      "explanation": "Bullish for S&P 500 (88%) - risk-on sentiment or positive data supports equity indices."
-     },
-     {
-      "symbol": "NQ",
-      "name": "Nasdaq 100",
-      "direction": "neutral",
-      "confidence": 50,
-      "explanation": "Neutral impact on Nasdaq 100 - no clear directional bias."
-     }
-    ],
-    "overall": "bullish",
-    "score": 0.67,
-    "confidence": 95,
-    "summary": "Bullish (95%) - bullish, bullish, up, higher, record high"
-   }
-  },
-  {
    "id": "a2d81072ca07",
    "title": "Intel upsizes stock offering to $20 billion at $95 per share as AI demand accelerates",
    "pubDate": "2026-08-11T14:45:44+00:00",
@@ -2974,142 +3386,6 @@
    }
   },
   {
-   "id": "3238bda35165",
-   "title": "Another grocery chain quietly shuts down more stores",
-   "pubDate": "2026-08-11T14:07:00+00:00",
-   "pubDateDisplay": "2026-08-11T14:07:00Z",
-   "source": "Yahoo Finance",
-   "category": "general",
-   "categories": [],
-   "link": "https://finance.yahoo.com/real-estate/articles/another-grocery-chain-quietly-shuts-140700813.html",
-   "description": "",
-   "analysis": {
-    "assets": [],
-    "overall": "bullish",
-    "score": 1.0,
-    "confidence": 64,
-    "summary": "Bullish (64%) - not down, not down"
-   }
-  },
-  {
-   "id": "6cace65216e6",
-   "title": "US July existing home sales 4.06m vs 4.05m expected",
-   "pubDate": "2026-08-11T14:00:11+00:00",
-   "pubDateDisplay": "Tue, 11 Aug 2026 14:00:11 GMT",
-   "source": "ForexLive",
-   "category": "forex",
-   "categories": [
-    "News"
-   ],
-   "link": "https://investinglive.com/news/us-july-existing-home-sales-4-06m-vs-4-05m-expected/",
-   "description": "Prior was 4.09m (revised to 4.13m)Sales -1.7% vs -2.4% prior (revised to -1.4%)Home prices +2.0% y/yMedian price $434,100Inventory at 4.6 months vs 4.6 months priorThe housing market is in a steady state that isn't helped by high mortgage rates due to rising Treasury yields. There is some steady growth in that chart but when you discount it against CPI, there is a slight-but-steady improvement in affordability. The key question next is what will happen to borrowing rates from here. There is also",
-   "analysis": {
-    "assets": [
-     {
-      "symbol": "USD",
-      "name": "US Dollar",
-      "direction": "bearish",
-      "confidence": 52,
-      "explanation": "Bearish for US Dollar (52%) - dovish Fed or weak US data weakens the dollar."
-     },
-     {
-      "symbol": "BONDS",
-      "name": "US Treasuries",
-      "direction": "bearish",
-      "confidence": 52,
-      "explanation": "Bearish for US Treasuries (52%) - rate hike expectations or inflation fears hit bonds."
-     }
-    ],
-    "overall": "bullish",
-    "score": 0.83,
-    "confidence": 95,
-    "summary": "Bullish (95%) - rising, rose, rose, rose, gains"
-   }
-  },
-  {
-   "id": "39857fa36544",
-   "title": "Pakistani minister comments weigh on oil",
-   "pubDate": "2026-08-11T13:49:13+00:00",
-   "pubDateDisplay": "Tue, 11 Aug 2026 13:49:13 GMT",
-   "source": "ForexLive",
-   "category": "forex",
-   "categories": [
-    "Commodities"
-   ],
-   "link": "https://investinglive.com/commodities/pakistani-minister-comments-weigh-on-oil/",
-   "description": "Pakistan defense minister Khawaja Asif told Bloomberg that \u201cthings are shaping up again in favor of a peace arrangement or a deal,\u201d on Hormuz shipping transits.That's a sharp turnabout after yesterday Trump escalated rhetoric and called for US reparations in response to a similar Iranian call. The countries are close to \u201csome sort of arrangement\u201d over the Strait of Hormuz he said. \u201cThe signals in the last two to three days are that we are close to some sort of an arrangement,\u201d he added.It's not ",
-   "analysis": {
-    "assets": [
-     {
-      "symbol": "OIL",
-      "name": "Crude Oil",
-      "direction": "bullish",
-      "confidence": 52,
-      "explanation": "Bullish for Crude Oil (52%) - supply concerns or demand growth lifts crude prices."
-     }
-    ],
-    "overall": "bullish",
-    "score": 1.0,
-    "confidence": 95,
-    "summary": "Bullish (95%) - rose, up, higher, not down, not lower"
-   }
-  },
-  {
-   "id": "8bdbfce2a277",
-   "title": "AUDUSD is higher in the day after the RBA rate decision",
-   "pubDate": "2026-08-11T13:41:21+00:00",
-   "pubDateDisplay": "Tue, 11 Aug 2026 13:41:21 GMT",
-   "source": "ForexLive",
-   "category": "forex",
-   "categories": [
-    "Technical Analysis"
-   ],
-   "link": "https://investinglive.com/technical-analysis/audusd-is-higher-in-the-day-after-the-rba-rate-decision/",
-   "description": "The RBA kept rates unchanged, but the message from the central bank remains firmly in the hold-or-hike camp. Rate cuts are not currently part of the discussion, and the next move could still be higher if inflation and cost pressures fail to ease. That more hawkish stance has ultimately helped support the AUDUSD today.The initial reaction to the RBA decision was relatively muted, with the AUDUSD actually moving lower after the announcement. The price fell back below both the 100-day and 100-hour ",
-   "analysis": {
-    "assets": [
-     {
-      "symbol": "6A",
-      "name": "Australian Dollar",
-      "direction": "bullish",
-      "confidence": 76,
-      "explanation": "Bullish for Australian Dollar (76%) - relative strength in this currency vs peers."
-     },
-     {
-      "symbol": "USD",
-      "name": "US Dollar",
-      "direction": "neutral",
-      "confidence": 0,
-      "explanation": "Neutral impact on US Dollar - no clear directional bias."
-     }
-    ],
-    "overall": "bullish",
-    "score": 0.2,
-    "confidence": 95,
-    "summary": "Bullish (95%) - rising, rebound, rebound, bullish, higher"
-   }
-  },
-  {
-   "id": "0d0c7ec577d4",
-   "title": "USDCAD trades in a narrow range with the selling capped vs a swing area and buyers supported by the 100 day MA.",
-   "pubDate": "2026-08-11T13:02:00+00:00",
-   "pubDateDisplay": "Tue, 11 Aug 2026 13:02:00 GMT",
-   "source": "ForexLive",
-   "category": "forex",
-   "categories": [
-    "Technical Analysis"
-   ],
-   "link": "https://investinglive.com/technical-analysis/usdcad-trades-in-a-narrow-range-with-the-selling-capped-vs-a-swing-area-and-buyers-supported-by-the-100-day-ma/",
-   "description": "The USDCAD is trading in a very narrow 16-pip range today, with buyers and sellers battling for control near a key technical support level. That is not a lot of movement, and at some point the range will break. Traders will then look for momentum in the direction of that break.The broader bias remains tilted to the downside following Friday's stronger-than-expected Canadian jobs report and weaker-than-expected US employment report. Those releases sent the USDCAD sharply lower, away from its fall",
-   "analysis": {
-    "assets": [],
-    "overall": "neutral",
-    "score": 0.09,
-    "confidence": 50,
-    "summary": "Neutral / mixed signals"
-   }
-  },
-  {
    "id": "9f6d5f81c622",
    "title": "Zelenskyy warns Putin is preparing for escalation by bringing in North Korean military equipment",
    "pubDate": "2026-08-11T12:55:25+00:00",
@@ -3125,68 +3401,6 @@
     "score": 0,
     "confidence": 0,
     "summary": "Neutral / mixed signals"
-   }
-  },
-  {
-   "id": "784376422fc6",
-   "title": "What are the technicals in the EURUSD, USDJPY and GBPUSD telling traders to start the NA session",
-   "pubDate": "2026-08-11T12:16:15+00:00",
-   "pubDateDisplay": "Tue, 11 Aug 2026 12:16:15 GMT",
-   "source": "ForexLive",
-   "category": "forex",
-   "categories": [
-    "Technical Analysis"
-   ],
-   "link": "https://investinglive.com/technical-analysis/what-are-the-technicals-in-the-eurusd-usdjpy-and-gbpusd-telling-traders-to-start-the-na-session/",
-   "description": "This article was written by Greg Michalowski at investinglive.com.",
-   "analysis": {
-    "assets": [
-     {
-      "symbol": "6E",
-      "name": "Euro",
-      "direction": "neutral",
-      "confidence": 0,
-      "explanation": "Neutral impact on Euro - no clear directional bias."
-     },
-     {
-      "symbol": "6J",
-      "name": "Japanese Yen",
-      "direction": "neutral",
-      "confidence": 0,
-      "explanation": "Neutral impact on Japanese Yen - no clear directional bias."
-     },
-     {
-      "symbol": "6B",
-      "name": "British Pound",
-      "direction": "neutral",
-      "confidence": 0,
-      "explanation": "Neutral impact on British Pound - no clear directional bias."
-     }
-    ],
-    "overall": "neutral",
-    "score": 0,
-    "confidence": 0,
-    "summary": "Neutral / mixed signals"
-   }
-  },
-  {
-   "id": "1443004c09ea",
-   "title": "ADP weekly NER pulse 8.25K vs 15K prior",
-   "pubDate": "2026-08-11T12:15:53+00:00",
-   "pubDateDisplay": "Tue, 11 Aug 2026 12:15:53 GMT",
-   "source": "ForexLive",
-   "category": "forex",
-   "categories": [
-    "News"
-   ],
-   "link": "https://investinglive.com/news/adp-weekly-ner-pulse-vs-15k-prior/",
-   "description": "Prior was 15.0KFor the four weeks ending July 25, 2026, US private employers added an average of 8,250 jobs a week down from 15,000 last week.What is this release?Initiated in late 2025, ADP releases the NER Pulse, an estimate of the week-over-week change in employment based on a four-week moving average. These releases are seasonally adjusted and have a two-week lag to allow for more complete and accurate estimates of real-time employment trends. At the beginning of each month, ADP publishes th",
-   "analysis": {
-    "assets": [],
-    "overall": "bearish",
-    "score": -1.0,
-    "confidence": 52,
-    "summary": "Bearish (52%) - down"
    }
   },
   {
@@ -3230,55 +3444,6 @@
     "score": 0.5,
     "confidence": 95,
     "summary": "Bullish (95%) - rising, rose, gains, strong, higher"
-   }
-  },
-  {
-   "id": "dbe69eb1fb5d",
-   "title": "investingLive European FX news wrap: RBA holds steady, Iran-Oman close to Hormuz deal",
-   "pubDate": "2026-08-11T11:35:05+00:00",
-   "pubDateDisplay": "Tue, 11 Aug 2026 11:35:05 GMT",
-   "source": "ForexLive",
-   "category": "forex",
-   "categories": [
-    "News"
-   ],
-   "link": "https://investinglive.com/news/investinglive-european-fx-news-wrap-rba-holds-steady-iran-oman-close-to-hormuz-deal/",
-   "description": "US July NFIB small business optimism index 99.8 vs 97.5 expectedAnother cargo ship reportedly struck by the Houthis in the Red SeaUK stats office to only decide in July next year on plausibility of transition to improved labour market dataItaly trade surplus widens to \u20ac4.2 billion in June as exports accelerateThe S&P 500 rally stalls as US-Iran deal gets delayed and the focus shifts to the US CPI reportYen buying likely to stay more muted for the time being - MUFGGold extends the rally after the",
-   "analysis": {
-    "assets": [
-     {
-      "symbol": "ES",
-      "name": "S&P 500",
-      "direction": "bullish",
-      "confidence": 76,
-      "explanation": "Bullish for S&P 500 (76%) - risk-on sentiment or positive data supports equity indices."
-     },
-     {
-      "symbol": "6A",
-      "name": "Australian Dollar",
-      "direction": "bullish",
-      "confidence": 95,
-      "explanation": "Bullish for Australian Dollar (95%) - relative strength in this currency vs peers."
-     },
-     {
-      "symbol": "USD",
-      "name": "US Dollar",
-      "direction": "bearish",
-      "confidence": 52,
-      "explanation": "Bearish for US Dollar (52%) - dovish Fed or weak US data weakens the dollar."
-     },
-     {
-      "symbol": "OIL",
-      "name": "Crude Oil",
-      "direction": "bullish",
-      "confidence": 64,
-      "explanation": "Bullish for Crude Oil (64%) - supply concerns or demand growth lifts crude prices."
-     }
-    ],
-    "overall": "bullish",
-    "score": 0.24,
-    "confidence": 95,
-    "summary": "Bullish (95%) - rose, rally, rally, optimism, optimism"
    }
   },
   {
@@ -3474,60 +3639,6 @@
    "categories": [],
    "link": "https://finance.yahoo.com/research/reports/ARGUS_2754_AnalystReport_1786446725000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
    "description": "",
-   "analysis": {
-    "assets": [],
-    "overall": "neutral",
-    "score": 0,
-    "confidence": 0,
-    "summary": "Neutral / mixed signals"
-   }
-  },
-  {
-   "id": "4d6eb87cdc84",
-   "title": "FIFA World Cup 'will never be as profitable' if Infantino is ousted, Trump warns amid global soccer revolt",
-   "pubDate": "2026-08-11T10:17:53+00:00",
-   "pubDateDisplay": "Tue, 11 Aug 2026 10:17:53 GMT",
-   "source": "CNBC",
-   "category": "general",
-   "categories": [],
-   "link": "https://www.cnbc.com/2026/08/11/trump-world-cup-infantino-profit.html",
-   "description": "President Gianni Infantino pushed FIFA's commercialization drive, which culminated in the largest, most profitable World Cup on record",
-   "analysis": {
-    "assets": [],
-    "overall": "neutral",
-    "score": 0,
-    "confidence": 0,
-    "summary": "Neutral / mixed signals"
-   }
-  },
-  {
-   "id": "f3b1739a0e65",
-   "title": "Hotel giant says \u2018growing middle class\u2019 boosted hotel demand despite Middle East hit",
-   "pubDate": "2026-08-11T10:06:07+00:00",
-   "pubDateDisplay": "Tue, 11 Aug 2026 10:06:07 GMT",
-   "source": "CNBC",
-   "category": "general",
-   "categories": [],
-   "link": "https://www.cnbc.com/2026/08/11/ihg-profit-us-travel-middle-east.html",
-   "description": "IHG reported higher first-half profit as U.S. demand accelerated and Middle East disruption weighed on travel.",
-   "analysis": {
-    "assets": [],
-    "overall": "bullish",
-    "score": 1.0,
-    "confidence": 64,
-    "summary": "Bullish (64%) - boosted, higher"
-   }
-  },
-  {
-   "id": "29406581f48b",
-   "title": "U.S. judge ends graft case against Indian billionaire Gautam Adani",
-   "pubDate": "2026-08-11T09:57:10+00:00",
-   "pubDateDisplay": "Tue, 11 Aug 2026 09:57:10 GMT",
-   "source": "CNBC",
-   "category": "general",
-   "categories": [],
-   "link": "https://www.cnbc.com/2026/08/11/us-judge-ends-graft-case-against-indian-billionaire-gautam-adani.html",
-   "description": "A U.S. federal judge has approved the Department of Justice's decision to dismiss the criminal probe against Indian billionaire Gautam Adani on graft charges.",
    "analysis": {
     "assets": [],
     "overall": "neutral",
@@ -3751,24 +3862,6 @@
    }
   },
   {
-   "id": "1afe50f486c6",
-   "title": "Does renters insurance cover theft?",
-   "pubDate": "2026-08-10T18:03:53+00:00",
-   "pubDateDisplay": "2026-08-10T18:03:53Z",
-   "source": "Yahoo Finance",
-   "category": "general",
-   "categories": [],
-   "link": "https://finance.yahoo.com/personal-finance/insurance/article/does-renters-insurance-cover-theft-180353254.html",
-   "description": "",
-   "analysis": {
-    "assets": [],
-    "overall": "neutral",
-    "score": 0,
-    "confidence": 0,
-    "summary": "Neutral / mixed signals"
-   }
-  },
-  {
    "id": "9f828f40c315",
    "title": "Does renters insurance cover fire?",
    "pubDate": "2026-08-10T17:24:17+00:00",
@@ -3823,6 +3916,132 @@
    }
   },
   {
+   "id": "6dc1c007ffdb",
+   "title": "Redwire Takes Off on Solid Q2 Results. How to Play RDW Stock Here.",
+   "pubDate": "2026-08-10T14:57:59+00:00",
+   "pubDateDisplay": "2026-08-10T14:57:59Z",
+   "source": "Yahoo Finance",
+   "category": "general",
+   "categories": [],
+   "link": "https://finance.yahoo.com/markets/stocks/articles/redwire-takes-off-solid-q2-145759528.html",
+   "description": "",
+   "analysis": {
+    "assets": [],
+    "overall": "neutral",
+    "score": 0,
+    "confidence": 0,
+    "summary": "Neutral / mixed signals"
+   }
+  },
+  {
+   "id": "53daf13c4612",
+   "title": "Cathie Wood Ignores AI Panic \u2014 Buys More Nvidia, Sells This Gaming Stock Instead",
+   "pubDate": "2026-08-10T14:57:50+00:00",
+   "pubDateDisplay": "2026-08-10T14:57:50Z",
+   "source": "Yahoo Finance",
+   "category": "general",
+   "categories": [],
+   "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-ignores-ai-panic-145750434.html",
+   "description": "",
+   "analysis": {
+    "assets": [],
+    "overall": "neutral",
+    "score": 0,
+    "confidence": 0,
+    "summary": "Neutral / mixed signals"
+   }
+  },
+  {
+   "id": "8280a398d102",
+   "title": "Is Netflix\u2019s (NFLX) Long-Term Dominance Under Threat?",
+   "pubDate": "2026-08-10T14:57:00+00:00",
+   "pubDateDisplay": "2026-08-10T14:57:00Z",
+   "source": "Yahoo Finance",
+   "category": "general",
+   "categories": [],
+   "link": "https://finance.yahoo.com/media-advertising/articles/netflix-nflx-long-term-dominance-145700986.html",
+   "description": "",
+   "analysis": {
+    "assets": [],
+    "overall": "neutral",
+    "score": 0,
+    "confidence": 0,
+    "summary": "Neutral / mixed signals"
+   }
+  },
+  {
+   "id": "22ad447e8579",
+   "title": "Here\u2019s Why Sands Capital Technology Innovators Fund Sold Roblox Corporation (RBLX)",
+   "pubDate": "2026-08-10T14:56:06+00:00",
+   "pubDateDisplay": "2026-08-10T14:56:06Z",
+   "source": "Yahoo Finance",
+   "category": "general",
+   "categories": [],
+   "link": "https://finance.yahoo.com/markets/stocks/articles/why-sands-capital-technology-innovators-145606840.html",
+   "description": "",
+   "analysis": {
+    "assets": [],
+    "overall": "neutral",
+    "score": 0,
+    "confidence": 0,
+    "summary": "Neutral / mixed signals"
+   }
+  },
+  {
+   "id": "a9d95caae757",
+   "title": "Why Space Exploration Technologies Corp. (SPCX) is an Idiosyncratic Growth Play?",
+   "pubDate": "2026-08-10T14:53:50+00:00",
+   "pubDateDisplay": "2026-08-10T14:53:50Z",
+   "source": "Yahoo Finance",
+   "category": "general",
+   "categories": [],
+   "link": "https://finance.yahoo.com/markets/stocks/articles/why-space-exploration-technologies-corp-145350023.html",
+   "description": "",
+   "analysis": {
+    "assets": [],
+    "overall": "bullish",
+    "score": 1.0,
+    "confidence": 64,
+    "summary": "Bullish (64%) - growth, growth"
+   }
+  },
+  {
+   "id": "df174d2aecf2",
+   "title": "Brazil central bank eyes expansion for Pix payment system as US trade scrutiny intensifies",
+   "pubDate": "2026-08-10T14:49:53+00:00",
+   "pubDateDisplay": "2026-08-10T14:49:53Z",
+   "source": "Yahoo Finance",
+   "category": "general",
+   "categories": [],
+   "link": "https://finance.yahoo.com/economy/policy/articles/brazil-central-bank-eyes-expansion-144953798.html",
+   "description": "",
+   "analysis": {
+    "assets": [],
+    "overall": "bullish",
+    "score": 1.0,
+    "confidence": 64,
+    "summary": "Bullish (64%) - expansion, expansion"
+   }
+  },
+  {
+   "id": "422951c26c8f",
+   "title": "Retail investors end SpaceX buying spree as stock reclaims IPO price: AlphaCheck",
+   "pubDate": "2026-08-10T14:48:58+00:00",
+   "pubDateDisplay": "2026-08-10T14:48:58Z",
+   "source": "Yahoo Finance",
+   "category": "general",
+   "categories": [],
+   "link": "https://finance.yahoo.com/markets/article/retail-investors-end-spacex-buying-spree-as-stock-reclaims-ipo-price-alphacheck-144858062.html",
+   "description": "",
+   "analysis": {
+    "assets": [],
+    "overall": "neutral",
+    "score": 0,
+    "confidence": 0,
+    "summary": "Neutral / mixed signals"
+   }
+  },
+  {
    "id": "3b84972d5070",
    "title": "What Are Wall Street Analysts' Target Price for Adobe Stock?",
    "pubDate": "2026-08-10T14:46:38+00:00",
@@ -3831,120 +4050,6 @@
    "category": "general",
    "categories": [],
    "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-144638324.html",
-   "description": "",
-   "analysis": {
-    "assets": [
-     {
-      "symbol": "ES",
-      "name": "S&P 500",
-      "direction": "neutral",
-      "confidence": 0,
-      "explanation": "Neutral impact on S&P 500 - no clear directional bias."
-     }
-    ],
-    "overall": "neutral",
-    "score": 0,
-    "confidence": 0,
-    "summary": "Neutral / mixed signals"
-   }
-  },
-  {
-   "id": "f88885400324",
-   "title": "You might not need a Roth IRA for a secure retirement \u2014 despite what online \u2018experts\u2019 say. Here\u2019s why",
-   "pubDate": "2026-08-10T14:45:00+00:00",
-   "pubDateDisplay": "2026-08-10T14:45:00Z",
-   "source": "Yahoo Finance",
-   "category": "general",
-   "categories": [],
-   "link": "https://finance.yahoo.com/markets/articles/might-not-roth-ira-secure-144500938.html",
-   "description": "",
-   "analysis": {
-    "assets": [],
-    "overall": "neutral",
-    "score": 0,
-    "confidence": 0,
-    "summary": "Neutral / mixed signals"
-   }
-  },
-  {
-   "id": "82ad866f0ac8",
-   "title": "Zoetis Stock: Is Wall Street Bullish or Bearish?",
-   "pubDate": "2026-08-10T14:44:10+00:00",
-   "pubDateDisplay": "2026-08-10T14:44:10Z",
-   "source": "Yahoo Finance",
-   "category": "general",
-   "categories": [],
-   "link": "https://finance.yahoo.com/markets/stocks/articles/zoetis-stock-wall-street-bullish-144410803.html",
-   "description": "",
-   "analysis": {
-    "assets": [
-     {
-      "symbol": "ES",
-      "name": "S&P 500",
-      "direction": "neutral",
-      "confidence": 50,
-      "explanation": "Neutral impact on S&P 500 - no clear directional bias."
-     }
-    ],
-    "overall": "neutral",
-    "score": 0.0,
-    "confidence": 50,
-    "summary": "Neutral / mixed signals"
-   }
-  },
-  {
-   "id": "42a6b15fb66c",
-   "title": "First Solar Stock: Analyst Estimates & Ratings",
-   "pubDate": "2026-08-10T14:41:54+00:00",
-   "pubDateDisplay": "2026-08-10T14:41:54Z",
-   "source": "Yahoo Finance",
-   "category": "general",
-   "categories": [],
-   "link": "https://finance.yahoo.com/markets/stocks/articles/first-solar-stock-analyst-estimates-144154360.html",
-   "description": "",
-   "analysis": {
-    "assets": [],
-    "overall": "neutral",
-    "score": 0,
-    "confidence": 0,
-    "summary": "Neutral / mixed signals"
-   }
-  },
-  {
-   "id": "2a52526ef463",
-   "title": "Synopsys (SNPS) Unleashes Agentic AI Chip Design Tools Backed by Microsoft, AMD",
-   "pubDate": "2026-08-10T14:39:45+00:00",
-   "pubDateDisplay": "2026-08-10T14:39:45Z",
-   "source": "Yahoo Finance",
-   "category": "general",
-   "categories": [],
-   "link": "https://finance.yahoo.com/technology/ai/articles/synopsys-snps-unleashes-agentic-ai-143945738.html",
-   "description": "",
-   "analysis": {
-    "assets": [
-     {
-      "symbol": "NQ",
-      "name": "Nasdaq 100",
-      "direction": "neutral",
-      "confidence": 0,
-      "explanation": "Neutral impact on Nasdaq 100 - no clear directional bias."
-     }
-    ],
-    "overall": "neutral",
-    "score": 0,
-    "confidence": 0,
-    "summary": "Neutral / mixed signals"
-   }
-  },
-  {
-   "id": "63e172b8e603",
-   "title": "Do Wall Street Analysts Like Evergy Stock?",
-   "pubDate": "2026-08-10T14:38:43+00:00",
-   "pubDateDisplay": "2026-08-10T14:38:43Z",
-   "source": "Yahoo Finance",
-   "category": "general",
-   "categories": [],
-   "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-evergy-stock-143843982.html",
    "description": "",
    "analysis": {
     "assets": [
