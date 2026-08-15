@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-15T06:37:40.929011+00:00",
+ "generated": "2026-08-15T08:28:49.180370+00:00",
  "news": [
   {
    "id": "9c0e2796e45f",
@@ -3683,6 +3683,32 @@
    }
   },
   {
+   "id": "68850a5e03d6",
+   "title": "Do Wall Street Analysts Like Amphenol Stock?",
+   "pubDate": "2026-08-14T06:30:19+00:00",
+   "pubDateDisplay": "2026-08-14T06:30:19Z",
+   "source": "Yahoo Finance",
+   "category": "general",
+   "categories": [],
+   "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-amphenol-stock-063019189.html",
+   "description": "",
+   "analysis": {
+    "assets": [
+     {
+      "symbol": "ES",
+      "name": "S&P 500",
+      "direction": "neutral",
+      "confidence": 0,
+      "explanation": "Neutral impact on S&P 500 - no clear directional bias."
+     }
+    ],
+    "overall": "neutral",
+    "score": 0,
+    "confidence": 0,
+    "summary": "Neutral / mixed signals"
+   }
+  },
+  {
    "id": "8ac525170798",
    "title": "FX option expiries for 14 August 10am New York cut",
    "pubDate": "2026-08-14T06:22:35+00:00",
@@ -3839,104 +3865,47 @@
    }
   },
   {
-   "id": "b33149bbba41",
-   "title": "Resort destination mall and hotel seek Chapter 11 bankruptcy",
-   "pubDate": "2026-08-14T01:53:39+00:00",
-   "pubDateDisplay": "2026-08-14T01:53:39Z",
+   "id": "44b00d3c327a",
+   "title": "Analysis-AI-driven surge in bond yields could be next risk for markets and growth",
+   "pubDate": "2026-08-14T04:09:56+00:00",
+   "pubDateDisplay": "2026-08-14T04:09:56Z",
    "source": "Yahoo Finance",
    "category": "general",
    "categories": [],
-   "link": "https://finance.yahoo.com/real-estate/articles/68-old-resort-hotel-mall-015339982.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/analysis-ai-driven-surge-bond-040956476.html",
    "description": "",
    "analysis": {
-    "assets": [],
-    "overall": "bearish",
-    "score": -1.0,
-    "confidence": 64,
-    "summary": "Bearish (64%) - bankruptcy, bankruptcy"
-   }
-  },
-  {
-   "id": "69cdcb8d1fec",
-   "title": "Uber partners with China's Pony.ai for 2,000 robotaxis in Europe",
-   "pubDate": "2026-08-14T01:02:39+00:00",
-   "pubDateDisplay": "Fri, 14 Aug 2026 01:02:39 GMT",
-   "source": "CNBC",
-   "category": "general",
-   "categories": [],
-   "link": "https://www.cnbc.com/2026/08/14/uber-partners-with-chinas-ponyai-for-2000-robotaxis-in-europe.html",
-   "description": "The rollout comes as robotaxi fleet sizes become increasingly critical for commercialization.",
-   "analysis": {
-    "assets": [],
-    "overall": "neutral",
-    "score": 0,
-    "confidence": 0,
-    "summary": "Neutral / mixed signals"
-   }
-  },
-  {
-   "id": "9113b15b776a",
-   "title": "AI Data Centers Are Running Out of Water. This $6 Stock Has a Fix",
-   "pubDate": "2026-08-13T23:39:40+00:00",
-   "pubDateDisplay": "2026-08-13T23:39:40Z",
-   "source": "Yahoo Finance",
-   "category": "general",
-   "categories": [],
-   "link": "https://finance.yahoo.com/technology/ai/articles/ai-data-centers-running-water-233940990.html",
-   "description": "",
-   "analysis": {
-    "assets": [],
-    "overall": "neutral",
-    "score": 0,
-    "confidence": 0,
-    "summary": "Neutral / mixed signals"
-   }
-  },
-  {
-   "id": "c148bf2d51c8",
-   "title": "Could AbbVie Inc. (ABBV) Win as Genmab A/S (GMAB) Faces a New Regulatory Test for Epcoritamab?",
-   "pubDate": "2026-08-13T23:38:35+00:00",
-   "pubDateDisplay": "2026-08-13T23:38:35Z",
-   "source": "Yahoo Finance",
-   "category": "general",
-   "categories": [],
-   "link": "https://finance.yahoo.com/healthcare/articles/could-abbvie-inc-abbv-win-233835472.html",
-   "description": "",
-   "analysis": {
-    "assets": [],
-    "overall": "neutral",
-    "score": 0,
-    "confidence": 0,
-    "summary": "Neutral / mixed signals"
-   }
-  },
-  {
-   "id": "1fbc38ac00f8",
-   "title": "Doximity Doubled, Then Gave Most of It Back. Here\u2019s Why the Market Doesn\u2019t Trust the Rally",
-   "pubDate": "2026-08-13T23:35:28+00:00",
-   "pubDateDisplay": "2026-08-13T23:35:28Z",
-   "source": "Yahoo Finance",
-   "category": "general",
-   "categories": [],
-   "link": "https://finance.yahoo.com/markets/stocks/articles/doximity-doubled-then-gave-most-233528723.html",
-   "description": "",
-   "analysis": {
-    "assets": [],
+    "assets": [
+     {
+      "symbol": "USD",
+      "name": "US Dollar",
+      "direction": "bullish",
+      "confidence": 95,
+      "explanation": "Bullish for US Dollar (95%) - hawkish Fed or strong US data supports the dollar."
+     },
+     {
+      "symbol": "BONDS",
+      "name": "US Treasuries",
+      "direction": "bullish",
+      "confidence": 95,
+      "explanation": "Bullish for US Treasuries (95%) - rate cut expectations or safe-haven flows lift bonds."
+     }
+    ],
     "overall": "bullish",
-    "score": 1.0,
-    "confidence": 64,
-    "summary": "Bullish (64%) - rally, rally"
+    "score": 0.33,
+    "confidence": 95,
+    "summary": "Bullish (95%) - surge, surge, growth, growth"
    }
   },
   {
-   "id": "d6fa9933ae8b",
-   "title": "Progyny (PGNY) Q2 2026 Earnings Call Transcript",
-   "pubDate": "2026-08-13T23:31:32+00:00",
-   "pubDateDisplay": "2026-08-13T23:31:32Z",
+   "id": "bc9e34ca377c",
+   "title": "Veritone Q2 Earnings Call Highlights",
+   "pubDate": "2026-08-14T04:04:00+00:00",
+   "pubDateDisplay": "2026-08-14T04:04:00Z",
    "source": "Yahoo Finance",
    "category": "general",
    "categories": [],
-   "link": "https://finance.yahoo.com/healthcare/articles/progyny-pgny-q2-2026-earnings-233132945.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/veritone-q2-earnings-call-highlights-040400888.html",
    "description": "",
    "analysis": {
     "assets": [],
@@ -3947,14 +3916,14 @@
    }
   },
   {
-   "id": "bed5e002494f",
-   "title": "Sweetgreen (SG) Q2 2026 Earnings Call Transcript",
-   "pubDate": "2026-08-13T23:31:32+00:00",
-   "pubDateDisplay": "2026-08-13T23:31:32Z",
+   "id": "59c96beb2c85",
+   "title": "TMC the metals Q2 Earnings Call Highlights",
+   "pubDate": "2026-08-14T04:04:00+00:00",
+   "pubDateDisplay": "2026-08-14T04:04:00Z",
    "source": "Yahoo Finance",
    "category": "general",
    "categories": [],
-   "link": "https://finance.yahoo.com/markets/stocks/articles/sweetgreen-sg-q2-2026-earnings-233132331.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/tmc-metals-q2-earnings-call-040400330.html",
    "description": "",
    "analysis": {
     "assets": [],
@@ -3965,14 +3934,14 @@
    }
   },
   {
-   "id": "2d640d2f47c2",
-   "title": "Granite Ridge Resources (GRNT) Q2 2026 Earnings Call Transcript",
-   "pubDate": "2026-08-13T23:31:31+00:00",
-   "pubDateDisplay": "2026-08-13T23:31:31Z",
+   "id": "ef1031bc7b62",
+   "title": "TSS Q2 Earnings Call Highlights",
+   "pubDate": "2026-08-14T04:04:00+00:00",
+   "pubDateDisplay": "2026-08-14T04:04:00Z",
    "source": "Yahoo Finance",
    "category": "general",
    "categories": [],
-   "link": "https://finance.yahoo.com/markets/stocks/articles/granite-ridge-resources-grnt-q2-233131680.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/tss-q2-earnings-call-highlights-040400829.html",
    "description": "",
    "analysis": {
     "assets": [],
@@ -3983,14 +3952,50 @@
    }
   },
   {
-   "id": "092fcd0a21ef",
-   "title": "Trump Accounts Just Became More Attractive to Working Parents: Employers Can Contribute $2,500 Tax-Free Under New Treasury Guidance",
-   "pubDate": "2026-08-13T23:30:47+00:00",
-   "pubDateDisplay": "2026-08-13T23:30:47Z",
+   "id": "49728e82ea28",
+   "title": "Swarmer Q2 Earnings Call Highlights",
+   "pubDate": "2026-08-14T04:03:59+00:00",
+   "pubDateDisplay": "2026-08-14T04:03:59Z",
    "source": "Yahoo Finance",
    "category": "general",
    "categories": [],
-   "link": "https://finance.yahoo.com/economy/policy/articles/trump-accounts-just-became-more-233047175.html",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/swarmer-q2-earnings-call-highlights-040359815.html",
+   "description": "",
+   "analysis": {
+    "assets": [],
+    "overall": "neutral",
+    "score": 0,
+    "confidence": 0,
+    "summary": "Neutral / mixed signals"
+   }
+  },
+  {
+   "id": "797c6f8699e6",
+   "title": "Goldman in talks with investors on Nvidia financing deal after landing prized role, sources say",
+   "pubDate": "2026-08-14T04:03:52+00:00",
+   "pubDateDisplay": "2026-08-14T04:03:52Z",
+   "source": "Yahoo Finance",
+   "category": "general",
+   "categories": [],
+   "link": "https://finance.yahoo.com/technology/ai/articles/goldman-talks-investors-nvidia-financing-040352701.html",
+   "description": "",
+   "analysis": {
+    "assets": [],
+    "overall": "neutral",
+    "score": 0,
+    "confidence": 0,
+    "summary": "Neutral / mixed signals"
+   }
+  },
+  {
+   "id": "eb5f71dc318f",
+   "title": "Two Bitcoin Treasury Firms and a Uranium Company Face MSCI Index Removal",
+   "pubDate": "2026-08-14T04:03:32+00:00",
+   "pubDateDisplay": "2026-08-14T04:03:32Z",
+   "source": "Yahoo Finance",
+   "category": "general",
+   "categories": [],
+   "link": "https://finance.yahoo.com/markets/crypto/articles/two-bitcoin-treasury-firms-uranium-040332102.html",
    "description": "",
    "analysis": {
     "assets": [
@@ -4016,93 +4021,126 @@
    }
   },
   {
-   "id": "af0804058713",
-   "title": "H&R Block Posted Strong Earnings and Boosted Its Dividend by Nearly 10%. What This Means for HRB Stock.",
-   "pubDate": "2026-08-13T23:30:02+00:00",
-   "pubDateDisplay": "2026-08-13T23:30:02Z",
+   "id": "82927b50074e",
+   "title": "Medicare Advantage or Traditional Plus Supplemental? Choose Wisely",
+   "pubDate": "2026-08-14T04:03:00+00:00",
+   "pubDateDisplay": "2026-08-14T04:03:00Z",
    "source": "Yahoo Finance",
    "category": "general",
    "categories": [],
-   "link": "https://finance.yahoo.com/markets/stocks/articles/h-r-block-posted-strong-233002533.html",
+   "link": "https://finance.yahoo.com/healthcare/articles/medicare-advantage-traditional-plus-supplemental-040300003.html",
+   "description": "",
+   "analysis": {
+    "assets": [],
+    "overall": "neutral",
+    "score": 0,
+    "confidence": 0,
+    "summary": "Neutral / mixed signals"
+   }
+  },
+  {
+   "id": "eb7a6eca542c",
+   "title": "Treasury, IRS Propose Streamlining Rollovers From 401(ks) to IRAs",
+   "pubDate": "2026-08-14T04:02:00+00:00",
+   "pubDateDisplay": "2026-08-14T04:02:00Z",
+   "source": "Yahoo Finance",
+   "category": "general",
+   "categories": [],
+   "link": "https://finance.yahoo.com/markets/options/articles/treasury-irs-propose-streamlining-rollovers-040200151.html",
+   "description": "",
+   "analysis": {
+    "assets": [
+     {
+      "symbol": "USD",
+      "name": "US Dollar",
+      "direction": "neutral",
+      "confidence": 0,
+      "explanation": "Neutral impact on US Dollar - no clear directional bias."
+     },
+     {
+      "symbol": "BONDS",
+      "name": "US Treasuries",
+      "direction": "neutral",
+      "confidence": 0,
+      "explanation": "Neutral impact on US Treasuries - no clear directional bias."
+     }
+    ],
+    "overall": "neutral",
+    "score": 0,
+    "confidence": 0,
+    "summary": "Neutral / mixed signals"
+   }
+  },
+  {
+   "id": "f9750f4f2a1e",
+   "title": "SharonAI (SHAZ) Q2 2026 Earnings Call Transcript",
+   "pubDate": "2026-08-14T04:01:06+00:00",
+   "pubDateDisplay": "2026-08-14T04:01:06Z",
+   "source": "Yahoo Finance",
+   "category": "general",
+   "categories": [],
+   "link": "https://finance.yahoo.com/markets/stocks/articles/sharonai-shaz-q2-2026-earnings-040106049.html",
+   "description": "",
+   "analysis": {
+    "assets": [],
+    "overall": "neutral",
+    "score": 0,
+    "confidence": 0,
+    "summary": "Neutral / mixed signals"
+   }
+  },
+  {
+   "id": "e34d9b623cda",
+   "title": "DraftKings (DKNG) Q2 2026 Earnings Call Transcript",
+   "pubDate": "2026-08-14T04:01:06+00:00",
+   "pubDateDisplay": "2026-08-14T04:01:06Z",
+   "source": "Yahoo Finance",
+   "category": "general",
+   "categories": [],
+   "link": "https://finance.yahoo.com/markets/stocks/articles/draftkings-dkng-q2-2026-earnings-040106551.html",
+   "description": "",
+   "analysis": {
+    "assets": [],
+    "overall": "neutral",
+    "score": 0,
+    "confidence": 0,
+    "summary": "Neutral / mixed signals"
+   }
+  },
+  {
+   "id": "be89ca8439b2",
+   "title": "How Retirement Savers Can Profit from Big IPOs",
+   "pubDate": "2026-08-14T04:01:00+00:00",
+   "pubDateDisplay": "2026-08-14T04:01:00Z",
+   "source": "Yahoo Finance",
+   "category": "general",
+   "categories": [],
+   "link": "https://finance.yahoo.com/markets/stocks/articles/retirement-savers-profit-big-ipos-040100382.html",
+   "description": "",
+   "analysis": {
+    "assets": [],
+    "overall": "neutral",
+    "score": 0,
+    "confidence": 0,
+    "summary": "Neutral / mixed signals"
+   }
+  },
+  {
+   "id": "f1239c5c4174",
+   "title": "Growth at Fast Food Joints Like Wendy\u2019s Looks Soggy Next to Casual-Dining Chains",
+   "pubDate": "2026-08-14T04:01:00+00:00",
+   "pubDateDisplay": "2026-08-14T04:01:00Z",
+   "source": "Yahoo Finance",
+   "category": "general",
+   "categories": [],
+   "link": "https://finance.yahoo.com/markets/stocks/articles/growth-fast-food-joints-wendy-040100086.html",
    "description": "",
    "analysis": {
     "assets": [],
     "overall": "bullish",
     "score": 1.0,
-    "confidence": 88,
-    "summary": "Bullish (88%) - boosted, boosted, strong, strong"
-   }
-  },
-  {
-   "id": "67aad4bdd85f",
-   "title": "Alta Equipment Group (ALTG) Q2 2026 Earnings Call Transcript",
-   "pubDate": "2026-08-13T23:29:56+00:00",
-   "pubDateDisplay": "2026-08-13T23:29:56Z",
-   "source": "Yahoo Finance",
-   "category": "general",
-   "categories": [],
-   "link": "https://finance.yahoo.com/markets/stocks/articles/alta-equipment-group-altg-q2-232956025.html",
-   "description": "",
-   "analysis": {
-    "assets": [],
-    "overall": "neutral",
-    "score": 0,
-    "confidence": 0,
-    "summary": "Neutral / mixed signals"
-   }
-  },
-  {
-   "id": "ecab3bc03020",
-   "title": "Outset Medical (OM) Q2 2026 Earnings Call Transcript",
-   "pubDate": "2026-08-13T23:29:56+00:00",
-   "pubDateDisplay": "2026-08-13T23:29:56Z",
-   "source": "Yahoo Finance",
-   "category": "general",
-   "categories": [],
-   "link": "https://finance.yahoo.com/healthcare/articles/outset-medical-om-q2-2026-232956599.html",
-   "description": "",
-   "analysis": {
-    "assets": [],
-    "overall": "neutral",
-    "score": 0,
-    "confidence": 0,
-    "summary": "Neutral / mixed signals"
-   }
-  },
-  {
-   "id": "a6f1d5fe6e7b",
-   "title": "Cerence (CRNC) Q3 2026 Earnings Call Transcript",
-   "pubDate": "2026-08-13T23:29:56+00:00",
-   "pubDateDisplay": "2026-08-13T23:29:56Z",
-   "source": "Yahoo Finance",
-   "category": "general",
-   "categories": [],
-   "link": "https://finance.yahoo.com/markets/stocks/articles/cerence-crnc-q3-2026-earnings-232956975.html",
-   "description": "",
-   "analysis": {
-    "assets": [],
-    "overall": "neutral",
-    "score": 0,
-    "confidence": 0,
-    "summary": "Neutral / mixed signals"
-   }
-  },
-  {
-   "id": "85d7a0fa0fa1",
-   "title": "Octave Specialty Group (OSG) Q2 2026 Earnings Call Transcript",
-   "pubDate": "2026-08-13T23:29:56+00:00",
-   "pubDateDisplay": "2026-08-13T23:29:56Z",
-   "source": "Yahoo Finance",
-   "category": "general",
-   "categories": [],
-   "link": "https://finance.yahoo.com/markets/stocks/articles/octave-specialty-group-osg-q2-232956595.html",
-   "description": "",
-   "analysis": {
-    "assets": [],
-    "overall": "neutral",
-    "score": 0,
-    "confidence": 0,
-    "summary": "Neutral / mixed signals"
+    "confidence": 64,
+    "summary": "Bullish (64%) - growth, growth"
    }
   }
  ]
