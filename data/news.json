@@ -1,6 +1,130 @@
 {
- "generated": "2026-08-16T12:39:05.299151+00:00",
+ "generated": "2026-08-16T14:22:41.041368+00:00",
  "news": [
+  {
+   "id": "8da68d7598ab",
+   "title": "Bill Ackman's $5 billion fund trades 20% below its NAV as S&P 500 soars \u2014 and high fees aren't helping",
+   "pubDate": "2026-08-16T14:00:00+00:00",
+   "pubDateDisplay": "2026-08-16T14:00:00Z",
+   "source": "Yahoo Finance",
+   "category": "general",
+   "categories": [],
+   "link": "https://finance.yahoo.com/markets/stocks/articles/bill-ackmans-5-billion-fund-140000634.html",
+   "description": "",
+   "analysis": {
+    "assets": [
+     {
+      "symbol": "ES",
+      "name": "S&P 500",
+      "direction": "bearish",
+      "confidence": 64,
+      "explanation": "Bearish for S&P 500 (64%) - risk-off or economic concerns weigh on equities."
+     }
+    ],
+    "overall": "bearish",
+    "score": -1.0,
+    "confidence": 64,
+    "summary": "Bearish (64%) - not soars, not soars"
+   }
+  },
+  {
+   "id": "988c77357afc",
+   "title": "Meta to face massive social media addiction trial Tuesday",
+   "pubDate": "2026-08-16T13:51:41+00:00",
+   "pubDateDisplay": "2026-08-16T13:51:41Z",
+   "source": "Yahoo Finance",
+   "category": "general",
+   "categories": [],
+   "link": "https://finance.yahoo.com/technology/article/meta-to-face-massive-social-media-addiction-trial-tuesday-135141870.html",
+   "description": "",
+   "analysis": {
+    "assets": [],
+    "overall": "neutral",
+    "score": 0,
+    "confidence": 0,
+    "summary": "Neutral / mixed signals"
+   }
+  },
+  {
+   "id": "e21e5bac92b8",
+   "title": "Jim Cramer Tells Caller to Average Down on Netflix (NFLX)",
+   "pubDate": "2026-08-16T13:51:05+00:00",
+   "pubDateDisplay": "2026-08-16T13:51:05Z",
+   "source": "Yahoo Finance",
+   "category": "general",
+   "categories": [],
+   "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-tells-caller-average-135105596.html",
+   "description": "",
+   "analysis": {
+    "assets": [],
+    "overall": "bearish",
+    "score": -1.0,
+    "confidence": 64,
+    "summary": "Bearish (64%) - down, down"
+   }
+  },
+  {
+   "id": "df56813d8a1c",
+   "title": "Wendy\u2019s Jumps on Report That Nelson Peltz Wants to Take His Old Company Private",
+   "pubDate": "2026-08-16T13:49:08+00:00",
+   "pubDateDisplay": "2026-08-16T13:49:08Z",
+   "source": "Yahoo Finance",
+   "category": "general",
+   "categories": [],
+   "link": "https://finance.yahoo.com/markets/stocks/articles/wendy-jumps-report-nelson-peltz-134908532.html",
+   "description": "",
+   "analysis": {
+    "assets": [],
+    "overall": "bullish",
+    "score": 1.0,
+    "confidence": 64,
+    "summary": "Bullish (64%) - jumps, jumps"
+   }
+  },
+  {
+   "id": "dc93f8e5c31b",
+   "title": "What the results of a Connecticut congressional primary race may mean for Social Security",
+   "pubDate": "2026-08-16T13:30:01+00:00",
+   "pubDateDisplay": "Sun, 16 Aug 2026 13:30:01 GMT",
+   "source": "CNBC",
+   "category": "general",
+   "categories": [],
+   "link": "https://www.cnbc.com/2026/08/16/social-security-john-larson-connecticut-primary.html",
+   "description": "Rep. John Larson of Connecticut, an advocate for expanding Social Security, was ousted in a Democratic primary contest Tuesday.",
+   "analysis": {
+    "assets": [],
+    "overall": "neutral",
+    "score": 0,
+    "confidence": 0,
+    "summary": "Neutral / mixed signals"
+   }
+  },
+  {
+   "id": "9287cc31a383",
+   "title": "Here\u2019s the real reason oil prices aren\u2019t moving higher",
+   "pubDate": "2026-08-16T13:00:00+00:00",
+   "pubDateDisplay": "Sun, 16 Aug 2026 13:00:00 GMT",
+   "source": "MarketWatch",
+   "category": "general",
+   "categories": [],
+   "link": "https://www.marketwatch.com/story/heres-the-real-reason-oil-prices-arent-moving-higher-256afdbc?mod=mw_rss_topstories",
+   "description": "Oil prices are not higher largely because the world does not want as much oil as it used to \u2014 and that\u2019s arguably the more troubling story.",
+   "analysis": {
+    "assets": [
+     {
+      "symbol": "OIL",
+      "name": "Crude Oil",
+      "direction": "neutral",
+      "confidence": 50,
+      "explanation": "Neutral impact on Crude Oil - no clear directional bias."
+     }
+    ],
+    "overall": "neutral",
+    "score": 0.0,
+    "confidence": 50,
+    "summary": "Neutral / mixed signals"
+   }
+  },
   {
    "id": "1d6a674d4ec1",
    "title": "The Mediterranean diet is the best out there. Here\u2019s why Americans struggle with it.",
@@ -927,24 +1051,6 @@
    }
   },
   {
-   "id": "d8a7b158a88d",
-   "title": "Health insurers are dumping Medicare Advantage plans. Here\u2019s how many seniors could be affected.",
-   "pubDate": "2026-08-15T16:16:00+00:00",
-   "pubDateDisplay": "Sat, 15 Aug 2026 16:16:00 GMT",
-   "source": "MarketWatch",
-   "category": "general",
-   "categories": [],
-   "link": "https://www.marketwatch.com/story/health-insurers-are-dumping-medicare-advantage-plans-heres-how-many-seniors-could-be-affected-646b4e99?mod=mw_rss_topstories",
-   "description": "Older adults could be scrambling for new health coverage next year, especially in rural markets that have fewer insurance choices.",
-   "analysis": {
-    "assets": [],
-    "overall": "neutral",
-    "score": 0,
-    "confidence": 0,
-    "summary": "Neutral / mixed signals"
-   }
-  },
-  {
    "id": "edd4eca713fc",
    "title": "53-year-old lawn and garden giant faces Chapter 11, liquidation",
    "pubDate": "2026-08-15T15:33:00+00:00",
@@ -1169,6 +1275,58 @@
    }
   },
   {
+   "id": "0d423987386d",
+   "title": "Buying Bonds Could Be the Single Most Important Investing Decision You Make for 10 Years",
+   "pubDate": "2026-08-15T14:00:02+00:00",
+   "pubDateDisplay": "2026-08-15T14:00:02Z",
+   "source": "Yahoo Finance",
+   "category": "general",
+   "categories": [],
+   "link": "https://finance.yahoo.com/markets/options/articles/buying-bonds-could-single-most-140002365.html",
+   "description": "",
+   "analysis": {
+    "assets": [
+     {
+      "symbol": "BONDS",
+      "name": "US Treasuries",
+      "direction": "neutral",
+      "confidence": 0,
+      "explanation": "Neutral impact on US Treasuries - no clear directional bias."
+     }
+    ],
+    "overall": "neutral",
+    "score": 0,
+    "confidence": 0,
+    "summary": "Neutral / mixed signals"
+   }
+  },
+  {
+   "id": "31293029d03d",
+   "title": "Nebius Just Gave Bloom Energy a Big Boost. What It Means for BE Stock.",
+   "pubDate": "2026-08-15T14:00:02+00:00",
+   "pubDateDisplay": "2026-08-15T14:00:02Z",
+   "source": "Yahoo Finance",
+   "category": "general",
+   "categories": [],
+   "link": "https://finance.yahoo.com/markets/stocks/articles/nebius-just-gave-bloom-energy-140002956.html",
+   "description": "",
+   "analysis": {
+    "assets": [
+     {
+      "symbol": "OIL",
+      "name": "Crude Oil",
+      "direction": "bullish",
+      "confidence": 64,
+      "explanation": "Bullish for Crude Oil (64%) - supply concerns or demand growth lifts crude prices."
+     }
+    ],
+    "overall": "bullish",
+    "score": 1.0,
+    "confidence": 64,
+    "summary": "Bullish (64%) - boost, boost"
+   }
+  },
+  {
    "id": "5c74164e01fd",
    "title": "American Gen Z takes radical path to wealth creation",
    "pubDate": "2026-08-15T14:00:00+00:00",
@@ -1177,6 +1335,42 @@
    "category": "general",
    "categories": [],
    "link": "https://finance.yahoo.com/markets/crypto/articles/american-gen-z-takes-radical-140000776.html",
+   "description": "",
+   "analysis": {
+    "assets": [],
+    "overall": "neutral",
+    "score": 0,
+    "confidence": 0,
+    "summary": "Neutral / mixed signals"
+   }
+  },
+  {
+   "id": "0d3c95fcd517",
+   "title": "Piper Sandler Is Bullish on Unusual Machines Stock. Here's Why.",
+   "pubDate": "2026-08-15T13:30:02+00:00",
+   "pubDateDisplay": "2026-08-15T13:30:02Z",
+   "source": "Yahoo Finance",
+   "category": "general",
+   "categories": [],
+   "link": "https://finance.yahoo.com/markets/stocks/articles/piper-sandler-bullish-unusual-machines-133002502.html",
+   "description": "",
+   "analysis": {
+    "assets": [],
+    "overall": "bullish",
+    "score": 1.0,
+    "confidence": 64,
+    "summary": "Bullish (64%) - bullish, bullish"
+   }
+  },
+  {
+   "id": "090016f4e4ac",
+   "title": "Nelson Peltz May Be Preparing to Take Wendy\u2019s Private. What It Means for WEN Stock Investors.",
+   "pubDate": "2026-08-15T13:30:02+00:00",
+   "pubDateDisplay": "2026-08-15T13:30:02Z",
+   "source": "Yahoo Finance",
+   "category": "general",
+   "categories": [],
+   "link": "https://finance.yahoo.com/markets/stocks/articles/nelson-peltz-may-preparing-wendy-133002577.html",
    "description": "",
    "analysis": {
     "assets": [],
@@ -1223,6 +1417,24 @@
    }
   },
   {
+   "id": "1ff245c05d4e",
+   "title": "Fancy Footwork: How to Play Birkenstock Stock After a Revenue Beat",
+   "pubDate": "2026-08-15T13:00:02+00:00",
+   "pubDateDisplay": "2026-08-15T13:00:02Z",
+   "source": "Yahoo Finance",
+   "category": "general",
+   "categories": [],
+   "link": "https://finance.yahoo.com/markets/stocks/articles/fancy-footwork-play-birkenstock-stock-130002576.html",
+   "description": "",
+   "analysis": {
+    "assets": [],
+    "overall": "bullish",
+    "score": 1.0,
+    "confidence": 64,
+    "summary": "Bullish (64%) - beat, beat"
+   }
+  },
+  {
    "id": "afa6f584f1ac",
    "title": "Bank Stock Merger Mania Might Not Happen. This ETF Explains Why.",
    "pubDate": "2026-08-15T13:00:02+00:00",
@@ -1241,21 +1453,21 @@
    }
   },
   {
-   "id": "1ff245c05d4e",
-   "title": "Fancy Footwork: How to Play Birkenstock Stock After a Revenue Beat",
-   "pubDate": "2026-08-15T13:00:02+00:00",
-   "pubDateDisplay": "2026-08-15T13:00:02Z",
+   "id": "384106e2057e",
+   "title": "The 5 Biggest Risks Americans Don\u2019t Think About Behind the Data Center Boom",
+   "pubDate": "2026-08-15T13:00:00+00:00",
+   "pubDateDisplay": "2026-08-15T13:00:00Z",
    "source": "Yahoo Finance",
    "category": "general",
    "categories": [],
-   "link": "https://finance.yahoo.com/markets/stocks/articles/fancy-footwork-play-birkenstock-stock-130002576.html",
+   "link": "https://finance.yahoo.com/technology/articles/5-biggest-risks-americans-don-130000152.html",
    "description": "",
    "analysis": {
     "assets": [],
-    "overall": "bullish",
-    "score": 1.0,
-    "confidence": 64,
-    "summary": "Bullish (64%) - beat, beat"
+    "overall": "neutral",
+    "score": 0,
+    "confidence": 0,
+    "summary": "Neutral / mixed signals"
    }
   },
   {
@@ -1277,6 +1489,60 @@
    }
   },
   {
+   "id": "b87cf6e3ae77",
+   "title": "CEO Lip Bu-Tan Just Gave Intel a $10 Million Vote of Confidence",
+   "pubDate": "2026-08-15T12:50:39+00:00",
+   "pubDateDisplay": "2026-08-15T12:50:39Z",
+   "source": "Yahoo Finance",
+   "category": "general",
+   "categories": [],
+   "link": "https://finance.yahoo.com/markets/stocks/articles/ceo-lip-bu-tan-just-125039590.html",
+   "description": "",
+   "analysis": {
+    "assets": [],
+    "overall": "neutral",
+    "score": 0,
+    "confidence": 0,
+    "summary": "Neutral / mixed signals"
+   }
+  },
+  {
+   "id": "2a39487c47b5",
+   "title": "Block Stock Slumps Despite Earnings Rising by 65%",
+   "pubDate": "2026-08-15T12:41:00+00:00",
+   "pubDateDisplay": "2026-08-15T12:41:00Z",
+   "source": "Yahoo Finance",
+   "category": "general",
+   "categories": [],
+   "link": "https://finance.yahoo.com/markets/stocks/articles/block-stock-slumps-despite-earnings-124100360.html",
+   "description": "",
+   "analysis": {
+    "assets": [],
+    "overall": "neutral",
+    "score": 0.0,
+    "confidence": 50,
+    "summary": "Neutral / mixed signals"
+   }
+  },
+  {
+   "id": "785bb56d1215",
+   "title": "Nu Holdings Banks More Than Half the Adults in Brazil",
+   "pubDate": "2026-08-15T12:37:00+00:00",
+   "pubDateDisplay": "2026-08-15T12:37:00Z",
+   "source": "Yahoo Finance",
+   "category": "general",
+   "categories": [],
+   "link": "https://finance.yahoo.com/markets/stocks/articles/nu-holdings-banks-more-half-123700626.html",
+   "description": "",
+   "analysis": {
+    "assets": [],
+    "overall": "neutral",
+    "score": 0,
+    "confidence": 0,
+    "summary": "Neutral / mixed signals"
+   }
+  },
+  {
    "id": "22a7dcbd7fbc",
    "title": "Mark Cuban calls these investments 'death' for ultra-rich Americans. Are you making the same mistakes?",
    "pubDate": "2026-08-15T12:35:00+00:00",
@@ -1285,6 +1551,24 @@
    "category": "general",
    "categories": [],
    "link": "https://finance.yahoo.com/markets/stocks/articles/mark-cuban-calls-investments-death-123500844.html",
+   "description": "",
+   "analysis": {
+    "assets": [],
+    "overall": "neutral",
+    "score": 0,
+    "confidence": 0,
+    "summary": "Neutral / mixed signals"
+   }
+  },
+  {
+   "id": "1bd95eaaed5e",
+   "title": "Elon Musk's $1 Trillion Pay Package Needs Tesla to Hit an $8.5 Trillion Market Cap. Here's What That Means for Shareholders.",
+   "pubDate": "2026-08-15T12:35:00+00:00",
+   "pubDateDisplay": "2026-08-15T12:35:00Z",
+   "source": "Yahoo Finance",
+   "category": "general",
+   "categories": [],
+   "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musks-1-trillion-pay-123500778.html",
    "description": "",
    "analysis": {
     "assets": [],
@@ -1499,42 +1783,6 @@
    }
   },
   {
-   "id": "b8709a5ed13e",
-   "title": "This old-school way of investing money is better than ever \u2014 even in the age of AI and mega-IPOs",
-   "pubDate": "2026-08-15T11:30:00+00:00",
-   "pubDateDisplay": "2026-08-15T11:30:00Z",
-   "source": "Yahoo Finance",
-   "category": "general",
-   "categories": [],
-   "link": "https://finance.yahoo.com/markets/stocks/articles/old-school-way-investing-money-113000622.html",
-   "description": "",
-   "analysis": {
-    "assets": [],
-    "overall": "neutral",
-    "score": 0,
-    "confidence": 0,
-    "summary": "Neutral / mixed signals"
-   }
-  },
-  {
-   "id": "3d157edfaba4",
-   "title": "Hasbro Exec Rolled a \"1\" on Video Games -- and Lost His Job",
-   "pubDate": "2026-08-15T11:27:00+00:00",
-   "pubDateDisplay": "2026-08-15T11:27:00Z",
-   "source": "Yahoo Finance",
-   "category": "general",
-   "categories": [],
-   "link": "https://finance.yahoo.com/markets/stocks/articles/hasbro-exec-rolled-1-video-112700405.html",
-   "description": "",
-   "analysis": {
-    "assets": [],
-    "overall": "neutral",
-    "score": 0,
-    "confidence": 0,
-    "summary": "Neutral / mixed signals"
-   }
-  },
-  {
    "id": "8db45ff56b57",
    "title": "AppLovin\u2019s Real Problem Isn\u2019t Revenue \u2013 It\u2019s How the Growth Engine Actually Works",
    "pubDate": "2026-08-15T11:26:02+00:00",
@@ -1550,42 +1798,6 @@
     "score": 1.0,
     "confidence": 64,
     "summary": "Bullish (64%) - growth, growth"
-   }
-  },
-  {
-   "id": "2c47c92877e3",
-   "title": "IYF vs. FNCL: Which Financials ETF Is the Better Buy?",
-   "pubDate": "2026-08-15T11:21:02+00:00",
-   "pubDateDisplay": "2026-08-15T11:21:02Z",
-   "source": "Yahoo Finance",
-   "category": "general",
-   "categories": [],
-   "link": "https://finance.yahoo.com/markets/stocks/articles/iyf-vs-fncl-financials-etf-112102268.html",
-   "description": "",
-   "analysis": {
-    "assets": [],
-    "overall": "bullish",
-    "score": 1.0,
-    "confidence": 64,
-    "summary": "Bullish (64%) - buy, buy"
-   }
-  },
-  {
-   "id": "e2a68468a3b9",
-   "title": "Will SpaceX Be the First Company to Hit $1 Trillion in Revenue? Here's What the Math Says.",
-   "pubDate": "2026-08-15T11:20:00+00:00",
-   "pubDateDisplay": "2026-08-15T11:20:00Z",
-   "source": "Yahoo Finance",
-   "category": "general",
-   "categories": [],
-   "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-first-company-hit-1-112000964.html",
-   "description": "",
-   "analysis": {
-    "assets": [],
-    "overall": "neutral",
-    "score": 0,
-    "confidence": 0,
-    "summary": "Neutral / mixed signals"
    }
   },
   {
@@ -1633,78 +1845,6 @@
    }
   },
   {
-   "id": "5cde94a0cedd",
-   "title": "Bitcoin Drop Cost Abu Dhabi $118 Million: Will They Sell?",
-   "pubDate": "2026-08-15T11:05:06+00:00",
-   "pubDateDisplay": "2026-08-15T11:05:06Z",
-   "source": "Yahoo Finance",
-   "category": "general",
-   "categories": [],
-   "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-drop-cost-abu-dhabi-110506535.html",
-   "description": "",
-   "analysis": {
-    "assets": [],
-    "overall": "bearish",
-    "score": -1.0,
-    "confidence": 88,
-    "summary": "Bearish (88%) - drop, drop, sell, sell"
-   }
-  },
-  {
-   "id": "92f66776b6f6",
-   "title": "Sundar Pichai's Alphabet Reported Negative Free Cash Flow for the First Time Ever. Here's Why That Milestone Matters for Shareholders.",
-   "pubDate": "2026-08-15T11:05:00+00:00",
-   "pubDateDisplay": "2026-08-15T11:05:00Z",
-   "source": "Yahoo Finance",
-   "category": "general",
-   "categories": [],
-   "link": "https://finance.yahoo.com/markets/stocks/articles/sundar-pichais-alphabet-reported-negative-110500525.html",
-   "description": "",
-   "analysis": {
-    "assets": [],
-    "overall": "neutral",
-    "score": 0,
-    "confidence": 0,
-    "summary": "Neutral / mixed signals"
-   }
-  },
-  {
-   "id": "d67b66a05881",
-   "title": "BofA points to crucial Walmart numbers most investors ignore",
-   "pubDate": "2026-08-15T11:03:00+00:00",
-   "pubDateDisplay": "2026-08-15T11:03:00Z",
-   "source": "Yahoo Finance",
-   "category": "general",
-   "categories": [],
-   "link": "https://finance.yahoo.com/markets/stocks/articles/bofa-points-crucial-walmart-numbers-110300581.html",
-   "description": "",
-   "analysis": {
-    "assets": [],
-    "overall": "neutral",
-    "score": 0,
-    "confidence": 0,
-    "summary": "Neutral / mixed signals"
-   }
-  },
-  {
-   "id": "0cc5076c67ba",
-   "title": "He Bought a $50,000 Baseball Card Through His IRA. The IRS Called It a Withdrawal and Taxed More of His Social Security.",
-   "pubDate": "2026-08-15T11:02:31+00:00",
-   "pubDateDisplay": "2026-08-15T11:02:31Z",
-   "source": "Yahoo Finance",
-   "category": "general",
-   "categories": [],
-   "link": "https://finance.yahoo.com/small-business/articles/bought-50-000-baseball-card-110231542.html",
-   "description": "",
-   "analysis": {
-    "assets": [],
-    "overall": "neutral",
-    "score": 0,
-    "confidence": 0,
-    "summary": "Neutral / mixed signals"
-   }
-  },
-  {
    "id": "c92b455a80ea",
    "title": "American Auto\u2019s Retreat From China Accelerates as GM and Ford Both Pull Back",
    "pubDate": "2026-08-15T10:48:24+00:00",
@@ -1731,60 +1871,6 @@
    "category": "general",
    "categories": [],
    "link": "https://finance.yahoo.com/markets/stocks/articles/larry-fink-brutal-warning-americans-103500383.html",
-   "description": "",
-   "analysis": {
-    "assets": [],
-    "overall": "neutral",
-    "score": 0,
-    "confidence": 0,
-    "summary": "Neutral / mixed signals"
-   }
-  },
-  {
-   "id": "713851980adc",
-   "title": "Eli Lilly\u2019s Weight-Loss Pill Just Got Its First Foothold in Europe",
-   "pubDate": "2026-08-15T10:30:07+00:00",
-   "pubDateDisplay": "2026-08-15T10:30:07Z",
-   "source": "Yahoo Finance",
-   "category": "general",
-   "categories": [],
-   "link": "https://finance.yahoo.com/healthcare/articles/eli-lilly-weight-loss-pill-103007818.html",
-   "description": "",
-   "analysis": {
-    "assets": [],
-    "overall": "neutral",
-    "score": 0,
-    "confidence": 0,
-    "summary": "Neutral / mixed signals"
-   }
-  },
-  {
-   "id": "b1ae371aecb0",
-   "title": "How New Mexico\u2019s $567 Million Ruling Could Change Meta",
-   "pubDate": "2026-08-15T10:25:45+00:00",
-   "pubDateDisplay": "2026-08-15T10:25:45Z",
-   "source": "Yahoo Finance",
-   "category": "general",
-   "categories": [],
-   "link": "https://finance.yahoo.com/markets/stocks/articles/mexico-567-million-ruling-could-102545540.html",
-   "description": "",
-   "analysis": {
-    "assets": [],
-    "overall": "neutral",
-    "score": 0,
-    "confidence": 0,
-    "summary": "Neutral / mixed signals"
-   }
-  },
-  {
-   "id": "ea3a05e9526f",
-   "title": "Americans added $21B to credit cards \u2014 now 20%+ interest is crushing budgets. Time to use Dave Ramsey\u2019s escape hatch?",
-   "pubDate": "2026-08-15T10:15:00+00:00",
-   "pubDateDisplay": "2026-08-15T10:15:00Z",
-   "source": "Yahoo Finance",
-   "category": "general",
-   "categories": [],
-   "link": "https://finance.yahoo.com/markets/articles/americans-added-21b-credit-cards-101500667.html",
    "description": "",
    "analysis": {
     "assets": [],
@@ -1847,24 +1933,6 @@
    }
   },
   {
-   "id": "a0c59083c564",
-   "title": "'You have absolutely no expenses': Suze Orman says the perks your job quietly covers could blow up your retirement math",
-   "pubDate": "2026-08-15T09:30:00+00:00",
-   "pubDateDisplay": "2026-08-15T09:30:00Z",
-   "source": "Yahoo Finance",
-   "category": "general",
-   "categories": [],
-   "link": "https://finance.yahoo.com/small-business/articles/absolutely-no-expenses-suze-orman-093000555.html",
-   "description": "",
-   "analysis": {
-    "assets": [],
-    "overall": "bearish",
-    "score": -1.0,
-    "confidence": 64,
-    "summary": "Bearish (64%) - not up, not up"
-   }
-  },
-  {
    "id": "944e39c5d064",
    "title": "Beijing is said to move to clarify tax rules stoking confusion among China's ultra-wealthy",
    "pubDate": "2026-08-15T06:11:11+00:00",
@@ -1916,24 +1984,6 @@
     "score": 0,
     "confidence": 0,
     "summary": "Neutral / mixed signals"
-   }
-  },
-  {
-   "id": "8585ce08ec76",
-   "title": "SanDisk CEO reveals what's next after explosive 3,150% stock rally",
-   "pubDate": "2026-08-15T01:37:00+00:00",
-   "pubDateDisplay": "2026-08-15T01:37:00Z",
-   "source": "Yahoo Finance",
-   "category": "general",
-   "categories": [],
-   "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-ceo-reveals-whats-next-013700105.html",
-   "description": "",
-   "analysis": {
-    "assets": [],
-    "overall": "bullish",
-    "score": 1.0,
-    "confidence": 64,
-    "summary": "Bullish (64%) - rally, rally"
    }
   },
   {
@@ -3322,24 +3372,6 @@
     "score": -1.0,
     "confidence": 52,
     "summary": "Bearish (52%) - not growth"
-   }
-  },
-  {
-   "id": "d6308fecb761",
-   "title": "Court rules companies can't import Gilead medications from overseas in blow to AFP health programs",
-   "pubDate": "2026-08-14T16:27:07+00:00",
-   "pubDateDisplay": "Fri, 14 Aug 2026 16:27:07 GMT",
-   "source": "CNBC",
-   "category": "general",
-   "categories": [],
-   "link": "https://www.cnbc.com/2026/08/14/court-ruling-gilead-medications-overseas-afps.html",
-   "description": "A U.S. appeals court has ruled in favor of Gilead Sciences against companies known as alternative funding programs that import medicines from overseas.",
-   "analysis": {
-    "assets": [],
-    "overall": "neutral",
-    "score": 0,
-    "confidence": 0,
-    "summary": "Neutral / mixed signals"
    }
   },
   {
