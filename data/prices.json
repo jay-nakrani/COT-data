@@ -1,19 +1,15 @@
 {
- "generated": "2026-09-06T01:10:58.130369+00:00",
+ "generated": "2026-09-06T06:15:32.263132+00:00",
  "prices": {
   "XAU/USD": {
    "symbol": "XAU/USD",
    "price": 4476.6,
-   "prevClose": 4431.1,
-   "change": 45.5,
+   "prevClose": 4348.0,
+   "change": 128.6,
    "changePct": -1.39,
    "dayHigh": 4537.8,
    "dayLow": 4412.0,
    "history": [
-    {
-     "date": "2026-08-31",
-     "close": 4431.1001
-    },
     {
      "date": "2026-09-01",
      "close": 4348.0
@@ -28,23 +24,19 @@
     },
     {
      "date": "2026-09-04",
-     "close": 4429.7998
+     "close": 4476.6001
     }
    ]
   },
   "XAG/USD": {
    "symbol": "XAG/USD",
    "price": 66.748,
-   "prevClose": 66.221,
-   "change": 0.527,
+   "prevClose": 64.618,
+   "change": 2.13,
    "changePct": -1.41,
    "dayHigh": 67.81,
    "dayLow": 65.335,
    "history": [
-    {
-     "date": "2026-08-31",
-     "close": 66.221
-    },
     {
      "date": "2026-09-01",
      "close": 64.618
@@ -59,23 +51,19 @@
     },
     {
      "date": "2026-09-04",
-     "close": 66.047
+     "close": 66.748
     }
    ]
   },
   "ES": {
    "symbol": "ES",
    "price": 7722.0,
-   "prevClose": 7699.0,
-   "change": 23.0,
+   "prevClose": 7642.75,
+   "change": 79.25,
    "changePct": -0.42,
    "dayHigh": 7764.5,
    "dayLow": 7711.75,
    "history": [
-    {
-     "date": "2026-08-31",
-     "close": 7699.0
-    },
     {
      "date": "2026-09-01",
      "close": 7642.75
@@ -97,16 +85,12 @@
   "NQ": {
    "symbol": "NQ",
    "price": 29565.25,
-   "prevClose": 29513.0,
-   "change": 52.25,
+   "prevClose": 29125.5,
+   "change": 439.75,
    "changePct": 0.14,
    "dayHigh": 29704.5,
    "dayLow": 29468.0,
    "history": [
-    {
-     "date": "2026-08-31",
-     "close": 29513.0
-    },
     {
      "date": "2026-09-01",
      "close": 29125.5
@@ -128,16 +112,12 @@
   "YM": {
    "symbol": "YM",
    "price": 53440.0,
-   "prevClose": 53240.0,
-   "change": 200.0,
+   "prevClose": 52828.0,
+   "change": 612.0,
    "changePct": -0.57,
    "dayHigh": 53772.0,
    "dayLow": 53235.0,
    "history": [
-    {
-     "date": "2026-08-31",
-     "close": 53240.0
-    },
     {
      "date": "2026-09-01",
      "close": 52828.0
@@ -159,16 +139,12 @@
   "NIY": {
    "symbol": "NIY",
    "price": 65830.0,
-   "prevClose": 65890.0,
-   "change": -60.0,
+   "prevClose": 64870.0,
+   "change": 960.0,
    "changePct": 1.97,
    "dayHigh": 65970.0,
    "dayLow": 64295.0,
    "history": [
-    {
-     "date": "2026-08-31",
-     "close": 65890.0
-    },
     {
      "date": "2026-09-01",
      "close": 64870.0
@@ -190,16 +166,12 @@
   "AUD/USD": {
    "symbol": "AUD/USD",
    "price": 0.7203,
-   "prevClose": 0.7163,
-   "change": 0.004,
+   "prevClose": 0.7146,
+   "change": 0.0057,
    "changePct": -0.03,
    "dayHigh": 0.72135,
    "dayLow": 0.71705,
    "history": [
-    {
-     "date": "2026-08-31",
-     "close": 0.7163
-    },
     {
      "date": "2026-09-01",
      "close": 0.7146
@@ -221,16 +193,12 @@
   "GBP/USD": {
    "symbol": "GBP/USD",
    "price": 1.3514,
-   "prevClose": 1.3549,
-   "change": -0.0035,
+   "prevClose": 1.3513,
+   "change": 0.0001,
    "changePct": -0.18,
    "dayHigh": 1.3549,
    "dayLow": 1.3476,
    "history": [
-    {
-     "date": "2026-08-31",
-     "close": 1.3549
-    },
     {
      "date": "2026-09-01",
      "close": 1.3513
@@ -252,16 +220,12 @@
   "CAD/USD": {
    "symbol": "CAD/USD",
    "price": 0.7229,
-   "prevClose": 0.7222,
-   "change": 0.0007,
+   "prevClose": 0.7202,
+   "change": 0.0027,
    "changePct": -0.38,
    "dayHigh": 0.7257,
    "dayLow": 0.7211,
    "history": [
-    {
-     "date": "2026-08-31",
-     "close": 0.7222
-    },
     {
      "date": "2026-09-01",
      "close": 0.7202
@@ -283,16 +247,12 @@
   "EUR/USD": {
    "symbol": "EUR/USD",
    "price": 1.1614,
-   "prevClose": 1.1623,
-   "change": -0.0009,
+   "prevClose": 1.1596,
+   "change": 0.0018,
    "changePct": -0.21,
    "dayHigh": 1.1637,
    "dayLow": 1.1588,
    "history": [
-    {
-     "date": "2026-08-31",
-     "close": 1.1623
-    },
     {
      "date": "2026-09-01",
      "close": 1.1596
@@ -314,16 +274,12 @@
   "JPY/USD": {
    "symbol": "JPY/USD",
    "price": 0.006405,
-   "prevClose": 0.006264,
-   "change": 0.000141,
+   "prevClose": 0.006249,
+   "change": 0.000156,
    "changePct": -0.47,
    "dayHigh": 0.006444,
    "dayLow": 0.006384,
    "history": [
-    {
-     "date": "2026-08-31",
-     "close": 0.0063
-    },
     {
      "date": "2026-09-01",
      "close": 0.0062
@@ -345,16 +301,12 @@
   "NZD/USD": {
    "symbol": "NZD/USD",
    "price": 0.5882,
-   "prevClose": 0.5918,
-   "change": -0.0036,
+   "prevClose": 0.5894,
+   "change": -0.0012,
    "changePct": -0.05,
    "dayHigh": 0.5904,
    "dayLow": 0.5858,
    "history": [
-    {
-     "date": "2026-08-31",
-     "close": 0.5918
-    },
     {
      "date": "2026-09-01",
      "close": 0.5894
@@ -376,16 +328,12 @@
   "CHF/USD": {
    "symbol": "CHF/USD",
    "price": 1.2352,
-   "prevClose": 1.2391,
-   "change": -0.0039,
+   "prevClose": 1.2335,
+   "change": 0.0017,
    "changePct": -0.43,
    "dayHigh": 1.2399,
    "dayLow": 1.2315,
    "history": [
-    {
-     "date": "2026-08-31",
-     "close": 1.2391
-    },
     {
      "date": "2026-09-01",
      "close": 1.2335
@@ -407,16 +355,12 @@
   "CL": {
    "symbol": "CL",
    "price": 91.48,
-   "prevClose": 85.76,
-   "change": 5.72,
+   "prevClose": 90.22,
+   "change": 1.26,
    "changePct": 0.2,
    "dayHigh": 92.17,
    "dayLow": 88.72,
    "history": [
-    {
-     "date": "2026-08-31",
-     "close": 85.76
-    },
     {
      "date": "2026-09-01",
      "close": 90.22
