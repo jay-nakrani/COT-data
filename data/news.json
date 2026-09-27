@@ -1,6 +1,90 @@
 {
- "generated": "2026-09-27T04:03:11.405854+00:00",
+ "generated": "2026-09-27T11:32:27.989560+00:00",
  "news": [
+  {
+   "id": "66999b3cb4fe",
+   "title": "Debt-hungry AI companies face increased risk as bond yields spike",
+   "pubDate": "2026-09-27T11:00:01+00:00",
+   "pubDateDisplay": "Sun, 27 Sep 2026 11:00:01 GMT",
+   "source": "CNBC",
+   "category": "general",
+   "categories": [],
+   "link": "https://www.cnbc.com/2026/09/27/debt-hungry-data-center-companies-increased-risk-bond-yields-spike.html",
+   "description": "The AI infrastructure buildout shows no sign of slowing, but the surge in Treasury yields means it's at least going to cost more.",
+   "analysis": {
+    "assets": [
+     {
+      "symbol": "USD",
+      "name": "US Dollar",
+      "direction": "bearish",
+      "confidence": 64,
+      "explanation": "Bearish for US Dollar (64%) - dovish Fed or weak US data weakens the dollar."
+     },
+     {
+      "symbol": "BONDS",
+      "name": "US Treasuries",
+      "direction": "bearish",
+      "confidence": 64,
+      "explanation": "Bearish for US Treasuries (64%) - rate hike expectations or inflation fears hit bonds."
+     }
+    ],
+    "overall": "bearish",
+    "score": -1.0,
+    "confidence": 64,
+    "summary": "Bearish (64%) - not surge, risk"
+   }
+  },
+  {
+   "id": "c003b9a3a8a9",
+   "title": "Why the upcoming jobs report could send 10-year and 30-year Treasury yields surging",
+   "pubDate": "2026-09-27T11:00:00+00:00",
+   "pubDateDisplay": "Sun, 27 Sep 2026 11:00:00 GMT",
+   "source": "MarketWatch",
+   "category": "general",
+   "categories": [],
+   "link": "https://www.marketwatch.com/story/why-the-upcoming-jobs-report-could-send-10-year-and-30-year-treasury-yields-surging-67eab4ba?mod=mw_rss_topstories",
+   "description": "Another hot jobs report could also pressure the Federal Reserve to raise interest rates again in October.",
+   "analysis": {
+    "assets": [
+     {
+      "symbol": "USD",
+      "name": "US Dollar",
+      "direction": "neutral",
+      "confidence": 0,
+      "explanation": "Neutral impact on US Dollar - no clear directional bias."
+     },
+     {
+      "symbol": "BONDS",
+      "name": "US Treasuries",
+      "direction": "neutral",
+      "confidence": 0,
+      "explanation": "Neutral impact on US Treasuries - no clear directional bias."
+     }
+    ],
+    "overall": "neutral",
+    "score": 0,
+    "confidence": 0,
+    "summary": "Neutral / mixed signals"
+   }
+  },
+  {
+   "id": "7ba0d36f8888",
+   "title": "'Funflation' is on the rise as hobbies get pricier, but consumers keep spending anyway",
+   "pubDate": "2026-09-27T05:00:02+00:00",
+   "pubDateDisplay": "Sun, 27 Sep 2026 05:00:02 GMT",
+   "source": "CNBC",
+   "category": "general",
+   "categories": [],
+   "link": "https://www.cnbc.com/2026/09/27/funflation-consumer-spending-pricier-hobbies.html",
+   "description": "Consumers are spending more on hobbies like arts and crafts and outdoor sports, as it gets more expensive to travel due to increased airfare.",
+   "analysis": {
+    "assets": [],
+    "overall": "bullish",
+    "score": 1.0,
+    "confidence": 52,
+    "summary": "Bullish (52%) - rise"
+   }
+  },
   {
    "id": "1d2ae41f973f",
    "title": "Weekly column: Strait of Hormuz and the symbolism of Jupiter in global shipping",
@@ -1460,39 +1544,6 @@
    }
   },
   {
-   "id": "712eccd8e3c1",
-   "title": "10-year Treasury yield is little changed to end a volatile week",
-   "pubDate": "2026-09-25T20:17:09+00:00",
-   "pubDateDisplay": "Fri, 25 Sep 2026 20:17:09 GMT",
-   "source": "CNBC",
-   "category": "general",
-   "categories": [],
-   "link": "https://www.cnbc.com/2026/09/25/treasury-yields-bonds-debt.html",
-   "description": "The 10-year Treasury note yield was relatively unchanged on Friday after recent selling pressure intensified.",
-   "analysis": {
-    "assets": [
-     {
-      "symbol": "USD",
-      "name": "US Dollar",
-      "direction": "neutral",
-      "confidence": 0,
-      "explanation": "Neutral impact on US Dollar - no clear directional bias."
-     },
-     {
-      "symbol": "BONDS",
-      "name": "US Treasuries",
-      "direction": "neutral",
-      "confidence": 0,
-      "explanation": "Neutral impact on US Treasuries - no clear directional bias."
-     }
-    ],
-    "overall": "neutral",
-    "score": 0,
-    "confidence": 0,
-    "summary": "Neutral / mixed signals"
-   }
-  },
-  {
    "id": "39ba3b0e170f",
    "title": "Stocks Rebound as Iran Diplomacy Hopes Push Oil Lower \u2013 US Market Wrap",
    "pubDate": "2026-09-25T20:16:40+00:00",
@@ -2282,39 +2333,6 @@
     "score": 1.0,
     "confidence": 52,
     "summary": "Bullish (52%) - strength"
-   }
-  },
-  {
-   "id": "dc5df86425fd",
-   "title": "Trump says Scott Bessent won't be AI czar",
-   "pubDate": "2026-09-25T17:28:32+00:00",
-   "pubDateDisplay": "Fri, 25 Sep 2026 17:28:32 GMT",
-   "source": "CNBC",
-   "category": "general",
-   "categories": [],
-   "link": "https://www.cnbc.com/2026/09/25/trump-bessent-ai-czar.html",
-   "description": "President Donald Trump said Treasury Secretary Bessent doesn't want to be what the president is calling the \"Super Intelligence czar.\"",
-   "analysis": {
-    "assets": [
-     {
-      "symbol": "USD",
-      "name": "US Dollar",
-      "direction": "neutral",
-      "confidence": 0,
-      "explanation": "Neutral impact on US Dollar - no clear directional bias."
-     },
-     {
-      "symbol": "BONDS",
-      "name": "US Treasuries",
-      "direction": "neutral",
-      "confidence": 0,
-      "explanation": "Neutral impact on US Treasuries - no clear directional bias."
-     }
-    ],
-    "overall": "neutral",
-    "score": 0,
-    "confidence": 0,
-    "summary": "Neutral / mixed signals"
    }
   },
   {
@@ -3568,39 +3586,6 @@
     "score": -0.44,
     "confidence": 95,
     "summary": "Bearish (95%) - fall, fall, fell, declined, selloff"
-   }
-  },
-  {
-   "id": "c69a462e5ac9",
-   "title": "History shows financial calamities occur when rates rise rapidly like this: 'Something always breaks'",
-   "pubDate": "2026-09-24T20:57:11+00:00",
-   "pubDateDisplay": "Thu, 24 Sep 2026 20:57:11 GMT",
-   "source": "CNBC",
-   "category": "general",
-   "categories": [],
-   "link": "https://www.cnbc.com/2026/09/24/history-shows-financial-calamities-occur-when-rates-rise-rapidly-like-this-something-always-breaks.html",
-   "description": "The 10-year Treasury note yield is spiking to levels not seen in years, and that may be a bad omen for financial markets.",
-   "analysis": {
-    "assets": [
-     {
-      "symbol": "USD",
-      "name": "US Dollar",
-      "direction": "bullish",
-      "confidence": 52,
-      "explanation": "Bullish for US Dollar (52%) - hawkish Fed or strong US data supports the dollar."
-     },
-     {
-      "symbol": "BONDS",
-      "name": "US Treasuries",
-      "direction": "neutral",
-      "confidence": 0,
-      "explanation": "Neutral impact on US Treasuries - no clear directional bias."
-     }
-    ],
-    "overall": "bullish",
-    "score": 1.0,
-    "confidence": 52,
-    "summary": "Bullish (52%) - rise"
    }
   },
   {
