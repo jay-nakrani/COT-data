@@ -1,6 +1,185 @@
 {
- "generated": "2026-10-18T08:36:41.801894+00:00",
+ "generated": "2026-10-18T13:47:23.240841+00:00",
  "news": [
+  {
+   "id": "035b12aa40f9",
+   "title": "Boomers are buying into the promise of monthly income from options ETFs, but there's a tax catch",
+   "pubDate": "2026-10-18T13:10:33+00:00",
+   "pubDateDisplay": "Sun, 18 Oct 2026 13:10:33 GMT",
+   "source": "CNBC",
+   "category": "general",
+   "categories": [],
+   "link": "https://www.cnbc.com/2026/10/18/retirement-income-funds-taxes.html",
+   "description": "Covered call ETFs have been widely adopted by baby boomers to meet monthly income needs, but unlike most ETFs, the tax implications can be significant.",
+   "analysis": {
+    "assets": [],
+    "overall": "neutral",
+    "score": 0,
+    "confidence": 0,
+    "summary": "Neutral / mixed signals"
+   }
+  },
+  {
+   "id": "2dbd8b038d19",
+   "title": "Stocks are heading for a high-stakes showdown, as strong earnings collide with rising borrowing costs",
+   "pubDate": "2026-10-18T13:00:00+00:00",
+   "pubDateDisplay": "Sun, 18 Oct 2026 13:00:00 GMT",
+   "source": "MarketWatch",
+   "category": "general",
+   "categories": [],
+   "link": "https://www.marketwatch.com/story/stocks-are-heading-for-a-high-stakes-showdown-as-strong-earnings-collide-with-rising-borrowing-costs-6f8ea5b8?mod=mw_rss_topstories",
+   "description": "The idea that the AI trade has been mostly immune to rising bond yields isn\u2019t quite right, one strategist notes.",
+   "analysis": {
+    "assets": [
+     {
+      "symbol": "NQ",
+      "name": "Nasdaq 100",
+      "direction": "bearish",
+      "confidence": 52,
+      "explanation": "Bearish for Nasdaq 100 (52%) - risk-off or economic concerns weigh on equities."
+     },
+     {
+      "symbol": "USD",
+      "name": "US Dollar",
+      "direction": "bearish",
+      "confidence": 52,
+      "explanation": "Bearish for US Dollar (52%) - dovish Fed or weak US data weakens the dollar."
+     },
+     {
+      "symbol": "BONDS",
+      "name": "US Treasuries",
+      "direction": "bearish",
+      "confidence": 52,
+      "explanation": "Bearish for US Treasuries (52%) - rate hike expectations or inflation fears hit bonds."
+     }
+    ],
+    "overall": "bullish",
+    "score": 0.33,
+    "confidence": 76,
+    "summary": "Bullish (76%) - rising, strong"
+   }
+  },
+  {
+   "id": "6b083418dc7e",
+   "title": "Trump waives broad new Russia sanctions, Zelenskyy condemns it as 'wrong'",
+   "pubDate": "2026-10-18T12:50:33+00:00",
+   "pubDateDisplay": "Sun, 18 Oct 2026 12:50:33 GMT",
+   "source": "CNBC",
+   "category": "general",
+   "categories": [],
+   "link": "https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html",
+   "description": "Trump signed the Graham Bill, which targeted Russia over its invasion of Ukraine, into law in September.",
+   "analysis": {
+    "assets": [],
+    "overall": "bearish",
+    "score": -1.0,
+    "confidence": 52,
+    "summary": "Bearish (52%) - sanctions"
+   }
+  },
+  {
+   "id": "8e8662a8595a",
+   "title": "Top Wall Street analysts are bullish on the growth potential of these 3 stocks",
+   "pubDate": "2026-10-18T12:34:51+00:00",
+   "pubDateDisplay": "Sun, 18 Oct 2026 12:34:51 GMT",
+   "source": "CNBC",
+   "category": "general",
+   "categories": [],
+   "link": "https://www.cnbc.com/2026/10/18/top-analysts-are-bullish-on-the-growth-potential-of-these-3-stocks.html",
+   "description": "Amid fear of rate hikes and oil prices, investors can look past volatility and track Street analysts' stock picks with strong long-term growth potential.",
+   "analysis": {
+    "assets": [
+     {
+      "symbol": "ES",
+      "name": "S&P 500",
+      "direction": "bullish",
+      "confidence": 64,
+      "explanation": "Bullish for S&P 500 (64%) - risk-on sentiment or positive data supports equity indices."
+     },
+     {
+      "symbol": "OIL",
+      "name": "Crude Oil",
+      "direction": "neutral",
+      "confidence": 50,
+      "explanation": "Neutral impact on Crude Oil - no clear directional bias."
+     }
+    ],
+    "overall": "bullish",
+    "score": 0.33,
+    "confidence": 95,
+    "summary": "Bullish (95%) - bullish, strong, growth, growth"
+   }
+  },
+  {
+   "id": "73fadde0cd2c",
+   "title": "Always on, always listening: New AI devices are pushing legal limits and could put users in jeopardy",
+   "pubDate": "2026-10-18T12:00:01+00:00",
+   "pubDateDisplay": "Sun, 18 Oct 2026 12:00:01 GMT",
+   "source": "CNBC",
+   "category": "general",
+   "categories": [],
+   "link": "https://www.cnbc.com/2026/10/18/ai-wearables-privacy-wiretap-laws.html",
+   "description": "AI always-listening wearables from Apple, Amazon, Meta and other startups are getting creative with privacy rules and fueling concerns about covert recordings.",
+   "analysis": {
+    "assets": [],
+    "overall": "bearish",
+    "score": -1.0,
+    "confidence": 52,
+    "summary": "Bearish (52%) - concerns"
+   }
+  },
+  {
+   "id": "7a89e3057887",
+   "title": "There is a silent market rotation inside the S&P 500 that\u2019s warning of more weakness ahead",
+   "pubDate": "2026-10-18T12:00:00+00:00",
+   "pubDateDisplay": "Sun, 18 Oct 2026 12:00:00 GMT",
+   "source": "MarketWatch",
+   "category": "general",
+   "categories": [],
+   "link": "https://www.marketwatch.com/story/there-is-a-silent-market-rotation-inside-the-s-p-500-thats-warning-of-more-weakness-ahead-549e7650?mod=mw_rss_topstories",
+   "description": "A \u201ctriple-top\u201d reversal chart pattern is pointing to a period of underperformance for the S&P 500 \u2014 perhaps a long one.",
+   "analysis": {
+    "assets": [
+     {
+      "symbol": "ES",
+      "name": "S&P 500",
+      "direction": "bearish",
+      "confidence": 52,
+      "explanation": "Bearish for S&P 500 (52%) - risk-off or economic concerns weigh on equities."
+     }
+    ],
+    "overall": "bearish",
+    "score": -1.0,
+    "confidence": 52,
+    "summary": "Bearish (52%) - weakness"
+   }
+  },
+  {
+   "id": "42d74db3a7de",
+   "title": "Semiconductor market to remain solid \u2018at least through next year,\u2019 South Korea finance minister says",
+   "pubDate": "2026-10-18T11:10:44+00:00",
+   "pubDateDisplay": "Sun, 18 Oct 2026 11:10:44 GMT",
+   "source": "CNBC",
+   "category": "general",
+   "categories": [],
+   "link": "https://www.cnbc.com/2026/10/17/south-korea-semiconductor-outlook-lee-hyoung-il.html",
+   "description": "South Korea's finance minister said semiconductor growth can last at least through 2027 as supply remains tight despite a global chip sell-off.",
+   "analysis": {
+    "assets": [
+     {
+      "symbol": "NQ",
+      "name": "Nasdaq 100",
+      "direction": "bearish",
+      "confidence": 76,
+      "explanation": "Bearish for Nasdaq 100 (76%) - risk-off or economic concerns weigh on equities."
+     }
+    ],
+    "overall": "bearish",
+    "score": -0.33,
+    "confidence": 76,
+    "summary": "Bearish (76%) - sell-off, sell"
+   }
+  },
   {
    "id": "684879abd0fe",
    "title": "Trump's Russia diesel deal may offer Putin more than money \u2014 and spell trouble for Ukraine",
@@ -1429,60 +1608,6 @@
    }
   },
   {
-   "id": "31507e954ced",
-   "title": "Apple\u2019s $1,999 iPhone Duo puts the company's status-symbol power to the test",
-   "pubDate": "2026-10-16T18:55:17+00:00",
-   "pubDateDisplay": "Fri, 16 Oct 2026 18:55:17 GMT",
-   "source": "CNBC",
-   "category": "general",
-   "categories": [],
-   "link": "https://www.cnbc.com/2026/10/16/apple-iphone-duo-demand-price.html",
-   "description": "Apple\u2019s $1,999 iPhone Duo is drawing early demand as analysts assess whether the foldable can lift iPhone pricing and revenue.",
-   "analysis": {
-    "assets": [],
-    "overall": "neutral",
-    "score": 0,
-    "confidence": 0,
-    "summary": "Neutral / mixed signals"
-   }
-  },
-  {
-   "id": "6b0ee56ff647",
-   "title": "AI investors have woken up to the bond market\u2019s warning signs",
-   "pubDate": "2026-10-16T18:52:00+00:00",
-   "pubDateDisplay": "Fri, 16 Oct 2026 18:52:00 GMT",
-   "source": "MarketWatch",
-   "category": "general",
-   "categories": [],
-   "link": "https://www.marketwatch.com/story/ai-investors-have-woken-up-to-the-bond-markets-warning-signs-6f604c61?mod=mw_rss_topstories",
-   "description": "Also in Weekend Reads: Robotic housekeeping, how to save on a wedding, and advice from The Moneyist.",
-   "analysis": {
-    "assets": [],
-    "overall": "bullish",
-    "score": 1.0,
-    "confidence": 52,
-    "summary": "Bullish (52%) - up"
-   }
-  },
-  {
-   "id": "41348550d1ae",
-   "title": "We're downgrading this retail stock after a big comeback. Plus, AI names slide again",
-   "pubDate": "2026-10-16T18:46:19+00:00",
-   "pubDateDisplay": "Fri, 16 Oct 2026 18:46:19 GMT",
-   "source": "CNBC",
-   "category": "general",
-   "categories": [],
-   "link": "https://www.cnbc.com/investingclub/2026/10/16/were-downgrading-this-retail-stock-after-a-big-comeback-plus-ai-names-slide-again.html",
-   "description": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
-   "analysis": {
-    "assets": [],
-    "overall": "bearish",
-    "score": -1.0,
-    "confidence": 52,
-    "summary": "Bearish (52%) - slide"
-   }
-  },
-  {
    "id": "7a1b07667e5f",
    "title": "Oil prices surge higher into the weekend",
    "pubDate": "2026-10-16T18:44:26+00:00",
@@ -1513,60 +1638,6 @@
     ],
     "overall": "neutral",
     "score": 0.14,
-    "confidence": 50,
-    "summary": "Neutral / mixed signals"
-   }
-  },
-  {
-   "id": "552153cb9682",
-   "title": "Could an Anthropic IPO put your 401(k) at risk? The AI safety debate hits a new dimension.",
-   "pubDate": "2026-10-16T18:37:00+00:00",
-   "pubDateDisplay": "Fri, 16 Oct 2026 18:37:00 GMT",
-   "source": "MarketWatch",
-   "category": "general",
-   "categories": [],
-   "link": "https://www.marketwatch.com/story/could-an-anthropic-ipo-put-your-401-k-at-risk-the-ai-safety-debate-hits-a-new-dimension-db3f09f7?mod=mw_rss_topstories",
-   "description": "Anthropic and New York City\u2019s comptroller have opened a line of communication to discuss \u201cexistential risks\u201d posed by AI and what that could mean for the company\u2019s future stock.",
-   "analysis": {
-    "assets": [],
-    "overall": "bearish",
-    "score": -1.0,
-    "confidence": 52,
-    "summary": "Bearish (52%) - risk"
-   }
-  },
-  {
-   "id": "8e8127c36377",
-   "title": "\u2018I like the idea of a big return\u2019: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
-   "pubDate": "2026-10-16T18:30:00+00:00",
-   "pubDateDisplay": "Fri, 16 Oct 2026 18:30:00 GMT",
-   "source": "MarketWatch",
-   "category": "general",
-   "categories": [],
-   "link": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
-   "description": "\u201cI know you\u2019re not supposed to put money you can\u2019t afford to lose into speculative stuff.\u201d",
-   "analysis": {
-    "assets": [],
-    "overall": "bearish",
-    "score": -1.0,
-    "confidence": 52,
-    "summary": "Bearish (52%) - risky"
-   }
-  },
-  {
-   "id": "13b7e19b3771",
-   "title": "The Austin Powers steamroller: How to trade CoreWeave's slow moving crisis",
-   "pubDate": "2026-10-16T18:24:35+00:00",
-   "pubDateDisplay": "Fri, 16 Oct 2026 18:24:35 GMT",
-   "source": "CNBC",
-   "category": "general",
-   "categories": [],
-   "link": "https://www.cnbc.com/2026/10/16/playing-the-coreweave-disconnect.html",
-   "description": "After a 27.5% drop from last Friday's close to this Thursday morning's 52-week lows, followed by a 17% rebound, equity traders holding CoreWeave are dazed.",
-   "analysis": {
-    "assets": [],
-    "overall": "neutral",
-    "score": 0.0,
     "confidence": 50,
     "summary": "Neutral / mixed signals"
    }
@@ -1719,24 +1790,6 @@
       "explanation": "Neutral impact on US Treasuries - no clear directional bias."
      }
     ],
-    "overall": "neutral",
-    "score": 0,
-    "confidence": 0,
-    "summary": "Neutral / mixed signals"
-   }
-  },
-  {
-   "id": "603648f2e6fc",
-   "title": "OpenAI Saudi national bugging case shows threat to U.S. leadership in AI: DNI Clayton",
-   "pubDate": "2026-10-16T16:27:44+00:00",
-   "pubDateDisplay": "Fri, 16 Oct 2026 16:27:44 GMT",
-   "source": "CNBC",
-   "category": "general",
-   "categories": [],
-   "link": "https://www.cnbc.com/2026/10/16/ai-espionage-openai-jay-clayton.html",
-   "description": "AI \"amplifies\" existing cybersecurity risks toward U.S. digital infrastructure, Clayton said on \"Squawk Box.\"",
-   "analysis": {
-    "assets": [],
     "overall": "neutral",
     "score": 0,
     "confidence": 0,
