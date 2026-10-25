@@ -1,6 +1,91 @@
 {
- "generated": "2026-10-24T20:20:56.894132+00:00",
+ "generated": "2026-10-25T00:01:45.163617+00:00",
  "news": [
+  {
+   "id": "cf61c9955c06",
+   "title": "Trading on Margin: What It Means and How to Get Started",
+   "pubDate": "2026-10-24T21:12:07+00:00",
+   "pubDateDisplay": "Sat, 24 Oct 2026 21:12:07 GMT",
+   "source": "ForexLive",
+   "category": "forex",
+   "categories": [
+    "Education"
+   ],
+   "link": "https://investinglive.com/education/trading-on-margin-what-it-means-and-how-to-get-started/",
+   "description": "Why trade Bitcoin if stocks can double? The leverage question traders missA trader recently asked: \"Why trade Bitcoin? What's it gonna do, 2x, 3x? These days stocks can do that. So what's the point?\"It's a reasonable question, but it misses something fundamental about trading: leverage.Traders don't necessarily need Bitcoin, gold or a stock to double in price to achieve a substantial percentage return on their trading capital. Depending on the financial instrument and the size of their position,",
+   "analysis": {
+    "assets": [
+     {
+      "symbol": "GC",
+      "name": "Gold",
+      "direction": "bullish",
+      "confidence": 52,
+      "explanation": "Bullish for Gold (52%) - safe-haven demand or dollar weakness typically lifts precious metals."
+     },
+     {
+      "symbol": "ES",
+      "name": "S&P 500",
+      "direction": "bullish",
+      "confidence": 52,
+      "explanation": "Bullish for S&P 500 (52%) - risk-on sentiment or positive data supports equity indices."
+     },
+     {
+      "symbol": "NQ",
+      "name": "Nasdaq 100",
+      "direction": "neutral",
+      "confidence": 0,
+      "explanation": "Neutral impact on Nasdaq 100 - no clear directional bias."
+     },
+     {
+      "symbol": "USD",
+      "name": "US Dollar",
+      "direction": "bullish",
+      "confidence": 52,
+      "explanation": "Bullish for US Dollar (52%) - hawkish Fed or strong US data supports the dollar."
+     }
+    ],
+    "overall": "neutral",
+    "score": -0.08,
+    "confidence": 50,
+    "summary": "Neutral / mixed signals"
+   }
+  },
+  {
+   "id": "53a856233735",
+   "title": "American embassies tighten security as Iran threat warnings intensify ahead of U.S. midterm elections",
+   "pubDate": "2026-10-24T21:07:01+00:00",
+   "pubDateDisplay": "Sat, 24 Oct 2026 21:07:01 GMT",
+   "source": "CNBC",
+   "category": "general",
+   "categories": [],
+   "link": "https://www.cnbc.com/2026/10/24/iran-threats-us-embassies-middle-east.html",
+   "description": "A memo from DNI director Jay Clayton said Iran is in the \"advanced stages\" of planning attacks against Americans.",
+   "analysis": {
+    "assets": [],
+    "overall": "bullish",
+    "score": 1.0,
+    "confidence": 52,
+    "summary": "Bullish (52%) - advanced"
+   }
+  },
+  {
+   "id": "69771d38362f",
+   "title": "After SpaceX restores high-speed service, Musk claims Ukraine violated Starlink agreement",
+   "pubDate": "2026-10-24T20:38:30+00:00",
+   "pubDateDisplay": "Sat, 24 Oct 2026 20:38:30 GMT",
+   "source": "CNBC",
+   "category": "general",
+   "categories": [],
+   "link": "https://www.cnbc.com/2026/10/24/ukraine-starlink-starshield-service-restored.html",
+   "description": "Ukraine says restrictions on Starlink and Starshield have been lifted, restoring connectivity to fast-moving military systems after disruptions.",
+   "analysis": {
+    "assets": [],
+    "overall": "neutral",
+    "score": 0,
+    "confidence": 0,
+    "summary": "Neutral / mixed signals"
+   }
+  },
   {
    "id": "679708457e5b",
    "title": "My father-in-law, 81, sold his $75,000 home to pay his daughter\u2019s $50,000 debt. How can I keep him from becoming destitute?",
@@ -351,6 +436,24 @@
     "score": 0,
     "confidence": 0,
     "summary": "Neutral / mixed signals"
+   }
+  },
+  {
+   "id": "c121ba5869aa",
+   "title": "Fewer people are flying as airfare soars. Here's why airlines aren't worried",
+   "pubDate": "2026-10-24T15:53:30+00:00",
+   "pubDateDisplay": "Sat, 24 Oct 2026 15:53:30 GMT",
+   "source": "CNBC",
+   "category": "general",
+   "categories": [],
+   "link": "https://www.cnbc.com/2026/10/23/airfare-airline-capacity.html",
+   "description": "Airlines are reporting fewer people flew in the third quarter as airfare surged on fuel costs, but executives say travelers are mostly swallowing higher fares.",
+   "analysis": {
+    "assets": [],
+    "overall": "bullish",
+    "score": 1.0,
+    "confidence": 76,
+    "summary": "Bullish (76%) - soars, higher, not worried"
    }
   },
   {
@@ -1162,24 +1265,6 @@
    }
   },
   {
-   "id": "13b1d2a81693",
-   "title": "The real test for Moderna\u2019s cancer vaccine isn\u2019t about beating Keytruda. It\u2019s keeping cancer from coming back in the long term.",
-   "pubDate": "2026-10-23T21:06:00+00:00",
-   "pubDateDisplay": "Fri, 23 Oct 2026 21:06:00 GMT",
-   "source": "MarketWatch",
-   "category": "general",
-   "categories": [],
-   "link": "https://www.marketwatch.com/story/the-real-test-for-modernas-cancer-vaccine-isnt-about-beating-keytruda-its-keeping-cancer-from-coming-back-in-the-long-term-da9af99f?mod=mw_rss_topstories",
-   "description": "The first Phase 3 data for a cancer vaccine has raised questions about whether the potential new treatment is needed.",
-   "analysis": {
-    "assets": [],
-    "overall": "neutral",
-    "score": 0,
-    "confidence": 0,
-    "summary": "Neutral / mixed signals"
-   }
-  },
-  {
    "id": "11bc6206f77f",
    "title": "In hunt for Starlink alternative, Ukraine partners with Nokia and satellite maker ICEYE",
    "pubDate": "2026-10-23T20:52:23+00:00",
@@ -1195,24 +1280,6 @@
     "score": 0,
     "confidence": 0,
     "summary": "Neutral / mixed signals"
-   }
-  },
-  {
-   "id": "fb9cf7782055",
-   "title": "Some Republicans are opposing Trump on tariffs. Maine\u2019s Susan Collins just got him to back down on Canadian levies.",
-   "pubDate": "2026-10-23T20:50:00+00:00",
-   "pubDateDisplay": "Fri, 23 Oct 2026 20:50:00 GMT",
-   "source": "MarketWatch",
-   "category": "general",
-   "categories": [],
-   "link": "https://www.marketwatch.com/story/some-republicans-are-opposing-trump-on-tariffs-maines-susan-collins-just-got-him-to-back-down-on-canadian-levies-02b202ae?mod=mw_rss_topstories",
-   "description": "As she faces a tough midterm race, the five-term GOP senator is touting her successful lobbying effort against certain tariffs on Canada",
-   "analysis": {
-    "assets": [],
-    "overall": "bullish",
-    "score": 0.33,
-    "confidence": 76,
-    "summary": "Bullish (76%) - tariffs, tariffs"
    }
   },
   {
@@ -1265,39 +1332,6 @@
    }
   },
   {
-   "id": "ab7343f0d669",
-   "title": "10-year Treasury yield drops back to 5% this week as investors seek cover from AI worries",
-   "pubDate": "2026-10-23T20:20:58+00:00",
-   "pubDateDisplay": "Fri, 23 Oct 2026 20:20:58 GMT",
-   "source": "CNBC",
-   "category": "general",
-   "categories": [],
-   "link": "https://www.cnbc.com/2026/10/23/bonds-yields-us-treasurys.html",
-   "description": "The 10-year Treasury yield was just below 5% Friday after AI-driven tech selling sent investors into the safety of government bonds.",
-   "analysis": {
-    "assets": [
-     {
-      "symbol": "USD",
-      "name": "US Dollar",
-      "direction": "bearish",
-      "confidence": 52,
-      "explanation": "Bearish for US Dollar (52%) - dovish Fed or weak US data weakens the dollar."
-     },
-     {
-      "symbol": "BONDS",
-      "name": "US Treasuries",
-      "direction": "bearish",
-      "confidence": 52,
-      "explanation": "Bearish for US Treasuries (52%) - rate hike expectations or inflation fears hit bonds."
-     }
-    ],
-    "overall": "bearish",
-    "score": -1.0,
-    "confidence": 52,
-    "summary": "Bearish (52%) - drops"
-   }
-  },
-  {
    "id": "773ffc9e623d",
    "title": "Trump says he ordered DOJ suit to block Alaska Senate race certification if Republican loses",
    "pubDate": "2026-10-23T20:20:41+00:00",
@@ -1307,24 +1341,6 @@
    "categories": [],
    "link": "https://www.cnbc.com/2026/10/23/alaska-senate-election-doj-lawsuit-sullivan.html",
    "description": "There are two Dan Sullivans on the ballot in the Senate race in Alaska. The DOJ says that fact could help Democratic nominee Mary Peltola defeat both of them.",
-   "analysis": {
-    "assets": [],
-    "overall": "neutral",
-    "score": 0,
-    "confidence": 0,
-    "summary": "Neutral / mixed signals"
-   }
-  },
-  {
-   "id": "5c0cf4b3baac",
-   "title": "The U.S. economy is great by this measure, and the good times aren\u2019t over. So why are Americans so sour?",
-   "pubDate": "2026-10-23T20:19:00+00:00",
-   "pubDateDisplay": "Fri, 23 Oct 2026 20:19:00 GMT",
-   "source": "MarketWatch",
-   "category": "general",
-   "categories": [],
-   "link": "https://www.marketwatch.com/story/the-u-s-economy-is-great-by-this-measure-and-the-good-times-arent-over-so-why-are-americans-so-sour-4be897db?mod=mw_rss_topstories",
-   "description": "A once-in-a-generation investment boom has created lots of winners \u2014 but many Americans are feeling left out.",
    "analysis": {
     "assets": [],
     "overall": "neutral",
@@ -2710,6 +2726,24 @@
    }
   },
   {
+   "id": "8c6175907eeb",
+   "title": "Democratic socialist set to become D.C. mayor \u2014 and face Trump's pushback",
+   "pubDate": "2026-10-23T10:30:01+00:00",
+   "pubDateDisplay": "Fri, 23 Oct 2026 10:30:01 GMT",
+   "source": "CNBC",
+   "category": "general",
+   "categories": [],
+   "link": "https://www.cnbc.com/2026/10/23/janeese-lewis-george-democratic-socialist-washington-dc-mayor.html",
+   "description": "Following Zohran Mamdani's election as New York City mayor, another democratic socialist is set to become mayor of Washington, D.C.",
+   "analysis": {
+    "assets": [],
+    "overall": "neutral",
+    "score": 0,
+    "confidence": 0,
+    "summary": "Neutral / mixed signals"
+   }
+  },
+  {
    "id": "b10efc9b6f7d",
    "title": "Macro pulse: Europe's economy is losing steam but inflation won't let up",
    "pubDate": "2026-10-23T09:54:47+00:00",
@@ -2749,34 +2783,6 @@
     "score": -0.16,
     "confidence": 95,
     "summary": "Bearish (95%) - not up, not up, not up, not higher, rate hike"
-   }
-  },
-  {
-   "id": "9563698d92ff",
-   "title": "Crude oil extends gains as Saudi-Houthi conflict and concerns of US-Iran attacks keep the market supported",
-   "pubDate": "2026-10-23T09:50:15+00:00",
-   "pubDateDisplay": "Fri, 23 Oct 2026 09:50:15 GMT",
-   "source": "ForexLive",
-   "category": "forex",
-   "categories": [
-    "Commodities"
-   ],
-   "link": "https://investinglive.com/commodities/crude-oil-extends-gains-as-saudi-houthi-conflict-and-concerns-of-us-iran-attacks-keep-the-market-supported/",
-   "description": "The bullish momentum in crude oil has been slowly picking up after The New York Times reported that the US and Israeli militaries had developed plans for renewed strikes on Iran following the US midterm elections, with additional forces expected to be fully deployed by early November. The Saudi-Houthi conflict, meanwhile, continues with the Houthis recently targeting Saudi airports and energy infrastructure, including a reported strike near Dammam that killed two people and injured eight. Saudi ",
-   "analysis": {
-    "assets": [
-     {
-      "symbol": "OIL",
-      "name": "Crude Oil",
-      "direction": "bearish",
-      "confidence": 95,
-      "explanation": "Bearish for Crude Oil (95%) - demand concerns or supply glut pressures crude."
-     }
-    ],
-    "overall": "bearish",
-    "score": -0.62,
-    "confidence": 95,
-    "summary": "Bearish (95%) - not bullish, not bullish, not up, not higher, drop"
    }
   },
   {
