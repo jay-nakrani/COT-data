@@ -1,6 +1,1919 @@
 {
- "generated": "2026-11-23T14:05:36.263294+00:00",
+ "generated": "2026-11-24T02:45:51.948512+00:00",
  "news": [
+  {
+   "id": "0e06292415cd",
+   "title": "U.S. adds Megaspeed to trade blacklist over export control concerns amid Nvidia controversy",
+   "pubDate": "2026-11-24T02:37:39+00:00",
+   "pubDateDisplay": "Tue, 24 Nov 2026 02:37:39 GMT",
+   "source": "CNBC",
+   "category": "general",
+   "categories": [],
+   "link": "https://www.cnbc.com/2026/11/24/us-adds-megaspeed-to-trade-blacklist-over-export-control-concerns-.html",
+   "description": "The U.S. has added Megaspeed and six other companies to its trade blacklist over concerns about the potential diversion of advanced computing products.",
+   "analysis": {
+    "assets": [],
+    "overall": "bearish",
+    "score": -0.33,
+    "confidence": 76,
+    "summary": "Bearish (76%) - concerns, concerns"
+   }
+  },
+  {
+   "id": "510227b403cd",
+   "title": "Asian Nvidia-related stocks jump after Huang's return, with Taiwan's near price limits",
+   "pubDate": "2026-11-24T02:20:36+00:00",
+   "pubDateDisplay": "Tue, 24 Nov 2026 02:20:36 GMT",
+   "source": "CNBC",
+   "category": "general",
+   "categories": [],
+   "link": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-asia-chip-stocks.html",
+   "description": "Investors piled back into the tech market, following the reinstatement of Nvidia CEO Jensen Huang by its board.",
+   "analysis": {
+    "assets": [],
+    "overall": "bullish",
+    "score": 1.0,
+    "confidence": 52,
+    "summary": "Bullish (52%) - jump"
+   }
+  },
+  {
+   "id": "d414f5ee1201",
+   "title": "PIMCO: AI debt and refinancing stress are splitting the corporate bond market in two",
+   "pubDate": "2026-11-24T01:59:54+00:00",
+   "pubDateDisplay": "Tue, 24 Nov 2026 01:59:54 GMT",
+   "source": "ForexLive",
+   "category": "forex",
+   "categories": [
+    "Education"
+   ],
+   "link": "https://investinglive.com/education/pimco-ai-debt-and-refinancing-stress-are-splitting-the-corporate-bond-market-in-two/",
+   "description": "The split points to rising default and restructuring risk among CCC-rated borrowers, particularly in technology, media, telecoms and consumer sectors, even without a recession. That's a warning for holders of lower-quality junk debt and for leveraged loan markets. In investment grade, heavy AI issuance from hyperscalers is likely to keep pressure on top-rated tech bonds, while scarce non-AI credit stays in demand. The trend also ties AI's financing needs more closely to bond-market conditions: i",
+   "analysis": {
+    "assets": [
+     {
+      "symbol": "ES",
+      "name": "S&P 500",
+      "direction": "bullish",
+      "confidence": 64,
+      "explanation": "Bullish for S&P 500 (64%) - risk-on sentiment or positive data supports equity indices."
+     },
+     {
+      "symbol": "NQ",
+      "name": "Nasdaq 100",
+      "direction": "neutral",
+      "confidence": 0,
+      "explanation": "Neutral impact on Nasdaq 100 - no clear directional bias."
+     },
+     {
+      "symbol": "USD",
+      "name": "US Dollar",
+      "direction": "bullish",
+      "confidence": 95,
+      "explanation": "Bullish for US Dollar (95%) - hawkish Fed or strong US data supports the dollar."
+     },
+     {
+      "symbol": "BONDS",
+      "name": "US Treasuries",
+      "direction": "bullish",
+      "confidence": 95,
+      "explanation": "Bullish for US Treasuries (95%) - rate cut expectations or safe-haven flows lift bonds."
+     }
+    ],
+    "overall": "neutral",
+    "score": 0.14,
+    "confidence": 50,
+    "summary": "Neutral / mixed signals"
+   }
+  },
+  {
+   "id": "205a6c1b95f8",
+   "title": "Gold's road back to $5,000: four big banks bet on recovery, but the Fed sets the pace",
+   "pubDate": "2026-11-24T01:34:56+00:00",
+   "pubDateDisplay": "Tue, 24 Nov 2026 01:34:56 GMT",
+   "source": "ForexLive",
+   "category": "forex",
+   "categories": [
+    "Commodities"
+   ],
+   "link": "https://investinglive.com/commodities/gold-s-road-back-to-5-000-four-big-banks-bet-on-recovery-but-the-fed-sets-the-pace/",
+   "description": "The banks' common message is that gold's direction in the coming months depends on the Fed, not on geopolitics. Throughout the Iran war, higher oil has fed rate-hike expectations and weighed on bullion. That makes upcoming US inflation data and the December Fed decision the key near-term drivers, with any signs of a peak in tightening likely to bring dip buyers back. Oil is the swing risk: BofA's stress case shows a renewed energy spike could keep gold under pressure well into 2027. Central bank",
+   "analysis": {
+    "assets": [
+     {
+      "symbol": "GC",
+      "name": "Gold",
+      "direction": "neutral",
+      "confidence": 50,
+      "explanation": "Neutral impact on Gold - no clear directional bias."
+     },
+     {
+      "symbol": "SI",
+      "name": "Silver",
+      "direction": "bullish",
+      "confidence": 64,
+      "explanation": "Bullish for Silver (64%) - safe-haven demand or dollar weakness typically lifts precious metals."
+     },
+     {
+      "symbol": "USD",
+      "name": "US Dollar",
+      "direction": "bearish",
+      "confidence": 95,
+      "explanation": "Bearish for US Dollar (95%) - dovish Fed or weak US data weakens the dollar."
+     },
+     {
+      "symbol": "OIL",
+      "name": "Crude Oil",
+      "direction": "bearish",
+      "confidence": 95,
+      "explanation": "Bearish for Crude Oil (95%) - demand concerns or supply glut pressures crude."
+     },
+     {
+      "symbol": "BONDS",
+      "name": "US Treasuries",
+      "direction": "bearish",
+      "confidence": 95,
+      "explanation": "Bearish for US Treasuries (95%) - rate hike expectations or inflation fears hit bonds."
+     }
+    ],
+    "overall": "bearish",
+    "score": -0.18,
+    "confidence": 95,
+    "summary": "Bearish (95%) - not gains, not up, drop, drop, slide"
+   }
+  },
+  {
+   "id": "934af468d0e0",
+   "title": "BlackRock says markets overprice Fed hikes, sees two not three as energy shock fades",
+   "pubDate": "2026-11-24T01:21:05+00:00",
+   "pubDateDisplay": "Tue, 24 Nov 2026 01:21:05 GMT",
+   "source": "ForexLive",
+   "category": "forex",
+   "categories": [
+    "Central Banks"
+   ],
+   "link": "https://investinglive.com/central-banks/blackrock-says-markets-overprice-fed-hikes-sees-two-not-three-as-energy-shock-fades/",
+   "description": "BlackRock's view runs against Monday's hawkish Fed commentary and against market pricing, so the October PCE data becomes a key test. A softer services reading would back BlackRock and could pull Fed pricing toward two hikes, supporting short-dated Treasuries and easing some pressure on the US dollar. For oil, BlackRock's case depends on the recent sharp fall in crude and fuel prices holding. A renewed rise in energy costs would undercut its view and strengthen the case for more Fed tightening. ",
+   "analysis": {
+    "assets": [
+     {
+      "symbol": "ES",
+      "name": "S&P 500",
+      "direction": "bullish",
+      "confidence": 76,
+      "explanation": "Bullish for S&P 500 (76%) - risk-on sentiment or positive data supports equity indices."
+     },
+     {
+      "symbol": "6E",
+      "name": "Euro",
+      "direction": "bearish",
+      "confidence": 95,
+      "explanation": "Bearish for Euro (95%) - relative weakness in this currency vs peers."
+     },
+     {
+      "symbol": "USD",
+      "name": "US Dollar",
+      "direction": "bearish",
+      "confidence": 95,
+      "explanation": "Bearish for US Dollar (95%) - dovish Fed or weak US data weakens the dollar."
+     },
+     {
+      "symbol": "OIL",
+      "name": "Crude Oil",
+      "direction": "bearish",
+      "confidence": 95,
+      "explanation": "Bearish for Crude Oil (95%) - demand concerns or supply glut pressures crude."
+     },
+     {
+      "symbol": "BONDS",
+      "name": "US Treasuries",
+      "direction": "bearish",
+      "confidence": 95,
+      "explanation": "Bearish for US Treasuries (95%) - rate hike expectations or inflation fears hit bonds."
+     }
+    ],
+    "overall": "bearish",
+    "score": -0.22,
+    "confidence": 95,
+    "summary": "Bearish (95%) - not rise, not rises, not rebound, not strong, not growth"
+   }
+  },
+  {
+   "id": "fb9e6b1672d4",
+   "title": "PBOC sets USD/ CNY central rate at 6.7111 (vs. estimate at 6.6757)",
+   "pubDate": "2026-11-24T01:16:09+00:00",
+   "pubDateDisplay": "Tue, 24 Nov 2026 01:16:09 GMT",
+   "source": "ForexLive",
+   "category": "forex",
+   "categories": [
+    "Central Banks"
+   ],
+   "link": "https://investinglive.com/central-banks/pboc-sets-usd-cny-central-rate-at-6-7111-vs-estimate-at-6-6757/",
+   "description": "The PBOC allows the yuan to fluctuate within a +/- 2% range, around this reference rate. More here on this.injects 516 billion yuan of overnight reverse repurchase operations This article was written by Eamonn Sheridan at investinglive.com.",
+   "analysis": {
+    "assets": [
+     {
+      "symbol": "USD",
+      "name": "US Dollar",
+      "direction": "neutral",
+      "confidence": 0,
+      "explanation": "Neutral impact on US Dollar - no clear directional bias."
+     }
+    ],
+    "overall": "neutral",
+    "score": 0,
+    "confidence": 0,
+    "summary": "Neutral / mixed signals"
+   }
+  },
+  {
+   "id": "8828d4d93986",
+   "title": "I\u2019ve been married for 58 years. It\u2019s \u2018our\u2019 money, not \u2018his\u2019 and \u2018hers.\u2019 Why do so many couples keep their finances separate?",
+   "pubDate": "2026-11-24T01:01:00+00:00",
+   "pubDateDisplay": "Tue, 24 Nov 2026 01:01:00 GMT",
+   "source": "MarketWatch",
+   "category": "general",
+   "categories": [],
+   "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
+   "description": "\u201cMy wife stopped working outside the home in 1970.\u201d",
+   "analysis": {
+    "assets": [],
+    "overall": "neutral",
+    "score": 0,
+    "confidence": 0,
+    "summary": "Neutral / mixed signals"
+   }
+  },
+  {
+   "id": "1d37679f76ae",
+   "title": "HPE just posted its strongest growth ever \u2014 but its stock is sinking",
+   "pubDate": "2026-11-24T01:01:00+00:00",
+   "pubDateDisplay": "Tue, 24 Nov 2026 01:01:00 GMT",
+   "source": "MarketWatch",
+   "category": "general",
+   "categories": [],
+   "link": "https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories",
+   "description": "HPE boosted its financial forecast on Monday in the face of strong AI demand.",
+   "analysis": {
+    "assets": [],
+    "overall": "bullish",
+    "score": 1.0,
+    "confidence": 76,
+    "summary": "Bullish (76%) - boosted, strong, growth"
+   }
+  },
+  {
+   "id": "b79c69d064b3",
+   "title": "Analysts cheer Huang's Nvidia return but question the board's sudden U-turn",
+   "pubDate": "2026-11-24T00:57:59+00:00",
+   "pubDateDisplay": "Tue, 24 Nov 2026 00:57:59 GMT",
+   "source": "ForexLive",
+   "category": "forex",
+   "categories": [
+    "Stocks"
+   ],
+   "link": "https://investinglive.com/stocks/analysts-cheer-huang-s-nvidia-return-but-question-the-board-s-sudden-u-turn/",
+   "description": "For investors, the reaction splits into two trades: relief that Nvidia's strategy and customer relationships stay intact, and a new governance discount tied to the board's credibility. The valuation argument, with shares at around 11 times forward earnings according to one fund manager, gives the rebound fundamental support beyond sentiment. Political risk is now a bigger factor in AI stocks after the midterm results, with regulation and limits on data centre development seen as the main threats",
+   "analysis": {
+    "assets": [
+     {
+      "symbol": "ES",
+      "name": "S&P 500",
+      "direction": "neutral",
+      "confidence": 0,
+      "explanation": "Neutral impact on S&P 500 - no clear directional bias."
+     },
+     {
+      "symbol": "NQ",
+      "name": "Nasdaq 100",
+      "direction": "neutral",
+      "confidence": 0,
+      "explanation": "Neutral impact on Nasdaq 100 - no clear directional bias."
+     }
+    ],
+    "overall": "bullish",
+    "score": 0.33,
+    "confidence": 95,
+    "summary": "Bullish (95%) - rally, rally, rebound, strong, higher"
+   }
+  },
+  {
+   "id": "3c0da3f9dc4c",
+   "title": "Amazon faces FAA probe after delivery drone strikes Michigan fiber cable, garage",
+   "pubDate": "2026-11-24T00:56:10+00:00",
+   "pubDateDisplay": "Tue, 24 Nov 2026 00:56:10 GMT",
+   "source": "CNBC",
+   "category": "general",
+   "categories": [],
+   "link": "https://www.cnbc.com/2026/11/23/amazon-drone-crash-michigan-faa-investigation.html",
+   "description": "An Amazon drone \"struck a fiber cable, a residential garage, and became entangled in power lines during takeoff,\" a preliminary FAA report stated.",
+   "analysis": {
+    "assets": [
+     {
+      "symbol": "6B",
+      "name": "British Pound",
+      "direction": "neutral",
+      "confidence": 0,
+      "explanation": "Neutral impact on British Pound - no clear directional bias."
+     }
+    ],
+    "overall": "neutral",
+    "score": 0,
+    "confidence": 0,
+    "summary": "Neutral / mixed signals"
+   }
+  },
+  {
+   "id": "e6f4e755b8c0",
+   "title": "Singapore sees AI boom carrying 2026, but slower AI investment growth to weigh on 2027",
+   "pubDate": "2026-11-24T00:52:41+00:00",
+   "pubDateDisplay": "Tue, 24 Nov 2026 00:52:41 GMT",
+   "source": "ForexLive",
+   "category": "forex",
+   "categories": [
+    "Central Banks"
+   ],
+   "link": "https://investinglive.com/central-banks/singapore-sees-ai-boom-carrying-2026-but-slower-ai-investment-growth-to-weigh-on-2027/",
+   "description": "Coming from one of the region's biggest AI winners, the comments are an early official signal that growth in AI capital spending may peak in 2026. That matters for chip and electronics supply chains across Taiwan, Korea and Japan. Markets are likely to read it as a slowdown in the rate of growth rather than a contraction, so there's limited near-term risk for AI-linked equities. Still, it adds to the debate over 2027 earnings expectations for the sector. For the Singapore dollar, firm near-term ",
+   "analysis": {
+    "assets": [
+     {
+      "symbol": "ES",
+      "name": "S&P 500",
+      "direction": "bullish",
+      "confidence": 76,
+      "explanation": "Bullish for S&P 500 (76%) - risk-on sentiment or positive data supports equity indices."
+     },
+     {
+      "symbol": "NQ",
+      "name": "Nasdaq 100",
+      "direction": "neutral",
+      "confidence": 0,
+      "explanation": "Neutral impact on Nasdaq 100 - no clear directional bias."
+     },
+     {
+      "symbol": "USD",
+      "name": "US Dollar",
+      "direction": "neutral",
+      "confidence": 50,
+      "explanation": "Neutral impact on US Dollar - no clear directional bias."
+     },
+     {
+      "symbol": "OIL",
+      "name": "Crude Oil",
+      "direction": "bullish",
+      "confidence": 95,
+      "explanation": "Bullish for Crude Oil (95%) - supply concerns or demand growth lifts crude prices."
+     }
+    ],
+    "overall": "bullish",
+    "score": 0.39,
+    "confidence": 95,
+    "summary": "Bullish (95%) - rising, advance, strong, strong, strong"
+   }
+  },
+  {
+   "id": "39c0f6a9d250",
+   "title": "Bank of Korea seen hiking to 3.25% this week, with one final move in early 2027",
+   "pubDate": "2026-11-24T00:46:00+00:00",
+   "pubDateDisplay": "Tue, 24 Nov 2026 00:46:00 GMT",
+   "source": "ForexLive",
+   "category": "forex",
+   "categories": [
+    "Central Banks"
+   ],
+   "link": "https://investinglive.com/central-banks/bank-of-korea-seen-hiking-to-3-25-this-week-with-one-final-move-in-early-2027/",
+   "description": "With a hike fully priced, the reaction on Thursday will depend on the BOK's guidance. A signal that the next move is the last would support the 3.50% peak view and could weigh lightly on the won, while an open-ended tone would push Korean bond yields higher. The won's 7% gain this year gives the BOK room to stay measured, but a run of Fed hikes would test that. Korean equities, already at 10-month lows after last week's tech sell-off, face the double hit of higher borrowing costs and fragile sen",
+   "analysis": {
+    "assets": [
+     {
+      "symbol": "NQ",
+      "name": "Nasdaq 100",
+      "direction": "bearish",
+      "confidence": 95,
+      "explanation": "Bearish for Nasdaq 100 (95%) - risk-off or economic concerns weigh on equities."
+     },
+     {
+      "symbol": "USD",
+      "name": "US Dollar",
+      "direction": "bullish",
+      "confidence": 95,
+      "explanation": "Bullish for US Dollar (95%) - hawkish Fed or strong US data supports the dollar."
+     },
+     {
+      "symbol": "BONDS",
+      "name": "US Treasuries",
+      "direction": "bullish",
+      "confidence": 52,
+      "explanation": "Bullish for US Treasuries (52%) - rate cut expectations or safe-haven flows lift bonds."
+     }
+    ],
+    "overall": "bullish",
+    "score": 0.36,
+    "confidence": 95,
+    "summary": "Bullish (95%) - rising, gain, gained, strong, higher"
+   }
+  },
+  {
+   "id": "489c36adbd2a",
+   "title": "PBOC is expected to set the USD/CNY reference rate at 6.6757 \u2013 Reuters estimate",
+   "pubDate": "2026-11-24T00:26:59+00:00",
+   "pubDateDisplay": "Tue, 24 Nov 2026 00:26:59 GMT",
+   "source": "ForexLive",
+   "category": "forex",
+   "categories": [
+    "Central Banks"
+   ],
+   "link": "https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-6757-reuters-estimate/",
+   "description": "The People\u2019s Bank of China is due to set the daily USD/CNY reference rate at around 0115 GMT (2115 US Eastern time), a fixing that remains one of the most closely watched signals in Asian foreign exchange markets. China operates a managed floating exchange rate system, under which the renminbi (yuan) is allowed to trade within a prescribed band around a central reference rate, or midpoint, set each trading day by the PBOC. The current trading band permits the currency to move plus or minus 2% fr",
+   "analysis": {
+    "assets": [
+     {
+      "symbol": "USD",
+      "name": "US Dollar",
+      "direction": "bearish",
+      "confidence": 64,
+      "explanation": "Bearish for US Dollar (64%) - dovish Fed or weak US data weakens the dollar."
+     }
+    ],
+    "overall": "bearish",
+    "score": -1.0,
+    "confidence": 64,
+    "summary": "Bearish (64%) - not strength, not growth"
+   }
+  },
+  {
+   "id": "54cb3621648b",
+   "title": "NinjaTrader Bid/Ask data change: does it affect your indicators and Tick Replay?",
+   "pubDate": "2026-11-24T00:07:17+00:00",
+   "pubDateDisplay": "Tue, 24 Nov 2026 00:07:17 GMT",
+   "source": "ForexLive",
+   "category": "forex",
+   "categories": [
+    "Technical Analysis"
+   ],
+   "link": "https://investinglive.com/technical-analysis/ninjatrader-bid-ask-data-change-does-it-affect-your-indicators-and-tick-replay/",
+   "description": "Well, I got this from NT. Once my heart rate subsided (What does this mean???) I investigated. In a nutshell, NinjaTrader is cutting a data series hardly anyone uses but that clogged its servers, and the bid/ask stamp that order flow traders depend on stays exactly where it is.Summary:NinjaTrader's historical data servers will no longer provide separate historical Bid and Ask data seriesThe company says fewer than 1% of users load them, but recording them made up most of its historical server lo",
+   "analysis": {
+    "assets": [],
+    "overall": "bearish",
+    "score": -1.0,
+    "confidence": 64,
+    "summary": "Bearish (64%) - not up, not higher"
+   }
+  },
+  {
+   "id": "a1ccda3dcc5c",
+   "title": "Singapore Q3 GDP jumps 6.1%, growth forecast lifted to around 6% as exports boom",
+   "pubDate": "2026-11-24T00:05:25+00:00",
+   "pubDateDisplay": "Tue, 24 Nov 2026 00:05:25 GMT",
+   "source": "ForexLive",
+   "category": "forex",
+   "categories": [
+    "News"
+   ],
+   "link": "https://investinglive.com/news/singapore-q3-gdp-jumps-6-1-growth-forecast-lifted-to-around-6-as-exports-boom/",
+   "description": "The upgrade supports the Singapore dollar and reduces any pressure on the Monetary Authority of Singapore to ease at its January review, since stronger growth argues for keeping current settings. For the region, the 30%-32% NODX forecast is a strong signal of continued AI-related electronics demand. That's positive for chip and electronics supply chains in Taiwan, Korea and Malaysia, and it comes the morning after the Nvidia-led rebound in tech stocks. The 2027 range of 2.5% to 4.5% is a reminde",
+   "analysis": {
+    "assets": [
+     {
+      "symbol": "NQ",
+      "name": "Nasdaq 100",
+      "direction": "neutral",
+      "confidence": 50,
+      "explanation": "Neutral impact on Nasdaq 100 - no clear directional bias."
+     },
+     {
+      "symbol": "USD",
+      "name": "US Dollar",
+      "direction": "bullish",
+      "confidence": 76,
+      "explanation": "Bullish for US Dollar (76%) - hawkish Fed or strong US data supports the dollar."
+     },
+     {
+      "symbol": "OIL",
+      "name": "Crude Oil",
+      "direction": "neutral",
+      "confidence": 50,
+      "explanation": "Neutral impact on Crude Oil - no clear directional bias."
+     }
+    ],
+    "overall": "bullish",
+    "score": 0.33,
+    "confidence": 95,
+    "summary": "Bullish (95%) - jumps, advance, advance, advance, advance"
+   }
+  },
+  {
+   "id": "37bb49146edc",
+   "title": "CrowdStrike CEO defends Zscaler acquisition, calls it a 'winning combination'",
+   "pubDate": "2026-11-23T23:53:20+00:00",
+   "pubDateDisplay": "Mon, 23 Nov 2026 23:53:20 GMT",
+   "source": "CNBC",
+   "category": "general",
+   "categories": [],
+   "link": "https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-deal-ceo-george-kurtz.html",
+   "description": "CrowdStrike CEO George Kurtz defended the company's $44 billion acquisition of Zscaler.",
+   "analysis": {
+    "assets": [],
+    "overall": "neutral",
+    "score": 0,
+    "confidence": 0,
+    "summary": "Neutral / mixed signals"
+   }
+  },
+  {
+   "id": "cb41741a0b4b",
+   "title": "AI adoption grows in Asia, but measuring the gains remains tricky",
+   "pubDate": "2026-11-23T23:42:27+00:00",
+   "pubDateDisplay": "Mon, 23 Nov 2026 23:42:27 GMT",
+   "source": "CNBC",
+   "category": "general",
+   "categories": [],
+   "link": "https://www.cnbc.com/2026/11/24/aws-asia-gains-roi.html",
+   "description": "Businesses across Asia-Pacific are seeing returns from AI investments, even as confidence in measuring those gains varies, according to an AWS survey.",
+   "analysis": {
+    "assets": [],
+    "overall": "bullish",
+    "score": 1.0,
+    "confidence": 64,
+    "summary": "Bullish (64%) - gains, gains"
+   }
+  },
+  {
+   "id": "a618744e02a9",
+   "title": "Trump sealed deal for Nvidia to rehire Jensen Huang as CEO",
+   "pubDate": "2026-11-23T23:42:17+00:00",
+   "pubDateDisplay": "Mon, 23 Nov 2026 23:42:17 GMT",
+   "source": "CNBC",
+   "category": "general",
+   "categories": [],
+   "link": "https://www.cnbc.com/2026/11/23/trump-nvidia-jensen-huang.html",
+   "description": "President Trump said his administration gave Nvidia's board assurance that Jensen Huang would not be a national security threat if he was reinstated as CEO.",
+   "analysis": {
+    "assets": [],
+    "overall": "neutral",
+    "score": 0,
+    "confidence": 0,
+    "summary": "Neutral / mixed signals"
+   }
+  },
+  {
+   "id": "d2f7c0a5d895",
+   "title": "Goldman says AI's next test is proving the economics, not the technology",
+   "pubDate": "2026-11-23T23:24:28+00:00",
+   "pubDateDisplay": "Mon, 23 Nov 2026 23:24:28 GMT",
+   "source": "ForexLive",
+   "category": "forex",
+   "categories": [
+    "Stocks"
+   ],
+   "link": "https://investinglive.com/stocks/goldman-says-ai-s-next-test-is-proving-the-economics-not-the-technology/",
+   "description": "Goldman's focus on financing favours companies with strong balance sheets and reliable access to capital, which could widen the valuation gap between cash-rich hyperscalers and highly leveraged AI builders. Its view that agentic AI could push computing demand beyond user growth supports the chip, memory and power supply chain, consistent with its earlier note on AI spending broadening beyond Nvidia. Its expectation that permit and power constraints will shift where capacity is built, not reduce ",
+   "analysis": {
+    "assets": [
+     {
+      "symbol": "NQ",
+      "name": "Nasdaq 100",
+      "direction": "bearish",
+      "confidence": 52,
+      "explanation": "Bearish for Nasdaq 100 (52%) - risk-off or economic concerns weigh on equities."
+     },
+     {
+      "symbol": "OIL",
+      "name": "Crude Oil",
+      "direction": "bearish",
+      "confidence": 52,
+      "explanation": "Bearish for Crude Oil (52%) - demand concerns or supply glut pressures crude."
+     }
+    ],
+    "overall": "neutral",
+    "score": 0.0,
+    "confidence": 50,
+    "summary": "Neutral / mixed signals"
+   }
+  },
+  {
+   "id": "62e6f9942327",
+   "title": "Nvidia sets options-trading record after CEO comeback. Here are the big trades",
+   "pubDate": "2026-11-23T23:24:02+00:00",
+   "pubDateDisplay": "Mon, 23 Nov 2026 23:24:02 GMT",
+   "source": "CNBC",
+   "category": "general",
+   "categories": [],
+   "link": "https://www.cnbc.com/2026/11/23/nvidia-sets-options-trading-record-after-ceo-comeback-here-are-the-big-trades.html",
+   "description": "Nvidia break record for single stock options volume",
+   "analysis": {
+    "assets": [],
+    "overall": "neutral",
+    "score": 0,
+    "confidence": 0,
+    "summary": "Neutral / mixed signals"
+   }
+  },
+  {
+   "id": "d819f27438b8",
+   "title": "The newest addition to the S&P 500 is a maker of viral ice-cream machines",
+   "pubDate": "2026-11-23T23:18:00+00:00",
+   "pubDateDisplay": "Mon, 23 Nov 2026 23:18:00 GMT",
+   "source": "MarketWatch",
+   "category": "general",
+   "categories": [],
+   "link": "https://www.marketwatch.com/story/the-newest-addition-to-the-s-p-500-is-a-maker-of-viral-ice-cream-machines-5c6e209a?mod=mw_rss_topstories",
+   "description": "SharkNinja will join the S&P 500, replacing AES.",
+   "analysis": {
+    "assets": [
+     {
+      "symbol": "ES",
+      "name": "S&P 500",
+      "direction": "neutral",
+      "confidence": 0,
+      "explanation": "Neutral impact on S&P 500 - no clear directional bias."
+     }
+    ],
+    "overall": "neutral",
+    "score": 0,
+    "confidence": 0,
+    "summary": "Neutral / mixed signals"
+   }
+  },
+  {
+   "id": "f87fb7c9df85",
+   "title": "Jim Cramer sees more upside for Nvidia stock with Jensen Huang back as CEO",
+   "pubDate": "2026-11-23T23:14:34+00:00",
+   "pubDateDisplay": "Mon, 23 Nov 2026 23:14:34 GMT",
+   "source": "CNBC",
+   "category": "general",
+   "categories": [],
+   "link": "https://www.cnbc.com/2026/11/23/jim-cramer-nvidia-jensen-huang-ceo-return.html",
+   "description": "CNBC's Jim Cramer said Jensen Huang's return as Nvidia CEO could help revive the chipmaker's battered stock.",
+   "analysis": {
+    "assets": [],
+    "overall": "neutral",
+    "score": 0,
+    "confidence": 0,
+    "summary": "Neutral / mixed signals"
+   }
+  },
+  {
+   "id": "1d26f889c1f9",
+   "title": "Fed's Williams won't rule out back-to-back rate hikes as data drives the path",
+   "pubDate": "2026-11-23T23:08:03+00:00",
+   "pubDateDisplay": "Mon, 23 Nov 2026 23:08:03 GMT",
+   "source": "ForexLive",
+   "category": "forex",
+   "categories": [
+    "Central Banks"
+   ],
+   "link": "https://investinglive.com/central-banks/fed-s-williams-won-t-rule-out-back-to-back-rate-hikes-as-data-drives-the-path/",
+   "description": "The openness to consecutive hikes adds upside risk to Fed pricing beyond December, with traders more likely to build in a follow-up move in early 2027. That should keep short-dated Treasury yields supported and give the US dollar a firmer floor, especially against currencies whose central banks are moving toward cuts. For equities, Williams set a high bar for market weakness to change his view, which limits hopes that renewed tech volatility would slow the Fed. Energy remains central to his infl",
+   "analysis": {
+    "assets": [
+     {
+      "symbol": "ES",
+      "name": "S&P 500",
+      "direction": "bullish",
+      "confidence": 76,
+      "explanation": "Bullish for S&P 500 (76%) - risk-on sentiment or positive data supports equity indices."
+     },
+     {
+      "symbol": "USD",
+      "name": "US Dollar",
+      "direction": "bearish",
+      "confidence": 95,
+      "explanation": "Bearish for US Dollar (95%) - dovish Fed or weak US data weakens the dollar."
+     },
+     {
+      "symbol": "OIL",
+      "name": "Crude Oil",
+      "direction": "neutral",
+      "confidence": 50,
+      "explanation": "Neutral impact on Crude Oil - no clear directional bias."
+     },
+     {
+      "symbol": "BONDS",
+      "name": "US Treasuries",
+      "direction": "neutral",
+      "confidence": 0,
+      "explanation": "Neutral impact on US Treasuries - no clear directional bias."
+     }
+    ],
+    "overall": "bearish",
+    "score": -0.2,
+    "confidence": 95,
+    "summary": "Bearish (95%) - not up, not positive, not positive, drop, slide"
+   }
+  },
+  {
+   "id": "02d703d519a5",
+   "title": "DNI Jay Clayton tapped as acting national cyber director",
+   "pubDate": "2026-11-23T23:02:18+00:00",
+   "pubDateDisplay": "Mon, 23 Nov 2026 23:02:18 GMT",
+   "source": "CNBC",
+   "category": "general",
+   "categories": [],
+   "link": "https://www.cnbc.com/2026/11/23/jay-clayton-cyber-director-kirsten-davies-trump.html",
+   "description": "President Donald Trump last week said he decided to replace Sean Cairncross as national cyber director \"because I didn't think that person was good enough.\"",
+   "analysis": {
+    "assets": [],
+    "overall": "neutral",
+    "score": 0,
+    "confidence": 0,
+    "summary": "Neutral / mixed signals"
+   }
+  },
+  {
+   "id": "e6476605ba69",
+   "title": "CNBC's The China Connection newsletter: AI race spreads from robots to smartphones",
+   "pubDate": "2026-11-23T23:00:01+00:00",
+   "pubDateDisplay": "Mon, 23 Nov 2026 23:00:01 GMT",
+   "source": "CNBC",
+   "category": "general",
+   "categories": [],
+   "link": "https://www.cnbc.com/2026/11/23/cnbcs-the-china-connection-newsletter-ai-race-spreads-to-smartphones.html",
+   "description": "More powerful artificial intelligence models are raising expectations for more powerful on-device chips that can run on devices from robots to smartphones.",
+   "analysis": {
+    "assets": [],
+    "overall": "neutral",
+    "score": 0,
+    "confidence": 0,
+    "summary": "Neutral / mixed signals"
+   }
+  },
+  {
+   "id": "fb001fdb0389",
+   "title": "ANZ pulls first RBA rate cut forward to June 2027, sees three cuts by early 2028",
+   "pubDate": "2026-11-23T22:58:43+00:00",
+   "pubDateDisplay": "Mon, 23 Nov 2026 22:58:43 GMT",
+   "source": "ForexLive",
+   "category": "forex",
+   "categories": [
+    "Central Banks"
+   ],
+   "link": "https://investinglive.com/central-banks/anz-pulls-first-rba-rate-cut-forward-to-june-2027-sees-three-cuts-by-early-2028/",
+   "description": "The bigger story for currency markets is the policy divergence. The RBA is now widely expected to start easing in mid-2027, while the Fed is still on a hiking path, with a December increase broadly expected. A narrowing rate gap between the two would weigh on the Australian dollar against the US dollar over time. Short-dated Australian rates may see limited reaction, because markets had already priced a June cut as more likely than not after the jobs data. The effect is more likely to show up fu",
+   "analysis": {
+    "assets": [
+     {
+      "symbol": "6A",
+      "name": "Australian Dollar",
+      "direction": "neutral",
+      "confidence": 50,
+      "explanation": "Neutral impact on Australian Dollar - no clear directional bias."
+     },
+     {
+      "symbol": "USD",
+      "name": "US Dollar",
+      "direction": "bearish",
+      "confidence": 52,
+      "explanation": "Bearish for US Dollar (52%) - dovish Fed or weak US data weakens the dollar."
+     },
+     {
+      "symbol": "BONDS",
+      "name": "US Treasuries",
+      "direction": "neutral",
+      "confidence": 0,
+      "explanation": "Neutral impact on US Treasuries - no clear directional bias."
+     }
+    ],
+    "overall": "neutral",
+    "score": -0.05,
+    "confidence": 50,
+    "summary": "Neutral / mixed signals"
+   }
+  },
+  {
+   "id": "4ef0e9793ea1",
+   "title": "Nvidia surge: What investors should do with the stock and the AI trade now",
+   "pubDate": "2026-11-23T22:43:38+00:00",
+   "pubDateDisplay": "Mon, 23 Nov 2026 22:43:38 GMT",
+   "source": "CNBC",
+   "category": "general",
+   "categories": [],
+   "link": "https://www.cnbc.com/2026/11/23/nvidia-stock-jensen-huang-ai-trade.html",
+   "description": "The market is loving the return of Jensen Huang, but investors and lawmakers have their guards up.",
+   "analysis": {
+    "assets": [
+     {
+      "symbol": "NQ",
+      "name": "Nasdaq 100",
+      "direction": "bearish",
+      "confidence": 52,
+      "explanation": "Bearish for Nasdaq 100 (52%) - risk-off or economic concerns weigh on equities."
+     }
+    ],
+    "overall": "neutral",
+    "score": 0.0,
+    "confidence": 50,
+    "summary": "Neutral / mixed signals"
+   }
+  },
+  {
+   "id": "31b0e0b9be7e",
+   "title": "Tokyo gets its first look at the Nvidia whiplash as Asia trades the Huang rebound",
+   "pubDate": "2026-11-23T22:30:31+00:00",
+   "pubDateDisplay": "Mon, 23 Nov 2026 22:30:31 GMT",
+   "source": "ForexLive",
+   "category": "forex",
+   "categories": [
+    "Stocks"
+   ],
+   "link": "https://investinglive.com/stocks/tokyo-gets-its-first-look-at-the-nvidia-whiplash-as-asia-trades-the-huang-rebound/",
+   "description": "Asian chip stocks get their first full chance today to respond to Nvidia's reinstatement of Jensen Huang as chief executive, and the setup differs sharply from market to market.Tokyo is the clearest case. Japanese markets were shut on Monday for a public holiday, so today's session is the first since Friday's AI-led sell-off on Wall Street and Monday's sharp rebound, when the Nasdaq Composite jumped 6.5%. Chip equipment and testing names with close ties to the AI supply chain, such as Advantest ",
+   "analysis": {
+    "assets": [
+     {
+      "symbol": "ES",
+      "name": "S&P 500",
+      "direction": "neutral",
+      "confidence": 50,
+      "explanation": "Neutral impact on S&P 500 - no clear directional bias."
+     },
+     {
+      "symbol": "NQ",
+      "name": "Nasdaq 100",
+      "direction": "bullish",
+      "confidence": 95,
+      "explanation": "Bullish for Nasdaq 100 (95%) - risk-on sentiment or positive data supports equity indices."
+     },
+     {
+      "symbol": "6J",
+      "name": "Japanese Yen",
+      "direction": "bullish",
+      "confidence": 52,
+      "explanation": "Bullish for Japanese Yen (52%) - relative strength in this currency vs peers."
+     }
+    ],
+    "overall": "neutral",
+    "score": 0.11,
+    "confidence": 50,
+    "summary": "Neutral / mixed signals"
+   }
+  },
+  {
+   "id": "7c8002568498",
+   "title": "Average 401(k), IRA balances fall as more workers tap their accounts, Fidelity says",
+   "pubDate": "2026-11-23T22:09:55+00:00",
+   "pubDateDisplay": "Mon, 23 Nov 2026 22:09:55 GMT",
+   "source": "CNBC",
+   "category": "general",
+   "categories": [],
+   "link": "https://www.cnbc.com/2026/11/23/fidelity-401k-ira-balances-q3-2026.html",
+   "description": "Retirement account balances fell in the third quarter amid market swings, according to Fidelity. At the same time, more savers tapped their accounts for cash.",
+   "analysis": {
+    "assets": [],
+    "overall": "bearish",
+    "score": -1.0,
+    "confidence": 64,
+    "summary": "Bearish (64%) - fall, fell"
+   }
+  },
+  {
+   "id": "0982242026f6",
+   "title": "Nvidia\u2019s stock is surging again. What to know before chasing the AI rally.",
+   "pubDate": "2026-11-23T22:04:00+00:00",
+   "pubDateDisplay": "Mon, 23 Nov 2026 22:04:00 GMT",
+   "source": "MarketWatch",
+   "category": "general",
+   "categories": [],
+   "link": "https://www.marketwatch.com/story/nvidias-stock-is-surging-again-what-to-know-before-chasing-the-ai-rally-226688d7?mod=mw_rss_topstories",
+   "description": "Jensen Huang\u2019s return to Nvidia was the good news that the AI trade needed, but investors should prepare for more volatility",
+   "analysis": {
+    "assets": [
+     {
+      "symbol": "NQ",
+      "name": "Nasdaq 100",
+      "direction": "neutral",
+      "confidence": 0,
+      "explanation": "Neutral impact on Nasdaq 100 - no clear directional bias."
+     }
+    ],
+    "overall": "bearish",
+    "score": -1.0,
+    "confidence": 52,
+    "summary": "Bearish (52%) - not rally"
+   }
+  },
+  {
+   "id": "0b711ed68cc7",
+   "title": "Goldman sees up to $15 trillion for AI infrastructure as spending spreads beyond Nvidia",
+   "pubDate": "2026-11-23T22:03:41+00:00",
+   "pubDateDisplay": "Mon, 23 Nov 2026 22:03:41 GMT",
+   "source": "ForexLive",
+   "category": "forex",
+   "categories": [
+    "Stocks"
+   ],
+   "link": "https://investinglive.com/stocks/goldman-sees-up-to-15-trillion-for-ai-infrastructure-as-spending-spreads-beyond-nvidia/",
+   "description": "Goldman's framing favours the bottleneck parts of the AI supply chain, particularly memory makers, advanced packaging specialists and power infrastructure, over a single-stock bet on Nvidia. That is relevant for Asian equities, where memory and packaging exposure is concentrated in Korea and Taiwan. The view that neocloud lending now depends on milestones should ease some credit concerns around the sector, although it also implies slower, more conditional build-outs. The power angle ties AI spen",
+   "analysis": {
+    "assets": [
+     {
+      "symbol": "NQ",
+      "name": "Nasdaq 100",
+      "direction": "bullish",
+      "confidence": 64,
+      "explanation": "Bullish for Nasdaq 100 (64%) - risk-on sentiment or positive data supports equity indices."
+     },
+     {
+      "symbol": "OIL",
+      "name": "Crude Oil",
+      "direction": "neutral",
+      "confidence": 0,
+      "explanation": "Neutral impact on Crude Oil - no clear directional bias."
+     }
+    ],
+    "overall": "neutral",
+    "score": 0.14,
+    "confidence": 50,
+    "summary": "Neutral / mixed signals"
+   }
+  },
+  {
+   "id": "cb1e2b2b3b1d",
+   "title": "ESPN, NFL to show Super Bowl 61 in Imax theaters",
+   "pubDate": "2026-11-23T21:55:27+00:00",
+   "pubDateDisplay": "Mon, 23 Nov 2026 21:55:27 GMT",
+   "source": "CNBC",
+   "category": "general",
+   "categories": [],
+   "link": "https://www.cnbc.com/2026/11/23/espn-nfl-super-bowl-imax.html",
+   "description": "In addition to ESPN channels, Super Bowl 61 will also be available on streaming platform Disney+ as well as the company's broadcast network ABC.",
+   "analysis": {
+    "assets": [],
+    "overall": "neutral",
+    "score": 0,
+    "confidence": 0,
+    "summary": "Neutral / mixed signals"
+   }
+  },
+  {
+   "id": "d5e945f037a7",
+   "title": "U.S. stocks see best day in more than a year, as return of Jensen Huang revives AI enthusiasm",
+   "pubDate": "2026-11-23T21:51:00+00:00",
+   "pubDateDisplay": "Mon, 23 Nov 2026 21:51:00 GMT",
+   "source": "MarketWatch",
+   "category": "general",
+   "categories": [],
+   "link": "https://www.marketwatch.com/story/u-s-stocks-see-best-day-in-more-than-a-year-as-return-of-jensen-huang-revives-ai-enthusiasm-c3b9d274?mod=mw_rss_topstories",
+   "description": "Jensen Huang\u2019s return as CEO of Nvidia powered a massive bounce in the U.S. stock market on Monday by helping to restore faith in the artificial-intelligence trade.",
+   "analysis": {
+    "assets": [],
+    "overall": "bullish",
+    "score": 1.0,
+    "confidence": 52,
+    "summary": "Bullish (52%) - bounce"
+   }
+  },
+  {
+   "id": "8d4b34802f5f",
+   "title": "Fed's Williams pins inflation on unusual factors, sees 2027 bringing it lower",
+   "pubDate": "2026-11-23T21:45:59+00:00",
+   "pubDateDisplay": "Mon, 23 Nov 2026 21:45:59 GMT",
+   "source": "ForexLive",
+   "category": "forex",
+   "categories": [
+    "Central Banks"
+   ],
+   "link": "https://investinglive.com/central-banks/fed-s-williams-pins-inflation-on-unusual-factors-sees-2027-bringing-it-lower/",
+   "description": "The Q&A softens the tone of Williams' prepared remarks without changing their core message, so pricing for a quarter-point hike on December 9 is unlikely to move much. His focus on unusual factors puts energy back at the centre. Brent is still around $92, well above the roughly $72 seen in late February before the US war with Iran began, so oil remains the main factor in how quickly 2027 delivers the lower inflation he expects. A sustained fall in crude would strengthen the case for a shallower ",
+   "analysis": {
+    "assets": [
+     {
+      "symbol": "USD",
+      "name": "US Dollar",
+      "direction": "bearish",
+      "confidence": 95,
+      "explanation": "Bearish for US Dollar (95%) - dovish Fed or weak US data weakens the dollar."
+     },
+     {
+      "symbol": "OIL",
+      "name": "Crude Oil",
+      "direction": "bearish",
+      "confidence": 95,
+      "explanation": "Bearish for Crude Oil (95%) - demand concerns or supply glut pressures crude."
+     }
+    ],
+    "overall": "bearish",
+    "score": -0.2,
+    "confidence": 95,
+    "summary": "Bearish (95%) - not strong, not strength, not easing, not growth, not growth"
+   }
+  },
+  {
+   "id": "ac635bf014f9",
+   "title": "Consumer stocks, seen as safe bet amid cracks in AI trade, were among the S&P 500\u2019s biggest losers Monday",
+   "pubDate": "2026-11-23T21:45:00+00:00",
+   "pubDateDisplay": "Mon, 23 Nov 2026 21:45:00 GMT",
+   "source": "MarketWatch",
+   "category": "general",
+   "categories": [],
+   "link": "https://www.marketwatch.com/story/consumer-stocks-seen-as-safe-bet-amid-cracks-in-ai-trade-are-among-the-s-p-500s-biggest-losers-monday-80cf8f81?mod=mw_rss_topstories",
+   "description": "Shares of Kroger and Tyson Foods fall, as Nvidia storms higher",
+   "analysis": {
+    "assets": [
+     {
+      "symbol": "ES",
+      "name": "S&P 500",
+      "direction": "neutral",
+      "confidence": 0,
+      "explanation": "Neutral impact on S&P 500 - no clear directional bias."
+     },
+     {
+      "symbol": "NQ",
+      "name": "Nasdaq 100",
+      "direction": "neutral",
+      "confidence": 0,
+      "explanation": "Neutral impact on Nasdaq 100 - no clear directional bias."
+     }
+    ],
+    "overall": "neutral",
+    "score": 0.0,
+    "confidence": 50,
+    "summary": "Neutral / mixed signals"
+   }
+  },
+  {
+   "id": "8be29dd04f3e",
+   "title": "Nvidia's Huang is back. Monday's rally leaves three big questions unanswered.",
+   "pubDate": "2026-11-23T21:40:15+00:00",
+   "pubDateDisplay": "Mon, 23 Nov 2026 21:40:15 GMT",
+   "source": "ForexLive",
+   "category": "forex",
+   "categories": [
+    "Stocks"
+   ],
+   "link": "https://investinglive.com/stocks/nvidia-s-huang-is-back-monday-s-rally-leaves-three-big-questions-unanswered/",
+   "description": "Asia gets the first real test today of whether the relief extends beyond US chipmakers: Tokyo reopens after a holiday, and Seoul's memory makers sold off before the news broke. In rates, a firmer equity backdrop gives the Fed cover to raise rates in December, which should keep short-dated Treasury yields supported and limit any pullback in the US dollar. Energy shares lagged during the rebound, which suggests the money returning to AI did not spill over into commodity-linked sectors. Nvidia vola",
+   "analysis": {
+    "assets": [
+     {
+      "symbol": "ES",
+      "name": "S&P 500",
+      "direction": "bullish",
+      "confidence": 95,
+      "explanation": "Bullish for S&P 500 (95%) - risk-on sentiment or positive data supports equity indices."
+     },
+     {
+      "symbol": "NQ",
+      "name": "Nasdaq 100",
+      "direction": "neutral",
+      "confidence": 50,
+      "explanation": "Neutral impact on Nasdaq 100 - no clear directional bias."
+     },
+     {
+      "symbol": "6J",
+      "name": "Japanese Yen",
+      "direction": "neutral",
+      "confidence": 0,
+      "explanation": "Neutral impact on Japanese Yen - no clear directional bias."
+     },
+     {
+      "symbol": "USD",
+      "name": "US Dollar",
+      "direction": "neutral",
+      "confidence": 50,
+      "explanation": "Neutral impact on US Dollar - no clear directional bias."
+     },
+     {
+      "symbol": "OIL",
+      "name": "Crude Oil",
+      "direction": "bearish",
+      "confidence": 95,
+      "explanation": "Bearish for Crude Oil (95%) - demand concerns or supply glut pressures crude."
+     },
+     {
+      "symbol": "BONDS",
+      "name": "US Treasuries",
+      "direction": "neutral",
+      "confidence": 0,
+      "explanation": "Neutral impact on US Treasuries - no clear directional bias."
+     }
+    ],
+    "overall": "bullish",
+    "score": 0.31,
+    "confidence": 95,
+    "summary": "Bullish (95%) - rose, rally, rally, rally, gains"
+   }
+  },
+  {
+   "id": "44ed8868b847",
+   "title": "These stocks are the biggest gainers after Jensen Huang\u2019s return to Nvidia",
+   "pubDate": "2026-11-23T21:36:00+00:00",
+   "pubDateDisplay": "Mon, 23 Nov 2026 21:36:00 GMT",
+   "source": "MarketWatch",
+   "category": "general",
+   "categories": [],
+   "link": "https://www.marketwatch.com/story/these-stocks-are-the-biggest-gainers-after-jensen-huangs-return-to-nvidia-bb886140?mod=mw_rss_topstories",
+   "description": "Huang\u2019s comeback offers relief to the battered AI trade and drives major boosts across the tech sector.",
+   "analysis": {
+    "assets": [
+     {
+      "symbol": "NQ",
+      "name": "Nasdaq 100",
+      "direction": "bullish",
+      "confidence": 52,
+      "explanation": "Bullish for Nasdaq 100 (52%) - risk-on sentiment or positive data supports equity indices."
+     }
+    ],
+    "overall": "bullish",
+    "score": 1.0,
+    "confidence": 52,
+    "summary": "Bullish (52%) - boosts"
+   }
+  },
+  {
+   "id": "4526e33b101b",
+   "title": "Amazon may have just found a \u2018cheap\u2019 way to get a lot more out of its chips",
+   "pubDate": "2026-11-23T21:33:00+00:00",
+   "pubDateDisplay": "Mon, 23 Nov 2026 21:33:00 GMT",
+   "source": "MarketWatch",
+   "category": "general",
+   "categories": [],
+   "link": "https://www.marketwatch.com/story/amazon-may-have-just-found-a-cheap-way-to-get-a-lot-more-out-of-its-chips-bd822bd5?mod=mw_rss_topstories",
+   "description": "Amazon\u2019s deal for Decart\u2019s AI technology, with a reported price of $7.5 billion, may be a relatively inexpensive way to boost the speed and efficiency of its custom chips, says an analyst.",
+   "analysis": {
+    "assets": [],
+    "overall": "bullish",
+    "score": 1.0,
+    "confidence": 52,
+    "summary": "Bullish (52%) - boost"
+   }
+  },
+  {
+   "id": "bccda6065a83",
+   "title": "Jensen Huang is back in charge. Nvidia moves higher.",
+   "pubDate": "2026-11-23T21:25:42+00:00",
+   "pubDateDisplay": "Mon, 23 Nov 2026 21:25:42 GMT",
+   "source": "ForexLive",
+   "category": "forex",
+   "categories": [
+    "Stocks"
+   ],
+   "link": "https://investinglive.com/stocks/jensen-huang-is-back-in-charge-nvidia-moves-higher/",
+   "description": "The S&P 500 and Nasdaq Composite had their best day since April 9, 2025, as buyers returned to beaten-down AI and chip stocks. Nvidia led the rebound, jumping $39.52 to $165.05 after its board reinstated Jensen Huang as CEO. The Nasdaq 100 gained 6.86%, the biggest move among the major US indices, while the Dow added more than 1,448 points. The buying spread well beyond Nvidia. The Russell 2000 rose 3.40%, 26 of the 30 Dow stocks advanced, and S&P 500 gainers outnumbered decliners 406 to 79. Bot",
+   "analysis": {
+    "assets": [
+     {
+      "symbol": "ES",
+      "name": "S&P 500",
+      "direction": "bullish",
+      "confidence": 95,
+      "explanation": "Bullish for S&P 500 (95%) - risk-on sentiment or positive data supports equity indices."
+     },
+     {
+      "symbol": "NQ",
+      "name": "Nasdaq 100",
+      "direction": "bullish",
+      "confidence": 95,
+      "explanation": "Bullish for Nasdaq 100 (95%) - risk-on sentiment or positive data supports equity indices."
+     },
+     {
+      "symbol": "YM",
+      "name": "Dow Jones",
+      "direction": "neutral",
+      "confidence": 0,
+      "explanation": "Neutral impact on Dow Jones - no clear directional bias."
+     },
+     {
+      "symbol": "OIL",
+      "name": "Crude Oil",
+      "direction": "bearish",
+      "confidence": 52,
+      "explanation": "Bearish for Crude Oil (52%) - demand concerns or supply glut pressures crude."
+     }
+    ],
+    "overall": "bullish",
+    "score": 0.52,
+    "confidence": 95,
+    "summary": "Bullish (95%) - rose, gain, gain, gained, gained"
+   }
+  },
+  {
+   "id": "9b51a2a35d5e",
+   "title": "Oracle and CoreWeave stocks stage big gains as investors bet the AI cash will keep flowing",
+   "pubDate": "2026-11-23T21:24:00+00:00",
+   "pubDateDisplay": "Mon, 23 Nov 2026 21:24:00 GMT",
+   "source": "MarketWatch",
+   "category": "general",
+   "categories": [],
+   "link": "https://www.marketwatch.com/story/oracle-and-coreweave-stocks-stage-big-gains-as-investors-bet-the-ai-cash-will-keep-flowing-eeb1aa85?mod=mw_rss_topstories",
+   "description": "Nvidia\u2019s financing of the AI ecosystem has been crucial for cloud companies like Oracle, CoreWeave, Nebius and Iren.",
+   "analysis": {
+    "assets": [],
+    "overall": "bullish",
+    "score": 1.0,
+    "confidence": 52,
+    "summary": "Bullish (52%) - gains"
+   }
+  },
+  {
+   "id": "2a42701e4aaa",
+   "title": "Tech stocks see monster rally after Jensen Huang returns as Nvidia CEO",
+   "pubDate": "2026-11-23T21:22:13+00:00",
+   "pubDateDisplay": "Mon, 23 Nov 2026 21:22:13 GMT",
+   "source": "CNBC",
+   "category": "general",
+   "categories": [],
+   "link": "https://www.cnbc.com/2026/11/23/anthropic-nvidia-shares.html",
+   "description": "The Nasdaq slid 10% last week in its worst week since the early days of Covid in 2020.",
+   "analysis": {
+    "assets": [
+     {
+      "symbol": "NQ",
+      "name": "Nasdaq 100",
+      "direction": "neutral",
+      "confidence": 50,
+      "explanation": "Neutral impact on Nasdaq 100 - no clear directional bias."
+     }
+    ],
+    "overall": "neutral",
+    "score": 0.0,
+    "confidence": 50,
+    "summary": "Neutral / mixed signals"
+   }
+  },
+  {
+   "id": "51e7ac893da2",
+   "title": "Short sellers get smoked as Nvidia tallies biggest one-day gain in stock-market history",
+   "pubDate": "2026-11-23T21:19:00+00:00",
+   "pubDateDisplay": "Mon, 23 Nov 2026 21:19:00 GMT",
+   "source": "MarketWatch",
+   "category": "general",
+   "categories": [],
+   "link": "https://www.marketwatch.com/story/short-sellers-get-smoked-as-nvidia-tallies-biggest-one-day-gain-in-stock-market-history-e9dc6e9c?mod=mw_rss_topstories",
+   "description": "Two products aiming to profit off daily declines in Nvidia shares were nearly wiped out as the stock rallied more than 30%.",
+   "analysis": {
+    "assets": [],
+    "overall": "neutral",
+    "score": 0.0,
+    "confidence": 50,
+    "summary": "Neutral / mixed signals"
+   }
+  },
+  {
+   "id": "607a75402dfc",
+   "title": "Stocks Stage Biggest Rally Since April 2025 as Nvidia Reinstates Huang \u2013 US Market Wrap",
+   "pubDate": "2026-11-23T21:16:52+00:00",
+   "pubDateDisplay": "Mon, 23 Nov 2026 21:16:52 +0000",
+   "source": "FinancialJuice",
+   "category": "forex",
+   "categories": [
+    "Daily Dose",
+    "US"
+   ],
+   "link": "https://features.financialjuice.com/2026/11/23/stocks-stage-biggest-rally-since-april-2025-as-nvidia-reinstates-huang-us-market-wrap/",
+   "description": "US stocks surged in their strongest rally since April 2025 after Nvidia reinstated Jensen Huang as chief executive officer, reviving confidence in the artificial-intelligence trade following weeks of heavy selling. Nvidia shares soared 31%, their largest single-day gain since 2003, after the chipmaker had recently been at the center of a market rout that pushed the Nasdaq 100 toward bear-market territory. The tech-heavy index jumped 6.9%, while the S&#38;P 500 climbed 4.7%. A key semiconductor i",
+   "analysis": {
+    "assets": [
+     {
+      "symbol": "ES",
+      "name": "S&P 500",
+      "direction": "bullish",
+      "confidence": 52,
+      "explanation": "Bullish for S&P 500 (52%) - risk-on sentiment or positive data supports equity indices."
+     },
+     {
+      "symbol": "NQ",
+      "name": "Nasdaq 100",
+      "direction": "bullish",
+      "confidence": 52,
+      "explanation": "Bullish for Nasdaq 100 (52%) - risk-on sentiment or positive data supports equity indices."
+     }
+    ],
+    "overall": "bullish",
+    "score": 0.78,
+    "confidence": 95,
+    "summary": "Bullish (95%) - rally, rally, rally, gain, jumped"
+   }
+  },
+  {
+   "id": "99861c9e9d09",
+   "title": "Economic and event calendar in Asia Tuesday, November 24, 2026: Singapore and Japan",
+   "pubDate": "2026-11-23T21:16:15+00:00",
+   "pubDateDisplay": "Mon, 23 Nov 2026 21:16:15 GMT",
+   "source": "ForexLive",
+   "category": "forex",
+   "categories": [
+    "News"
+   ],
+   "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-tuesday-november-24-2026-singapore-and-japan/",
+   "description": "Singapore Q3 GDP: 0000 GMT / 1900 US EasternSingapore starts the Asian data day with third-quarter GDP. Economists expect growth of 1.3% quarter on quarter, up from 1.1% in the previous reading. On a year-on-year basis, they expect 5.6% against 5.4% before.If the figures land on forecast, they will confirm that the city-state's economy gained speed through the third quarter, at a strong annual pace for a mature, trade-dependent economy. Singapore is often read as a bellwether for regional trade,",
+   "analysis": {
+    "assets": [
+     {
+      "symbol": "6J",
+      "name": "Japanese Yen",
+      "direction": "neutral",
+      "confidence": 0,
+      "explanation": "Neutral impact on Japanese Yen - no clear directional bias."
+     },
+     {
+      "symbol": "USD",
+      "name": "US Dollar",
+      "direction": "bullish",
+      "confidence": 52,
+      "explanation": "Bullish for US Dollar (52%) - hawkish Fed or strong US data supports the dollar."
+     },
+     {
+      "symbol": "OIL",
+      "name": "Crude Oil",
+      "direction": "bullish",
+      "confidence": 52,
+      "explanation": "Bullish for Crude Oil (52%) - supply concerns or demand growth lifts crude prices."
+     }
+    ],
+    "overall": "bullish",
+    "score": 0.25,
+    "confidence": 95,
+    "summary": "Bullish (95%) - strong, strong, up, up, up"
+   }
+  },
+  {
+   "id": "784b85727765",
+   "title": "investingLive Americas market news wrap: Nvidia climbs 30% as Jensen Huang returns",
+   "pubDate": "2026-11-23T21:09:01+00:00",
+   "pubDateDisplay": "Mon, 23 Nov 2026 21:09:01 GMT",
+   "source": "ForexLive",
+   "category": "forex",
+   "categories": [
+    "News"
+   ],
+   "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-nvidia-climbs-30-as-jensen-huang-returns/",
+   "description": "Nvidia board reinstates Jensen Huang as President and CEO, effective immediatelyS&P Global US services November flash PMI 54.7 vs 55.7 expectedU.S. Treasury sells $69 billion the two-year notes at a high yield of 4.700%Markets:Gold up $103 to $3635US 10-year yields up 11 bps to 4.92%USD leads, EUR lagsS&P 500 up 4.8%Nasdaq up 6.5%WTI crude oil down $3.34 to $80.10Two weeks of exile and a massive market rout was enough to prompt a major re-think on the importance of Jensen Huang. We learned today",
+   "analysis": {
+    "assets": [
+     {
+      "symbol": "GC",
+      "name": "Gold",
+      "direction": "bullish",
+      "confidence": 64,
+      "explanation": "Bullish for Gold (64%) - safe-haven demand or dollar weakness typically lifts precious metals."
+     },
+     {
+      "symbol": "NQ",
+      "name": "Nasdaq 100",
+      "direction": "bullish",
+      "confidence": 52,
+      "explanation": "Bullish for Nasdaq 100 (52%) - risk-on sentiment or positive data supports equity indices."
+     },
+     {
+      "symbol": "6E",
+      "name": "Euro",
+      "direction": "bullish",
+      "confidence": 52,
+      "explanation": "Bullish for Euro (52%) - relative strength in this currency vs peers."
+     },
+     {
+      "symbol": "USD",
+      "name": "US Dollar",
+      "direction": "bullish",
+      "confidence": 76,
+      "explanation": "Bullish for US Dollar (76%) - hawkish Fed or strong US data supports the dollar."
+     },
+     {
+      "symbol": "OIL",
+      "name": "Crude Oil",
+      "direction": "bearish",
+      "confidence": 64,
+      "explanation": "Bearish for Crude Oil (64%) - demand concerns or supply glut pressures crude."
+     },
+     {
+      "symbol": "BONDS",
+      "name": "US Treasuries",
+      "direction": "bullish",
+      "confidence": 64,
+      "explanation": "Bullish for US Treasuries (64%) - rate cut expectations or safe-haven flows lift bonds."
+     }
+    ],
+    "overall": "bullish",
+    "score": 0.33,
+    "confidence": 95,
+    "summary": "Bullish (95%) - gains, climbs, strong, up, up"
+   }
+  },
+  {
+   "id": "8a3bd6bb9d34",
+   "title": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 31%",
+   "pubDate": "2026-11-23T21:08:05+00:00",
+   "pubDateDisplay": "Mon, 23 Nov 2026 21:08:05 GMT",
+   "source": "CNBC",
+   "category": "general",
+   "categories": [],
+   "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+   "description": "The Nvidia board said it had input from senior levels of the U.S. government.",
+   "analysis": {
+    "assets": [],
+    "overall": "neutral",
+    "score": 0,
+    "confidence": 0,
+    "summary": "Neutral / mixed signals"
+   }
+  },
+  {
+   "id": "46d2eb4ec82d",
+   "title": "Williams keeps December Fed hike in play as inflation seen above 2% until 2028",
+   "pubDate": "2026-11-23T21:06:53+00:00",
+   "pubDateDisplay": "Mon, 23 Nov 2026 21:06:53 GMT",
+   "source": "ForexLive",
+   "category": "forex",
+   "categories": [
+    "Central Banks"
+   ],
+   "link": "https://investinglive.com/central-banks/williams-keeps-december-fed-hike-in-play-as-inflation-seen-above-2-until-2028/",
+   "description": "Williams' remarks support pricing for a quarter-point hike in December and further tightening in 2027, which should keep front-end Treasury yields firm and give the US dollar some support. Energy features in his inflation story, and he calls the energy outlook uncertain, so any renewed rise in oil would add to the hawkish case. For equities, his message suggests the Fed will not step back from tightening just because stocks have been volatile, though the AI-led rally shows risk appetite can hold",
+   "analysis": {
+    "assets": [
+     {
+      "symbol": "USD",
+      "name": "US Dollar",
+      "direction": "neutral",
+      "confidence": 50,
+      "explanation": "Neutral impact on US Dollar - no clear directional bias."
+     },
+     {
+      "symbol": "OIL",
+      "name": "Crude Oil",
+      "direction": "bearish",
+      "confidence": 88,
+      "explanation": "Bearish for Crude Oil (88%) - demand concerns or supply glut pressures crude."
+     },
+     {
+      "symbol": "BONDS",
+      "name": "US Treasuries",
+      "direction": "bullish",
+      "confidence": 76,
+      "explanation": "Bullish for US Treasuries (76%) - rate cut expectations or safe-haven flows lift bonds."
+     }
+    ],
+    "overall": "neutral",
+    "score": -0.03,
+    "confidence": 50,
+    "summary": "Neutral / mixed signals"
+   }
+  },
+  {
+   "id": "671a88766433",
+   "title": "CrowdStrike to buy Zscaler in $44 billion deal as AI supercharges cyberattacks",
+   "pubDate": "2026-11-23T21:04:03+00:00",
+   "pubDateDisplay": "Mon, 23 Nov 2026 21:04:03 GMT",
+   "source": "CNBC",
+   "category": "general",
+   "categories": [],
+   "link": "https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-aquisition-ai-cyberattacks.html",
+   "description": "CrowdStrike and competitors have shelled out billions to ramp up defenses in the wake of AI cyberattacks.",
+   "analysis": {
+    "assets": [],
+    "overall": "bullish",
+    "score": 1.0,
+    "confidence": 64,
+    "summary": "Bullish (64%) - up, buy"
+   }
+  },
+  {
+   "id": "43946c109658",
+   "title": "Silver sets the technical boundaries in the short term for traders",
+   "pubDate": "2026-11-23T21:03:58+00:00",
+   "pubDateDisplay": "Mon, 23 Nov 2026 21:03:58 GMT",
+   "source": "ForexLive",
+   "category": "forex",
+   "categories": [
+    "Commodities"
+   ],
+   "link": "https://investinglive.com/commodities/silver-sets-the-technical-boundaries-in-the-short-term-for-traders/",
+   "description": "Silver is trading higher today after falling to its lowest level since September 2025 on Friday. The rebound took the price from $40.75 to a session high of $44.25, a gain of about 8.6% from Friday\u2019s low. The move ran into sellers at the 100-hour moving average, however, and the price has since rotated lower.The broader trend has been lower since September. Silver stalled at $67.30 on September 26 and moved back below its 100-day moving average, which was at $66.59 at the time. From there, the p",
+   "analysis": {
+    "assets": [
+     {
+      "symbol": "GC",
+      "name": "Gold",
+      "direction": "bullish",
+      "confidence": 88,
+      "explanation": "Bullish for Gold (88%) - safe-haven demand or dollar weakness typically lifts precious metals."
+     },
+     {
+      "symbol": "SI",
+      "name": "Silver",
+      "direction": "neutral",
+      "confidence": 50,
+      "explanation": "Neutral impact on Silver - no clear directional bias."
+     }
+    ],
+    "overall": "neutral",
+    "score": 0.0,
+    "confidence": 50,
+    "summary": "Neutral / mixed signals"
+   }
+  },
+  {
+   "id": "a41864260738",
+   "title": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
+   "pubDate": "2026-11-23T21:02:17+00:00",
+   "pubDateDisplay": "Mon, 23 Nov 2026 21:02:17 GMT",
+   "source": "CNBC",
+   "category": "general",
+   "categories": [],
+   "link": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html",
+   "description": "The influential central banker expressed confidence that inflation will get closer to the Fed's 2% target in 2027.",
+   "analysis": {
+    "assets": [
+     {
+      "symbol": "USD",
+      "name": "US Dollar",
+      "direction": "bearish",
+      "confidence": 76,
+      "explanation": "Bearish for US Dollar (76%) - dovish Fed or weak US data weakens the dollar."
+     }
+    ],
+    "overall": "bearish",
+    "score": -0.33,
+    "confidence": 76,
+    "summary": "Bearish (76%) - inflation, inflation"
+   }
+  },
+  {
+   "id": "4bfc7e7d8255",
+   "title": "Peterson: Here\u2019s what Bessent\u2019s about-face on Jensen Huang reveals about Trump and China",
+   "pubDate": "2026-11-23T21:00:59+00:00",
+   "pubDateDisplay": "Mon, 23 Nov 2026 21:00:59 GMT",
+   "source": "CNBC",
+   "category": "general",
+   "categories": [],
+   "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-trump-bessent-china.html",
+   "description": "Treasury Secretary Scott Bessent was becoming the face of an emerging harder line on Nvidia\u2014 until he reversed course",
+   "analysis": {
+    "assets": [
+     {
+      "symbol": "USD",
+      "name": "US Dollar",
+      "direction": "neutral",
+      "confidence": 0,
+      "explanation": "Neutral impact on US Dollar - no clear directional bias."
+     },
+     {
+      "symbol": "BONDS",
+      "name": "US Treasuries",
+      "direction": "neutral",
+      "confidence": 0,
+      "explanation": "Neutral impact on US Treasuries - no clear directional bias."
+     }
+    ],
+    "overall": "neutral",
+    "score": 0,
+    "confidence": 0,
+    "summary": "Neutral / mixed signals"
+   }
+  },
+  {
+   "id": "7b1876ad1a39",
+   "title": "Crude oil settles at $80.17. Trades at its lowest level since August 26.",
+   "pubDate": "2026-11-23T20:52:37+00:00",
+   "pubDateDisplay": "Mon, 23 Nov 2026 20:52:37 GMT",
+   "source": "ForexLive",
+   "category": "forex",
+   "categories": [
+    "Commodities"
+   ],
+   "link": "https://investinglive.com/commodities/crude-oil-settles-at-80-17-trades-at-its-lowest-level-since-august-26/",
+   "description": "WTI crude oil fell nearly 4% Monday, trading near $80.20 a barrel around settlement after reaching an intraday low of $79.95. The selloff extends a slide that had already pushed crude to three straight weekly declines. So what gave sellers the upper hand today? Libya\u2019s Sharara pipeline reopened. Libya\u2019s National Oil Corporation told Reuters that crude had begun flowing into storage tanks at Zawiya. The restart adds to supply availability at a time when traders are already watching for a surplus.",
+   "analysis": {
+    "assets": [
+     {
+      "symbol": "USD",
+      "name": "US Dollar",
+      "direction": "bullish",
+      "confidence": 52,
+      "explanation": "Bullish for US Dollar (52%) - hawkish Fed or strong US data supports the dollar."
+     },
+     {
+      "symbol": "OIL",
+      "name": "Crude Oil",
+      "direction": "bearish",
+      "confidence": 95,
+      "explanation": "Bearish for Crude Oil (95%) - demand concerns or supply glut pressures crude."
+     }
+    ],
+    "overall": "bearish",
+    "score": -0.5,
+    "confidence": 95,
+    "summary": "Bearish (95%) - fell, fell, declines, slide, bearish"
+   }
+  },
+  {
+   "id": "f4c510a802a7",
+   "title": "Investors are missing the bigger picture in CrowdStrike's deal to buy Zscaler",
+   "pubDate": "2026-11-23T20:26:39+00:00",
+   "pubDateDisplay": "Mon, 23 Nov 2026 20:26:39 GMT",
+   "source": "CNBC",
+   "category": "general",
+   "categories": [],
+   "link": "https://www.cnbc.com/investingclub/2026/11/23/crowdstrikes-zscaler-deal-investors-are-missing-the-bigger-picture.html",
+   "description": "CrowdStrike's quarterly results, released alongside the deal's announcement, show a company acting from a position of strength rather than weakness.",
+   "analysis": {
+    "assets": [],
+    "overall": "bullish",
+    "score": 0.33,
+    "confidence": 76,
+    "summary": "Bullish (76%) - buy, not weakness"
+   }
+  },
+  {
+   "id": "f65164e793f6",
+   "title": "Congress shreds Nvidia's 'outrageous' decision to bring back Huang: 'Failure of character'",
+   "pubDate": "2026-11-23T20:22:49+00:00",
+   "pubDateDisplay": "Mon, 23 Nov 2026 20:22:49 GMT",
+   "source": "CNBC",
+   "category": "general",
+   "categories": [],
+   "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html",
+   "description": "Congress members of both parties are sharply questioning President Donald Trump's conclusion that Jensen Huang poses no national security risk leading Nvidia.",
+   "analysis": {
+    "assets": [],
+    "overall": "bullish",
+    "score": 1.0,
+    "confidence": 52,
+    "summary": "Bullish (52%) - not risk"
+   }
+  },
+  {
+   "id": "f447df4fe35c",
+   "title": "Jensen Huang may be back but the China hawks probably haven't given up",
+   "pubDate": "2026-11-23T19:53:23+00:00",
+   "pubDateDisplay": "Mon, 23 Nov 2026 19:53:23 GMT",
+   "source": "ForexLive",
+   "category": "forex",
+   "categories": [
+    "Stocks"
+   ],
+   "link": "https://investinglive.com/stocks/jensen-huang-may-be-back-but-the-china-hawks-probably-haven-t-given-up/",
+   "description": "Charles Gasparino is out with an interesting report. He argues that the Nvidia saga isn't over and for reasons that could rattle the equity bulls.He writes: The weekend at the White House was pure bedlam, people with direct knowledge of the matter tell me, with many major tech CEOs and many on Wall Street intensely lobbying the White House and Trump to push harder for Jensen Huang to return to prevent and AI market meltdown, my sources say. Huang meanwhile continued his own push to return and ne",
+   "analysis": {
+    "assets": [
+     {
+      "symbol": "ES",
+      "name": "S&P 500",
+      "direction": "neutral",
+      "confidence": 0,
+      "explanation": "Neutral impact on S&P 500 - no clear directional bias."
+     }
+    ],
+    "overall": "bullish",
+    "score": 0.5,
+    "confidence": 88,
+    "summary": "Bullish (88%) - up, not down, not concern"
+   }
+  },
+  {
+   "id": "170ac5855899",
+   "title": "Trump administration proposes rule that could curb ESG investing in 401(k)s",
+   "pubDate": "2026-11-23T19:46:28+00:00",
+   "pubDateDisplay": "Mon, 23 Nov 2026 19:46:28 GMT",
+   "source": "CNBC",
+   "category": "general",
+   "categories": [],
+   "link": "https://www.cnbc.com/2026/11/23/labor-department-esg-401k-rule.html",
+   "description": "The Labor Department proposed a regulation Monday that seeks to curb uptake of ESG funds in workplace retirement plans such as 401(k)s.",
+   "analysis": {
+    "assets": [],
+    "overall": "neutral",
+    "score": 0,
+    "confidence": 0,
+    "summary": "Neutral / mixed signals"
+   }
+  },
+  {
+   "id": "97df40875379",
+   "title": "Amazon to acquire AI startup Decart's chip software, hire founders",
+   "pubDate": "2026-11-23T19:34:38+00:00",
+   "pubDateDisplay": "Mon, 23 Nov 2026 19:34:38 GMT",
+   "source": "CNBC",
+   "category": "general",
+   "categories": [],
+   "link": "https://www.cnbc.com/2026/11/23/amazon-decarts-ai-acquisition.html",
+   "description": "Decart, founded in 2023, is best known for its software that lets developers sync their AI models across different chips.",
+   "analysis": {
+    "assets": [
+     {
+      "symbol": "NQ",
+      "name": "Nasdaq 100",
+      "direction": "neutral",
+      "confidence": 0,
+      "explanation": "Neutral impact on Nasdaq 100 - no clear directional bias."
+     }
+    ],
+    "overall": "neutral",
+    "score": 0,
+    "confidence": 0,
+    "summary": "Neutral / mixed signals"
+   }
+  },
+  {
+   "id": "ba58293ae367",
+   "title": "The Nvidia reversal creates a fresh scramble for dollars",
+   "pubDate": "2026-11-23T19:24:01+00:00",
+   "pubDateDisplay": "Mon, 23 Nov 2026 19:24:01 GMT",
+   "source": "ForexLive",
+   "category": "forex",
+   "categories": [
+    "Forex"
+   ],
+   "link": "https://investinglive.com/forex/the-nvidia-reversal-creates-a-fresh-scramble-for-dollars/",
+   "description": "I wrote recently about the rise of the chip-dollar as a driving factor in foreign exchange.Today, we are seeing it again. There is a major risk-on trade underway but the euro and pound are both notably lower against the dollar. In fact,the euro is trading at the lowest levels since April 2025.Now a big part of that is that Europe has been ineffective at growing its economy or fostering any kind of competitive technology sector. Where ever the profts flow from AI, it's not likely to be to Europe.",
+   "analysis": {
+    "assets": [
+     {
+      "symbol": "NQ",
+      "name": "Nasdaq 100",
+      "direction": "bullish",
+      "confidence": 52,
+      "explanation": "Bullish for Nasdaq 100 (52%) - risk-on sentiment or positive data supports equity indices."
+     },
+     {
+      "symbol": "6E",
+      "name": "Euro",
+      "direction": "bullish",
+      "confidence": 64,
+      "explanation": "Bullish for Euro (64%) - relative strength in this currency vs peers."
+     },
+     {
+      "symbol": "USD",
+      "name": "US Dollar",
+      "direction": "bullish",
+      "confidence": 88,
+      "explanation": "Bullish for US Dollar (88%) - hawkish Fed or strong US data supports the dollar."
+     }
+    ],
+    "overall": "bullish",
+    "score": 1.0,
+    "confidence": 95,
+    "summary": "Bullish (95%) - rise, gain, strong, up, higher"
+   }
+  },
+  {
+   "id": "e9c7671b310a",
+   "title": "An options strategy for making even more of your money back in Nvidia",
+   "pubDate": "2026-11-23T18:52:46+00:00",
+   "pubDateDisplay": "Mon, 23 Nov 2026 18:52:46 GMT",
+   "source": "CNBC",
+   "category": "general",
+   "categories": [],
+   "link": "https://www.cnbc.com/2026/11/23/an-options-strategy-for-making-even-more-of-your-money-back-in-nvidia-.html",
+   "description": "Nvidia shareholders can look to the options market to recoup lost money",
+   "analysis": {
+    "assets": [],
+    "overall": "neutral",
+    "score": 0,
+    "confidence": 0,
+    "summary": "Neutral / mixed signals"
+   }
+  },
+  {
+   "id": "9d138388c47f",
+   "title": "\u2018This establishes a bottom\u2019: Jensen Huang\u2019s return seen as likely to stop market sell-off, for now",
+   "pubDate": "2026-11-23T18:00:47+00:00",
+   "pubDateDisplay": "Mon, 23 Nov 2026 18:00:47 GMT",
+   "source": "CNBC",
+   "category": "general",
+   "categories": [],
+   "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo-market-rally.html",
+   "description": "Wall Street strategists say Jensen Huang\u2019s return to Nvidia could steady the AI trade, though spending and data-center risks remain.",
+   "analysis": {
+    "assets": [
+     {
+      "symbol": "ES",
+      "name": "S&P 500",
+      "direction": "neutral",
+      "confidence": 0,
+      "explanation": "Neutral impact on S&P 500 - no clear directional bias."
+     },
+     {
+      "symbol": "NQ",
+      "name": "Nasdaq 100",
+      "direction": "neutral",
+      "confidence": 0,
+      "explanation": "Neutral impact on Nasdaq 100 - no clear directional bias."
+     }
+    ],
+    "overall": "bullish",
+    "score": 1.0,
+    "confidence": 64,
+    "summary": "Bullish (64%) - not sell-off, not sell"
+   }
+  },
+  {
+   "id": "fd775158991c",
+   "title": "SpaceX sued by Oregon and Virginia over AI deepfake porn, Grok safety claims",
+   "pubDate": "2026-11-23T16:45:31+00:00",
+   "pubDateDisplay": "Mon, 23 Nov 2026 16:45:31 GMT",
+   "source": "CNBC",
+   "category": "general",
+   "categories": [],
+   "link": "https://www.cnbc.com/2026/11/23/oregon-virginia-spacex-grok-deepfake-lawsuits.html",
+   "description": "The states are seeking civil penalties and injunctions to stop Grok and X from creation and distribution of nonconsensual sexualized images.",
+   "analysis": {
+    "assets": [],
+    "overall": "neutral",
+    "score": 0,
+    "confidence": 0,
+    "summary": "Neutral / mixed signals"
+   }
+  },
+  {
+   "id": "3e28f819ce78",
+   "title": "Tokenized stocks face pushback as NYSE, Nasdaq pivot for a new market",
+   "pubDate": "2026-11-23T15:30:27+00:00",
+   "pubDateDisplay": "Mon, 23 Nov 2026 15:30:27 GMT",
+   "source": "CNBC",
+   "category": "general",
+   "categories": [],
+   "link": "https://www.cnbc.com/2026/11/23/tokenized-stocks-face-pushback-as-nyse-nasdaq-pivot-for-a-new-market-.html",
+   "description": "OKXICE is set to debut Monday despite objections from 90% of the companies whose stocks it initially proposed to list.",
+   "analysis": {
+    "assets": [
+     {
+      "symbol": "NQ",
+      "name": "Nasdaq 100",
+      "direction": "neutral",
+      "confidence": 0,
+      "explanation": "Neutral impact on Nasdaq 100 - no clear directional bias."
+     }
+    ],
+    "overall": "neutral",
+    "score": 0,
+    "confidence": 0,
+    "summary": "Neutral / mixed signals"
+   }
+  },
+  {
+   "id": "e0cc0283a18d",
+   "title": "Stuck: How a frozen housing market is hitting buyers, sellers and the economy",
+   "pubDate": "2026-11-23T15:22:03+00:00",
+   "pubDateDisplay": "Mon, 23 Nov 2026 15:22:03 GMT",
+   "source": "CNBC",
+   "category": "general",
+   "categories": [],
+   "link": "https://www.cnbc.com/2026/11/23/housing-market-real-estate-economy.html",
+   "description": "A sharp spike in mortgage rates in September has pushed the already chilly real estate sector into a deep freeze.",
+   "analysis": {
+    "assets": [
+     {
+      "symbol": "USD",
+      "name": "US Dollar",
+      "direction": "neutral",
+      "confidence": 0,
+      "explanation": "Neutral impact on US Dollar - no clear directional bias."
+     }
+    ],
+    "overall": "neutral",
+    "score": 0,
+    "confidence": 0,
+    "summary": "Neutral / mixed signals"
+   }
+  },
+  {
+   "id": "b690ce5823b6",
+   "title": "U.S. probes Megaspeed, Alice Huang as new figure emerges in Nvidia chip case",
+   "pubDate": "2026-11-23T14:40:11+00:00",
+   "pubDateDisplay": "Mon, 23 Nov 2026 14:40:11 GMT",
+   "source": "CNBC",
+   "category": "general",
+   "categories": [],
+   "link": "https://www.cnbc.com/2026/11/23/nvidia-megaspeed-chipmaker-us.html",
+   "description": "The U.S. is investigating Megaspeed and Alice Huang after it emerged a former associate of hers was reportedly \"deeply involved\" in the firm's activities",
+   "analysis": {
+    "assets": [
+     {
+      "symbol": "NQ",
+      "name": "Nasdaq 100",
+      "direction": "neutral",
+      "confidence": 0,
+      "explanation": "Neutral impact on Nasdaq 100 - no clear directional bias."
+     }
+    ],
+    "overall": "neutral",
+    "score": 0,
+    "confidence": 0,
+    "summary": "Neutral / mixed signals"
+   }
+  },
+  {
+   "id": "546e1678f38c",
+   "title": "Trump hosts crypto gala as his meme coin falls below $1",
+   "pubDate": "2026-11-23T14:15:42+00:00",
+   "pubDateDisplay": "Mon, 23 Nov 2026 14:15:42 GMT",
+   "source": "CNBC",
+   "category": "general",
+   "categories": [],
+   "link": "https://www.cnbc.com/2026/11/23/trump-meme-coin-gala.html",
+   "description": "Donald Trump hosted a dinner for top holders of his meme coin that has fallen to under $1. Bitcoin rebounded after falling to lowest level since September 2024.",
+   "analysis": {
+    "assets": [],
+    "overall": "bearish",
+    "score": -0.33,
+    "confidence": 76,
+    "summary": "Bearish (76%) - falls, falling"
+   }
+  },
   {
    "id": "d3d493c15d8f",
    "title": "Nvidia reinstates Jensen Huang as CEO",
@@ -1426,1553 +3339,6 @@
    }
   },
   {
-   "id": "ade08fc7e0d5",
-   "title": "Crypto crime: Fusionist's ACE bridge emptied of $3.7 million as traders follow a $2 million exploit",
-   "pubDate": "2026-11-23T03:20:36+00:00",
-   "pubDateDisplay": "Mon, 23 Nov 2026 03:20:36 GMT",
-   "source": "ForexLive",
-   "category": "forex",
-   "categories": [
-    "Cryptocurrency"
-   ],
-   "link": "https://investinglive.com/cryptocurrency/crypto-crime-fusionist-s-ace-bridge-emptied-of-3-7-million-as-traders-follow-a-2-million-exploit/",
-   "description": "ACE fell to about $0.0001 on BNB Chain but still traded around $0.04 on centralised exchanges, and traders exploited that gap until the bridge ran dry. The drained 53.7 million tokens are almost half of the roughly 116 million ACE in circulation before the attack. They now sit in 24 wallets, and one wallet alone holds 26.1 million, so the main near-term risk is selling pressure on exchange-listed ACE. Gate is moving its ACE perpetuals to reduce-only and then delisting them, which leaves one fewe",
-   "analysis": {
-    "assets": [],
-    "overall": "bearish",
-    "score": -0.2,
-    "confidence": 95,
-    "summary": "Bearish (95%) - fell, risk, risk"
-   }
-  },
-  {
-   "id": "82ec7f0448d7",
-   "title": "California widens Nvidia probe to criminal law, a bigger deal than Huang return talk",
-   "pubDate": "2026-11-23T02:48:18+00:00",
-   "pubDateDisplay": "Mon, 23 Nov 2026 02:48:18 GMT",
-   "source": "ForexLive",
-   "category": "forex",
-   "categories": [
-    "Stocks"
-   ],
-   "link": "https://investinglive.com/stocks/california-widens-nvidia-probe-to-criminal-law-a-bigger-deal-than-huang-return-talk/",
-   "description": "An open-ended state criminal investigation, on top of an SEC probe, adds a legal risk premium that's hard to price. That could cap Nvidia rebounds even as the broader market steadies. The stock's weight in major indices means headline risk here can spill into the Nasdaq and the wider AI trade, and into Asian chip names already under pressure. Investors may also start pricing a lower chance of Huang returning, which removes one potential upside catalyst that some had been counting on. The board's",
-   "analysis": {
-    "assets": [
-     {
-      "symbol": "NQ",
-      "name": "Nasdaq 100",
-      "direction": "bearish",
-      "confidence": 52,
-      "explanation": "Bearish for Nasdaq 100 (52%) - risk-off or economic concerns weigh on equities."
-     },
-     {
-      "symbol": "USD",
-      "name": "US Dollar",
-      "direction": "neutral",
-      "confidence": 0,
-      "explanation": "Neutral impact on US Dollar - no clear directional bias."
-     },
-     {
-      "symbol": "BONDS",
-      "name": "US Treasuries",
-      "direction": "neutral",
-      "confidence": 0,
-      "explanation": "Neutral impact on US Treasuries - no clear directional bias."
-     }
-    ],
-    "overall": "neutral",
-    "score": 0.0,
-    "confidence": 50,
-    "summary": "Neutral / mixed signals"
-   }
-  },
-  {
-   "id": "49d69a637b6e",
-   "title": "OCBC: AI rout becomes a growth shock as EM currencies take the dollar's strength",
-   "pubDate": "2026-11-23T02:23:56+00:00",
-   "pubDateDisplay": "Mon, 23 Nov 2026 02:23:56 GMT",
-   "source": "ForexLive",
-   "category": "forex",
-   "categories": [
-    "Central Banks"
-   ],
-   "link": "https://investinglive.com/central-banks/ocbc-ai-rout-becomes-a-growth-shock-as-em-currencies-take-the-dollar-s-strength/",
-   "description": "If OCBC is right, dollar strength will be most visible in high-yielding and externally exposed EM currencies. That makes the case for selective EM FX hedges even while the dollar softens against the majors. Carry trades funded in low-yielders are vulnerable to further unwinding if the AI sell-off resumes, which could add volatility to Asian currencies, especially those tied to chip exports. A clearer Fed pause signal, along the lines JPMorgan's Kelly expects, would be the main thing that could e",
-   "analysis": {
-    "assets": [
-     {
-      "symbol": "ES",
-      "name": "S&P 500",
-      "direction": "neutral",
-      "confidence": 50,
-      "explanation": "Neutral impact on S&P 500 - no clear directional bias."
-     },
-     {
-      "symbol": "NQ",
-      "name": "Nasdaq 100",
-      "direction": "bearish",
-      "confidence": 64,
-      "explanation": "Bearish for Nasdaq 100 (64%) - risk-off or economic concerns weigh on equities."
-     },
-     {
-      "symbol": "6E",
-      "name": "Euro",
-      "direction": "bearish",
-      "confidence": 52,
-      "explanation": "Bearish for Euro (52%) - relative weakness in this currency vs peers."
-     },
-     {
-      "symbol": "USD",
-      "name": "US Dollar",
-      "direction": "bearish",
-      "confidence": 95,
-      "explanation": "Bearish for US Dollar (95%) - dovish Fed or weak US data weakens the dollar."
-     },
-     {
-      "symbol": "BONDS",
-      "name": "US Treasuries",
-      "direction": "bearish",
-      "confidence": 64,
-      "explanation": "Bearish for US Treasuries (64%) - rate hike expectations or inflation fears hit bonds."
-     }
-    ],
-    "overall": "neutral",
-    "score": -0.14,
-    "confidence": 50,
-    "summary": "Neutral / mixed signals"
-   }
-  },
-  {
-   "id": "084409bb08c5",
-   "title": "JPMorgan's Kelly: tech correction overdue, stocks to bounce, Fed to hike once then pause",
-   "pubDate": "2026-11-23T02:04:59+00:00",
-   "pubDateDisplay": "Mon, 23 Nov 2026 02:04:59 GMT",
-   "source": "ForexLive",
-   "category": "forex",
-   "categories": [
-    "Central Banks"
-   ],
-   "link": "https://investinglive.com/central-banks/jpmorgan-s-kelly-tech-correction-overdue-stocks-to-bounce-fed-to-hike-once-then-pause/",
-   "description": "Kelly's one-hike-then-pause view gives bulls a counter-narrative to the hawkish pricing that has weighed on stocks and gold. If December's statement or projections lean his way, front-end yields and the dollar could ease. Waller's push for 50bp, or a clear signal of a January follow-up, remains the main risk to that view. November CPI is now a key data point: a sizeable gasoline-driven drop would strengthen the case for a pause. Kelly's flow argument (401(k)s, buybacks, wealthy buyers) suggests ",
-   "analysis": {
-    "assets": [
-     {
-      "symbol": "GC",
-      "name": "Gold",
-      "direction": "bearish",
-      "confidence": 95,
-      "explanation": "Bearish for Gold (95%) - risk-on or dollar strength pressures precious metals."
-     },
-     {
-      "symbol": "ES",
-      "name": "S&P 500",
-      "direction": "bearish",
-      "confidence": 88,
-      "explanation": "Bearish for S&P 500 (88%) - risk-off or economic concerns weigh on equities."
-     },
-     {
-      "symbol": "USD",
-      "name": "US Dollar",
-      "direction": "neutral",
-      "confidence": 50,
-      "explanation": "Neutral impact on US Dollar - no clear directional bias."
-     },
-     {
-      "symbol": "OIL",
-      "name": "Crude Oil",
-      "direction": "bullish",
-      "confidence": 95,
-      "explanation": "Bullish for Crude Oil (95%) - supply concerns or demand growth lifts crude prices."
-     },
-     {
-      "symbol": "BONDS",
-      "name": "US Treasuries",
-      "direction": "neutral",
-      "confidence": 0,
-      "explanation": "Neutral impact on US Treasuries - no clear directional bias."
-     }
-    ],
-    "overall": "neutral",
-    "score": 0.1,
-    "confidence": 50,
-    "summary": "Neutral / mixed signals"
-   }
-  },
-  {
-   "id": "68730f58e88e",
-   "title": "Ackman urges Fed to drop 2% inflation goal for 3%, warns 9 December hike risks recession",
-   "pubDate": "2026-11-23T01:36:28+00:00",
-   "pubDateDisplay": "Mon, 23 Nov 2026 01:36:28 GMT",
-   "source": "ForexLive",
-   "category": "forex",
-   "categories": [
-    "Central Banks"
-   ],
-   "link": "https://investinglive.com/central-banks/ackman-urges-fed-to-drop-2-inflation-goal-for-3-warns-9-december-hike-risks-recession/",
-   "description": "Ackman's post adds to a growing chorus, now including the Treasury, arguing against further Fed hikes. That could feed hopes of a softer message on 9 December even if the hike itself goes ahead. Rate markets are unlikely to shift much on investor commentary alone. Any sign that Fed officials are open to slowing the pace, though, would weigh on the dollar and front-end yields and support equities and gold. His SpaceX example also points to strain in credit markets, so corporate bond spreads are w",
-   "analysis": {
-    "assets": [
-     {
-      "symbol": "GC",
-      "name": "Gold",
-      "direction": "bullish",
-      "confidence": 52,
-      "explanation": "Bullish for Gold (52%) - safe-haven demand or dollar weakness typically lifts precious metals."
-     },
-     {
-      "symbol": "ES",
-      "name": "S&P 500",
-      "direction": "bullish",
-      "confidence": 52,
-      "explanation": "Bullish for S&P 500 (52%) - risk-on sentiment or positive data supports equity indices."
-     },
-     {
-      "symbol": "USD",
-      "name": "US Dollar",
-      "direction": "neutral",
-      "confidence": 50,
-      "explanation": "Neutral impact on US Dollar - no clear directional bias."
-     },
-     {
-      "symbol": "OIL",
-      "name": "Crude Oil",
-      "direction": "bullish",
-      "confidence": 76,
-      "explanation": "Bullish for Crude Oil (76%) - supply concerns or demand growth lifts crude prices."
-     },
-     {
-      "symbol": "BONDS",
-      "name": "US Treasuries",
-      "direction": "bullish",
-      "confidence": 95,
-      "explanation": "Bullish for US Treasuries (95%) - rate cut expectations or safe-haven flows lift bonds."
-     }
-    ],
-    "overall": "bearish",
-    "score": -0.23,
-    "confidence": 95,
-    "summary": "Bearish (95%) - not higher, drop, slide, sell-off, sell"
-   }
-  },
-  {
-   "id": "5d9efecd675a",
-   "title": "US stock futures jump over 2% in relief bounce, gold rallies, but Kospi slides nearly 4%",
-   "pubDate": "2026-11-23T01:28:12+00:00",
-   "pubDateDisplay": "Mon, 23 Nov 2026 01:28:12 GMT",
-   "source": "ForexLive",
-   "category": "forex",
-   "categories": [
-    "Stock market update"
-   ],
-   "link": "https://investinglive.com/stock-market-update/us-stock-futures-jump-over-2-in-relief-bounce-gold-rallies-but-kospi-slides-nearly-4/",
-   "description": "The bounce looks driven by positioning and policy headlines, not by any change in the AI valuation debate. Rallies could fade quickly if cash markets in New York don't confirm the futures move. Gold rising alongside stocks suggests margin-call selling has paused, which makes the metal a useful real-time gauge of whether deleveraging pressure is returning. Higher US yields and a firmer USD/JPY show some haven demand unwinding, with the yen on the soft side in holiday-thinned trade. The Shanghai a",
-   "analysis": {
-    "assets": [
-     {
-      "symbol": "GC",
-      "name": "Gold",
-      "direction": "bullish",
-      "confidence": 95,
-      "explanation": "Bullish for Gold (95%) - safe-haven demand or dollar weakness typically lifts precious metals."
-     },
-     {
-      "symbol": "SI",
-      "name": "Silver",
-      "direction": "bullish",
-      "confidence": 64,
-      "explanation": "Bullish for Silver (64%) - safe-haven demand or dollar weakness typically lifts precious metals."
-     },
-     {
-      "symbol": "ES",
-      "name": "S&P 500",
-      "direction": "bullish",
-      "confidence": 95,
-      "explanation": "Bullish for S&P 500 (95%) - risk-on sentiment or positive data supports equity indices."
-     },
-     {
-      "symbol": "NQ",
-      "name": "Nasdaq 100",
-      "direction": "neutral",
-      "confidence": 0,
-      "explanation": "Neutral impact on Nasdaq 100 - no clear directional bias."
-     },
-     {
-      "symbol": "6A",
-      "name": "Australian Dollar",
-      "direction": "bullish",
-      "confidence": 64,
-      "explanation": "Bullish for Australian Dollar (64%) - relative strength in this currency vs peers."
-     },
-     {
-      "symbol": "6E",
-      "name": "Euro",
-      "direction": "bullish",
-      "confidence": 52,
-      "explanation": "Bullish for Euro (52%) - relative strength in this currency vs peers."
-     },
-     {
-      "symbol": "6N",
-      "name": "NZ Dollar",
-      "direction": "bullish",
-      "confidence": 52,
-      "explanation": "Bullish for NZ Dollar (52%) - relative strength in this currency vs peers."
-     },
-     {
-      "symbol": "6J",
-      "name": "Japanese Yen",
-      "direction": "bullish",
-      "confidence": 88,
-      "explanation": "Bullish for Japanese Yen (88%) - relative strength in this currency vs peers."
-     },
-     {
-      "symbol": "USD",
-      "name": "US Dollar",
-      "direction": "bullish",
-      "confidence": 95,
-      "explanation": "Bullish for US Dollar (95%) - hawkish Fed or strong US data supports the dollar."
-     },
-     {
-      "symbol": "OIL",
-      "name": "Crude Oil",
-      "direction": "bearish",
-      "confidence": 64,
-      "explanation": "Bearish for Crude Oil (64%) - demand concerns or supply glut pressures crude."
-     },
-     {
-      "symbol": "BONDS",
-      "name": "US Treasuries",
-      "direction": "bullish",
-      "confidence": 76,
-      "explanation": "Bullish for US Treasuries (76%) - rate cut expectations or safe-haven flows lift bonds."
-     }
-    ],
-    "overall": "bullish",
-    "score": 0.32,
-    "confidence": 95,
-    "summary": "Bullish (95%) - rising, rose, rose, rose, rose"
-   }
-  },
-  {
-   "id": "87220e429813",
-   "title": "PBOC sets USD/ CNY reference rate for today at 6.7120 (vs. estimate at 6.6775)",
-   "pubDate": "2026-11-23T01:15:30+00:00",
-   "pubDateDisplay": "Mon, 23 Nov 2026 01:15:30 GMT",
-   "source": "ForexLive",
-   "category": "forex",
-   "categories": [
-    "Central Banks"
-   ],
-   "link": "https://investinglive.com/central-banks/pboc-sets-usd-cny-reference-rate-for-today-at-6-7120-vs-estimate-at-6-6775/",
-   "description": "The PBOC allows the yuan to fluctuate within a +/- 2% range, around this reference rate. More here on this.injected 499.5 bn yuan of overnight reverse repurchase operations379.5 bn yuan of overnight reverse repos mature todaynet injection 120 bn yuan---Earlier:Chinese brokers see a bottom and a broader 2027 rally after Beijing's support pushChina cuts margin requirement to 80% in fresh market support push, but will it work? This article was written by Eamonn Sheridan at investinglive.com.",
-   "analysis": {
-    "assets": [
-     {
-      "symbol": "USD",
-      "name": "US Dollar",
-      "direction": "neutral",
-      "confidence": 0,
-      "explanation": "Neutral impact on US Dollar - no clear directional bias."
-     }
-    ],
-    "overall": "bullish",
-    "score": 1.0,
-    "confidence": 76,
-    "summary": "Bullish (76%) - rally, support, support"
-   }
-  },
-  {
-   "id": "eaa811ed7b6c",
-   "title": "Goldman sees European gas halving to \u20ac45 in 2027, but a cold winter could push it to \u20ac150",
-   "pubDate": "2026-11-23T00:56:16+00:00",
-   "pubDateDisplay": "Mon, 23 Nov 2026 00:56:16 GMT",
-   "source": "ForexLive",
-   "category": "forex",
-   "categories": [
-    "Commodities"
-   ],
-   "link": "https://investinglive.com/commodities/goldman-sees-european-gas-halving-to-45-in-2027-but-a-cold-winter-could-push-it-to-150/",
-   "description": "A credible path to much cheaper gas would ease pressure on Europe's energy-intensive industries and utilities' input costs, and could weigh on gas futures further out the curve even while the winter contracts stay volatile. For oil, Goldman's surplus view gives bears a medium-term anchor. The near-term risks still point higher, though, while Gulf disruption continues, so dips may be shallow until flows clearly normalise. Lower energy import bills would remove one of the structural headwinds that",
-   "analysis": {
-    "assets": [
-     {
-      "symbol": "6E",
-      "name": "Euro",
-      "direction": "bearish",
-      "confidence": 64,
-      "explanation": "Bearish for Euro (64%) - relative weakness in this currency vs peers."
-     },
-     {
-      "symbol": "USD",
-      "name": "US Dollar",
-      "direction": "bearish",
-      "confidence": 52,
-      "explanation": "Bearish for US Dollar (52%) - dovish Fed or weak US data weakens the dollar."
-     },
-     {
-      "symbol": "OIL",
-      "name": "Crude Oil",
-      "direction": "neutral",
-      "confidence": 50,
-      "explanation": "Neutral impact on Crude Oil - no clear directional bias."
-     }
-    ],
-    "overall": "neutral",
-    "score": 0.12,
-    "confidence": 50,
-    "summary": "Neutral / mixed signals"
-   }
-  },
-  {
-   "id": "87e5afad728b",
-   "title": "Chinese brokers see a bottom and a broader 2027 rally after Beijing's support push",
-   "pubDate": "2026-11-23T00:29:47+00:00",
-   "pubDateDisplay": "Mon, 23 Nov 2026 00:29:47 GMT",
-   "source": "ForexLive",
-   "category": "forex",
-   "categories": [
-    "Stock market update"
-   ],
-   "link": "https://investinglive.com/stock-market-update/chinese-brokers-see-a-bottom-and-a-broader-2027-rally-after-beijing-s-support-push/",
-   "description": "The brokers' calls point to two phases. Near term, rotation favours high-dividend defensives such as banks, insurers, utilities-style infrastructure and consumer staples like baijiu. In any rebound, beta should lead, through ChiNext growth names, small caps and technology. The combination of official support measures and upbeat state-linked research may limit downside in large caps in the near term. Without a pickup in leveraged and foreign inflows, though, rallies may struggle to stick. Moves i",
-   "analysis": {
-    "assets": [],
-    "overall": "neutral",
-    "score": 0.13,
-    "confidence": 50,
-    "summary": "Neutral / mixed signals"
-   }
-  },
-  {
-   "id": "74d551f96fff",
-   "title": "PBOC is expected to set the USD/CNY reference rate at 6.6775 \u2013 Reuters estimate",
-   "pubDate": "2026-11-23T00:24:04+00:00",
-   "pubDateDisplay": "Mon, 23 Nov 2026 00:24:04 GMT",
-   "source": "ForexLive",
-   "category": "forex",
-   "categories": [
-    "Central Banks"
-   ],
-   "link": "https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-6775-reuters-estimate/",
-   "description": "The People\u2019s Bank of China is due to set the daily USD/CNY reference rate at around 0115 GMT (2115 US Eastern time), a fixing that remains one of the most closely watched signals in Asian foreign exchange markets. ---Earlier:China cuts margin requirement to 80% in fresh market support push, but will it work?---China operates a managed floating exchange rate system, under which the renminbi (yuan) is allowed to trade within a prescribed band around a central reference rate, or midpoint, set each ",
-   "analysis": {
-    "assets": [
-     {
-      "symbol": "USD",
-      "name": "US Dollar",
-      "direction": "bearish",
-      "confidence": 64,
-      "explanation": "Bearish for US Dollar (64%) - dovish Fed or weak US data weakens the dollar."
-     }
-    ],
-    "overall": "bearish",
-    "score": -0.33,
-    "confidence": 76,
-    "summary": "Bearish (76%) - not strength, not growth"
-   }
-  },
-  {
-   "id": "acbf279365ae",
-   "title": "The AI winners may not exist yet, J.P. Morgan warns, as mega-IPOs flood the market",
-   "pubDate": "2026-11-23T00:18:26+00:00",
-   "pubDateDisplay": "Mon, 23 Nov 2026 00:18:26 GMT",
-   "source": "ForexLive",
-   "category": "forex",
-   "categories": [
-    "Stock market update"
-   ],
-   "link": "https://investinglive.com/stock-market-update/the-ai-winners-may-not-exist-yet-j-p-morgan-warns-as-mega-ipos-flood-the-market/",
-   "description": "J.P. Morgan's numbers push back on one popular explanation for the AI sell-off, that a flood of new shares is draining liquidity. That puts the focus back on valuations and earnings doubts as the real drivers. Strong household, foreign and buyback demand also suggests a deep pool of buyers if sentiment stabilises, which supports the buy-the-dip case. The point that much of the value creation now happens before listing is a caution for anyone chasing new AI listings, and it could weigh on post-IP",
-   "analysis": {
-    "assets": [
-     {
-      "symbol": "ES",
-      "name": "S&P 500",
-      "direction": "bullish",
-      "confidence": 88,
-      "explanation": "Bullish for S&P 500 (88%) - risk-on sentiment or positive data supports equity indices."
-     },
-     {
-      "symbol": "USD",
-      "name": "US Dollar",
-      "direction": "neutral",
-      "confidence": 0,
-      "explanation": "Neutral impact on US Dollar - no clear directional bias."
-     }
-    ],
-    "overall": "bullish",
-    "score": 0.23,
-    "confidence": 95,
-    "summary": "Bullish (95%) - rising, strong, buy, positive, growth"
-   }
-  },
-  {
-   "id": "e9a714ffb99a",
-   "title": "SNB's Martin eyes second-round effects after inflation jumps to 1.5%, hike in view",
-   "pubDate": "2026-11-23T00:01:13+00:00",
-   "pubDateDisplay": "Mon, 23 Nov 2026 00:01:13 GMT",
-   "source": "ForexLive",
-   "category": "forex",
-   "categories": [
-    "Central Banks"
-   ],
-   "link": "https://investinglive.com/central-banks/snb-s-martin-eyes-second-round-effects-after-inflation-jumps-to-1-5-hike-in-view/",
-   "description": "Martin's focus on second-round effects is a hawkish signal, and it supports pricing for a December SNB hike. A tightening Swiss central bank alongside a hiking Fed changes the usual rate-differential story for the franc. Combined with strong safe-haven demand during the equity rout, that could keep the franc well bid, especially against the euro. That is the very currency risk Martin flagged, so the SNB may stay willing to lean against excessive franc strength even as it tightens. UBS shares rem",
-   "analysis": {
-    "assets": [
-     {
-      "symbol": "6E",
-      "name": "Euro",
-      "direction": "bullish",
-      "confidence": 95,
-      "explanation": "Bullish for Euro (95%) - relative strength in this currency vs peers."
-     },
-     {
-      "symbol": "USD",
-      "name": "US Dollar",
-      "direction": "bearish",
-      "confidence": 88,
-      "explanation": "Bearish for US Dollar (88%) - dovish Fed or weak US data weakens the dollar."
-     },
-     {
-      "symbol": "OIL",
-      "name": "Crude Oil",
-      "direction": "neutral",
-      "confidence": 50,
-      "explanation": "Neutral impact on Crude Oil - no clear directional bias."
-     }
-    ],
-    "overall": "bullish",
-    "score": 0.18,
-    "confidence": 95,
-    "summary": "Bullish (95%) - rising, rising, rose, jump, jump"
-   }
-  },
-  {
-   "id": "e4f9591a854e",
-   "title": "Gold sinks 9% in a week as margin calls and Fed hike bets override its haven role",
-   "pubDate": "2026-11-22T23:51:03+00:00",
-   "pubDateDisplay": "Sun, 22 Nov 2026 23:51:03 GMT",
-   "source": "ForexLive",
-   "category": "forex",
-   "categories": [
-    "Commodities"
-   ],
-   "link": "https://investinglive.com/commodities/gold-sinks-9-in-a-week-as-margin-calls-and-fed-hike-bets-override-its-haven-role/",
-   "description": "Gold is currently trading as a funding asset, so its near-term direction depends more on equity volatility and leveraged positioning than on traditional safe-haven demand. A December Fed hike is close to fully priced, so further downside from rates alone may be limited. The bigger risk is another wave of liquidation if the AI sell-off deepens. Spot is now far below every major bank's year-end target, so forecast cuts could keep coming, which may weigh on sentiment even if outright selling slows.",
-   "analysis": {
-    "assets": [
-     {
-      "symbol": "GC",
-      "name": "Gold",
-      "direction": "neutral",
-      "confidence": 50,
-      "explanation": "Neutral impact on Gold - no clear directional bias."
-     },
-     {
-      "symbol": "SI",
-      "name": "Silver",
-      "direction": "neutral",
-      "confidence": 0,
-      "explanation": "Neutral impact on Silver - no clear directional bias."
-     },
-     {
-      "symbol": "NQ",
-      "name": "Nasdaq 100",
-      "direction": "neutral",
-      "confidence": 50,
-      "explanation": "Neutral impact on Nasdaq 100 - no clear directional bias."
-     },
-     {
-      "symbol": "USD",
-      "name": "US Dollar",
-      "direction": "neutral",
-      "confidence": 50,
-      "explanation": "Neutral impact on US Dollar - no clear directional bias."
-     },
-     {
-      "symbol": "BONDS",
-      "name": "US Treasuries",
-      "direction": "bullish",
-      "confidence": 52,
-      "explanation": "Bullish for US Treasuries (52%) - rate cut expectations or safe-haven flows lift bonds."
-     }
-    ],
-    "overall": "neutral",
-    "score": 0.1,
-    "confidence": 50,
-    "summary": "Neutral / mixed signals"
-   }
-  },
-  {
-   "id": "f8c40cd720ad",
-   "title": "Let's weigh the cons \u2014 and pros \u2014 of this brutal market to find a way forward",
-   "pubDate": "2026-11-22T23:49:44+00:00",
-   "pubDateDisplay": "Sun, 22 Nov 2026 23:49:44 GMT",
-   "source": "CNBC",
-   "category": "general",
-   "categories": [],
-   "link": "https://www.cnbc.com/investingclub/2026/11/22/lets-weigh-the-cons-and-pros-of-this-market-to-find-a-way-forward.html",
-   "description": "My dad always said a list can help you make an informed decision \u2014 not always the right one, but the most informed at that moment.",
-   "analysis": {
-    "assets": [],
-    "overall": "neutral",
-    "score": 0,
-    "confidence": 0,
-    "summary": "Neutral / mixed signals"
-   }
-  },
-  {
-   "id": "5bd2f14ab77e",
-   "title": "Korea's market rescue fund is worth around $8 billion, but is 10.76 trillion won enough?",
-   "pubDate": "2026-11-22T23:32:49+00:00",
-   "pubDateDisplay": "Sun, 22 Nov 2026 23:32:49 GMT",
-   "source": "ForexLive",
-   "category": "forex",
-   "categories": [
-    "Stock market update"
-   ],
-   "link": "https://investinglive.com/stock-market-update/korea-s-market-rescue-fund-is-worth-around-8-billion-but-is-10-76-trillion-won-enough/",
-   "description": "The fund's size makes it more of a confidence signal than a market mover, so traders are likely to watch how quickly and how visibly it is deployed, not just its headline value. If it is activated and the selling doesn't slow, pressure could build for a larger fund or for the outright short-selling curbs that authorities have so far avoided. Heavy foreign short positioning also leaves room for sharp short-covering rallies if sentiment turns, which could make Kospi swings even wider in both direc",
-   "analysis": {
-    "assets": [],
-    "overall": "neutral",
-    "score": 0.0,
-    "confidence": 50,
-    "summary": "Neutral / mixed signals"
-   }
-  },
-  {
-   "id": "04ad3b3e8699",
-   "title": "Could Nvidia shareholders force Huang back? The 15% hurdle behind a long-shot idea",
-   "pubDate": "2026-11-22T23:17:55+00:00",
-   "pubDateDisplay": "Sun, 22 Nov 2026 23:17:55 GMT",
-   "source": "ForexLive",
-   "category": "forex",
-   "categories": [
-    "Stocks"
-   ],
-   "link": "https://investinglive.com/stocks/could-nvidia-shareholders-force-huang-back-the-15-hurdle-behind-a-long-shot-idea/",
-   "description": "For now this is a watch item, not a trading catalyst. There's no filing, no coalition and a board that has firmly closed the door. If it did escalate into a formal fight, the leadership uncertainty would likely weigh on Nvidia shares in the near term, whatever the outcome, at a time when AI stocks are already under heavy pressure. Some investors would treat a credible path back for Huang as positive for strategic continuity, which is why any SEC filings showing coordinated holders would draw imm",
-   "analysis": {
-    "assets": [
-     {
-      "symbol": "USD",
-      "name": "US Dollar",
-      "direction": "neutral",
-      "confidence": 0,
-      "explanation": "Neutral impact on US Dollar - no clear directional bias."
-     },
-     {
-      "symbol": "BONDS",
-      "name": "US Treasuries",
-      "direction": "neutral",
-      "confidence": 0,
-      "explanation": "Neutral impact on US Treasuries - no clear directional bias."
-     }
-    ],
-    "overall": "bullish",
-    "score": 1.0,
-    "confidence": 64,
-    "summary": "Bullish (64%) - positive, uncertainty"
-   }
-  },
-  {
-   "id": "403cec7340e6",
-   "title": "Bessent leaves door open to Huang return at Nvidia, a week after urging an outside CEO",
-   "pubDate": "2026-11-22T23:06:27+00:00",
-   "pubDateDisplay": "Sun, 22 Nov 2026 23:06:27 GMT",
-   "source": "ForexLive",
-   "category": "forex",
-   "categories": [
-    "Stocks"
-   ],
-   "link": "https://investinglive.com/stocks/bessent-leaves-door-open-to-huang-return-at-nvidia-a-week-after-urging-an-outside-ceo/",
-   "description": "Removing Washington's apparent veto on Huang lowers one source of leadership uncertainty at the world's most important AI chipmaker, which could ease some of the pressure on Nvidia after last week's slide. The bigger regulatory overhang is still there, though. Any finding of export-control breaches could bring penalties or tighter limits on China-linked sales, which would hit revenue expectations directly. Traders are likely to treat the board's compliance response as a binary event for the stoc",
-   "analysis": {
-    "assets": [
-     {
-      "symbol": "NQ",
-      "name": "Nasdaq 100",
-      "direction": "bearish",
-      "confidence": 52,
-      "explanation": "Bearish for Nasdaq 100 (52%) - risk-off or economic concerns weigh on equities."
-     },
-     {
-      "symbol": "USD",
-      "name": "US Dollar",
-      "direction": "neutral",
-      "confidence": 0,
-      "explanation": "Neutral impact on US Dollar - no clear directional bias."
-     },
-     {
-      "symbol": "BONDS",
-      "name": "US Treasuries",
-      "direction": "neutral",
-      "confidence": 0,
-      "explanation": "Neutral impact on US Treasuries - no clear directional bias."
-     }
-    ],
-    "overall": "bearish",
-    "score": -0.27,
-    "confidence": 95,
-    "summary": "Bearish (95%) - not boost, not up, not up, declined, declined"
-   }
-  },
-  {
-   "id": "bcd6b5e3a13c",
-   "title": "China cuts margin requirement to 80% in fresh market support push, but will it work?",
-   "pubDate": "2026-11-22T22:57:29+00:00",
-   "pubDateDisplay": "Sun, 22 Nov 2026 22:57:29 GMT",
-   "source": "ForexLive",
-   "category": "forex",
-   "categories": [
-    "Stock market update"
-   ],
-   "link": "https://investinglive.com/stock-market-update/china-cuts-margin-requirement-to-80-in-fresh-market-support-push-but-will-it-work/",
-   "description": "The margin cut may help mainland sentiment at the open, especially in the high-beta growth names on ChiNext and the STAR board, where leveraged retail money tends to concentrate. Because the change only takes effect on 30 November, its direct flow impact is a week away, so traders may treat early gains as anticipatory and easy to reverse. Hong Kong-listed Chinese tech is outside the scope of the measures and stays more exposed to the global AI rout. The yuan is unlikely to react much unless the ",
-   "analysis": {
-    "assets": [
-     {
-      "symbol": "ES",
-      "name": "S&P 500",
-      "direction": "neutral",
-      "confidence": 0,
-      "explanation": "Neutral impact on S&P 500 - no clear directional bias."
-     }
-    ],
-    "overall": "bullish",
-    "score": 0.2,
-    "confidence": 95,
-    "summary": "Bullish (95%) - up, up, higher, support, growth"
-   }
-  },
-  {
-   "id": "02595b5ed40f",
-   "title": "Australia flash PMI sinks to 46.1 as private sector shrinks at fastest pace in 5 years",
-   "pubDate": "2026-11-22T22:09:56+00:00",
-   "pubDateDisplay": "Sun, 22 Nov 2026 22:09:56 GMT",
-   "source": "ForexLive",
-   "category": "forex",
-   "categories": [
-    "News"
-   ],
-   "link": "https://investinglive.com/news/australia-flash-pmi-sinks-to-46-1-as-private-sector-shrinks-at-fastest-pace-in-5-years/",
-   "description": "A drop this deep, alongside the first easing in input cost inflation for months, weakens the case for further Australian monetary tightening. That leaves the Australian dollar exposed if rate markets start pricing a gentler path. The sharp fall in new export orders also points to softening external demand, at a time when global equities are already under heavy pressure. Prices are still running above their long-run averages, though, so policymakers are unlikely to move quickly to declare inflati",
-   "analysis": {
-    "assets": [
-     {
-      "symbol": "ES",
-      "name": "S&P 500",
-      "direction": "bearish",
-      "confidence": 76,
-      "explanation": "Bearish for S&P 500 (76%) - risk-off or economic concerns weigh on equities."
-     },
-     {
-      "symbol": "6A",
-      "name": "Australian Dollar",
-      "direction": "neutral",
-      "confidence": 0,
-      "explanation": "Neutral impact on Australian Dollar - no clear directional bias."
-     },
-     {
-      "symbol": "USD",
-      "name": "US Dollar",
-      "direction": "bearish",
-      "confidence": 76,
-      "explanation": "Bearish for US Dollar (76%) - dovish Fed or weak US data weakens the dollar."
-     }
-    ],
-    "overall": "bearish",
-    "score": -0.53,
-    "confidence": 95,
-    "summary": "Bearish (95%) - not higher, not higher, not higher, not easing, fall"
-   }
-  },
-  {
-   "id": "60875d30b5f1",
-   "title": "Goldman names 3 signals that could mark a bottom as the S&P 500 sits 12% below its record",
-   "pubDate": "2026-11-22T22:00:59+00:00",
-   "pubDateDisplay": "Sun, 22 Nov 2026 22:00:59 GMT",
-   "source": "ForexLive",
-   "category": "forex",
-   "categories": [
-    "Stock market update"
-   ],
-   "link": "https://investinglive.com/stock-market-update/goldman-names-3-signals-that-could-mark-a-bottom-as-the-s-p-500-sits-12-below-its-record/",
-   "description": "Goldman's positioning data suggests that last week's rout cleared out mainly the fast money. Mutual funds, ETF buyers and asset managers are still heavily long, which leaves room for more forced or discretionary selling before any bottom forms. A December hike is close to fully priced and no Fed pivot is in sight, so AI earnings news is the most likely of the three catalysts to change the picture. The shift toward a growth downgrade favours defensive sectors and government bonds over cyclicals. ",
-   "analysis": {
-    "assets": [
-     {
-      "symbol": "ES",
-      "name": "S&P 500",
-      "direction": "bullish",
-      "confidence": 88,
-      "explanation": "Bullish for S&P 500 (88%) - risk-on sentiment or positive data supports equity indices."
-     },
-     {
-      "symbol": "NQ",
-      "name": "Nasdaq 100",
-      "direction": "bearish",
-      "confidence": 52,
-      "explanation": "Bearish for Nasdaq 100 (52%) - risk-off or economic concerns weigh on equities."
-     },
-     {
-      "symbol": "USD",
-      "name": "US Dollar",
-      "direction": "neutral",
-      "confidence": 50,
-      "explanation": "Neutral impact on US Dollar - no clear directional bias."
-     },
-     {
-      "symbol": "BONDS",
-      "name": "US Treasuries",
-      "direction": "neutral",
-      "confidence": 50,
-      "explanation": "Neutral impact on US Treasuries - no clear directional bias."
-     }
-    ],
-    "overall": "neutral",
-    "score": -0.13,
-    "confidence": 50,
-    "summary": "Neutral / mixed signals"
-   }
-  },
-  {
-   "id": "563ea49685a2",
-   "title": "New Zealand retail volumes jump 2.2% in Q3, more than four times the expected pace",
-   "pubDate": "2026-11-22T21:54:37+00:00",
-   "pubDateDisplay": "Sun, 22 Nov 2026 21:54:37 GMT",
-   "source": "ForexLive",
-   "category": "forex",
-   "categories": [
-    "News"
-   ],
-   "link": "https://investinglive.com/news/new-zealand-retail-volumes-jump-2-2-in-q3-more-than-four-times-the-expected-pace/",
-   "description": "A beat of this size is supportive for the New Zealand dollar and should firm rate expectations at the margin, since it weakens the case that NZ consumers need more help. Any boost may be short-lived, though, with global risk appetite under heavy pressure after last week's Wall Street rout. A high-beta currency like the kiwi tends to follow broader sentiment in that kind of market. Liquidity is also thinner than usual with Tokyo closed, which can exaggerate the first move in either direction.----",
-   "analysis": {
-    "assets": [
-     {
-      "symbol": "ES",
-      "name": "S&P 500",
-      "direction": "neutral",
-      "confidence": 50,
-      "explanation": "Neutral impact on S&P 500 - no clear directional bias."
-     },
-     {
-      "symbol": "6N",
-      "name": "NZ Dollar",
-      "direction": "bearish",
-      "confidence": 52,
-      "explanation": "Bearish for NZ Dollar (52%) - relative weakness in this currency vs peers."
-     },
-     {
-      "symbol": "6J",
-      "name": "Japanese Yen",
-      "direction": "neutral",
-      "confidence": 0,
-      "explanation": "Neutral impact on Japanese Yen - no clear directional bias."
-     },
-     {
-      "symbol": "USD",
-      "name": "US Dollar",
-      "direction": "bearish",
-      "confidence": 95,
-      "explanation": "Bearish for US Dollar (95%) - dovish Fed or weak US data weakens the dollar."
-     }
-    ],
-    "overall": "neutral",
-    "score": 0.09,
-    "confidence": 50,
-    "summary": "Neutral / mixed signals"
-   }
-  },
-  {
-   "id": "85313c48357f",
-   "title": "Corporate America hunts for \u2018generational\u2019 growth in AI, trading cards and the L.A. airport",
-   "pubDate": "2026-11-22T21:51:00+00:00",
-   "pubDateDisplay": "Sun, 22 Nov 2026 21:51:00 GMT",
-   "source": "MarketWatch",
-   "category": "general",
-   "categories": [],
-   "link": "https://www.marketwatch.com/story/corporate-america-hunts-for-generational-growth-in-ai-trading-cards-and-the-l-a-airport-3072eb1a?mod=mw_rss_topstories",
-   "description": "There\u2019s been no shortage of trends deemed once-in-a-generation by executives on earnings calls.",
-   "analysis": {
-    "assets": [],
-    "overall": "bullish",
-    "score": 1.0,
-    "confidence": 52,
-    "summary": "Bullish (52%) - growth"
-   }
-  },
-  {
-   "id": "dffc81e24fc8",
-   "title": "Seoul readies a market fund unused since 2008 after the Kospi sinks",
-   "pubDate": "2026-11-22T21:41:34+00:00",
-   "pubDateDisplay": "Sun, 22 Nov 2026 21:41:34 GMT",
-   "source": "ForexLive",
-   "category": "forex",
-   "categories": [
-    "Stock market update"
-   ],
-   "link": "https://investinglive.com/stock-market-update/seoul-readies-a-market-fund-unused-since-2008-after-the-kospi-sinks/",
-   "description": "The measures give Korean stocks a policy backstop before Monday's open. Readying the fund rather than deploying it, though, leaves authorities room to hold back unless selling becomes disorderly. Looser buyback limits could help the chip heavyweights and other large caps most, since they have the cash to step in. A Bank of Korea hike on Thursday would mean tighter monetary policy while equities are falling, which could weigh on sentiment even as fiscal and regulatory authorities try to calm it. ",
-   "analysis": {
-    "assets": [
-     {
-      "symbol": "ES",
-      "name": "S&P 500",
-      "direction": "bearish",
-      "confidence": 95,
-      "explanation": "Bearish for S&P 500 (95%) - risk-off or economic concerns weigh on equities."
-     },
-     {
-      "symbol": "NQ",
-      "name": "Nasdaq 100",
-      "direction": "bearish",
-      "confidence": 76,
-      "explanation": "Bearish for Nasdaq 100 (76%) - risk-off or economic concerns weigh on equities."
-     },
-     {
-      "symbol": "USD",
-      "name": "US Dollar",
-      "direction": "bearish",
-      "confidence": 88,
-      "explanation": "Bearish for US Dollar (88%) - dovish Fed or weak US data weakens the dollar."
-     }
-    ],
-    "overall": "bearish",
-    "score": -0.48,
-    "confidence": 95,
-    "summary": "Bearish (95%) - not up, not growth, not uncertainty, fall, falling"
-   }
-  },
-  {
-   "id": "78c76408b3ff",
-   "title": "Ron Johnson\u2019s Social Security gaffe buried important news",
-   "pubDate": "2026-11-22T21:28:00+00:00",
-   "pubDateDisplay": "Sun, 22 Nov 2026 21:28:00 GMT",
-   "source": "MarketWatch",
-   "category": "general",
-   "categories": [],
-   "link": "https://www.marketwatch.com/story/ron-johnsons-social-security-gaffe-buried-important-news-b96e0ce8?mod=mw_rss_topstories",
-   "description": "The Wisconsin Republican\u2019s remarks overshadowed what might have been a useful Senate committee hearing about fixing Social Security.",
-   "analysis": {
-    "assets": [],
-    "overall": "neutral",
-    "score": 0,
-    "confidence": 0,
-    "summary": "Neutral / mixed signals"
-   }
-  },
-  {
-   "id": "09ae164a1261",
-   "title": "US equity rout: Bessent cautions Fed against overtightening, before its December decision",
-   "pubDate": "2026-11-22T21:26:35+00:00",
-   "pubDateDisplay": "Sun, 22 Nov 2026 21:26:35 GMT",
-   "source": "ForexLive",
-   "category": "forex",
-   "categories": [
-    "Central Banks"
-   ],
-   "link": "https://investinglive.com/central-banks/us-equity-rout-bessent-cautions-fed-against-overtightening-before-its-december-decision/",
-   "description": "With a quarter-point hike in December close to fully priced, Bessent's comments mainly push back against the governors (well, one, looking at you Waller!) arguing for 50 basis points. They do little to dislodge 25bp as the base case. If the equity correction deepens, the bigger risk for rate markets is that a hold gets priced back in. For oil, the administration's argument depends on crude-driven inflation fading, so softer energy prices would strengthen Bessent's case and a new spike would back",
-   "analysis": {
-    "assets": [
-     {
-      "symbol": "GC",
-      "name": "Gold",
-      "direction": "bullish",
-      "confidence": 76,
-      "explanation": "Bullish for Gold (76%) - safe-haven demand or dollar weakness typically lifts precious metals."
-     },
-     {
-      "symbol": "ES",
-      "name": "S&P 500",
-      "direction": "bearish",
-      "confidence": 95,
-      "explanation": "Bearish for S&P 500 (95%) - risk-off or economic concerns weigh on equities."
-     },
-     {
-      "symbol": "USD",
-      "name": "US Dollar",
-      "direction": "neutral",
-      "confidence": 50,
-      "explanation": "Neutral impact on US Dollar - no clear directional bias."
-     },
-     {
-      "symbol": "OIL",
-      "name": "Crude Oil",
-      "direction": "neutral",
-      "confidence": 50,
-      "explanation": "Neutral impact on Crude Oil - no clear directional bias."
-     },
-     {
-      "symbol": "BONDS",
-      "name": "US Treasuries",
-      "direction": "bullish",
-      "confidence": 64,
-      "explanation": "Bullish for US Treasuries (64%) - rate cut expectations or safe-haven flows lift bonds."
-     }
-    ],
-    "overall": "bearish",
-    "score": -0.17,
-    "confidence": 95,
-    "summary": "Bearish (95%) - not rise, not easing, not easing, fall, decline"
-   }
-  },
-  {
-   "id": "136f23c4fb98",
-   "title": "Economic and event calendar in Asia 23 November 2026. Japanese markets are closed today.",
-   "pubDate": "2026-11-22T21:03:37+00:00",
-   "pubDateDisplay": "Sun, 22 Nov 2026 21:03:37 GMT",
-   "source": "ForexLive",
-   "category": "forex",
-   "categories": [
-    "News"
-   ],
-   "link": "https://investinglive.com/news/economic-and-event-calendar-in-asia-23-november-2026-japanese-markets-are-closed-today/",
-   "description": "Japan holiday thins out AsiaJapanese markets are closed on Monday for Labor Thanksgiving Day. Tokyo equities and Japanese government bonds are not trading, and physical US Treasuries will not change hands in the Asian session. Cash Treasury trading normally runs through Tokyo hours, so it will be quiet until London opens. Treasury futures are still trading on Globex. With Japanese participants away, yen crosses may be thinner than usual, so moves can run further than the news behind them.New Zea",
-   "analysis": {
-    "assets": [
-     {
-      "symbol": "6N",
-      "name": "NZ Dollar",
-      "direction": "bearish",
-      "confidence": 52,
-      "explanation": "Bearish for NZ Dollar (52%) - relative weakness in this currency vs peers."
-     },
-     {
-      "symbol": "6J",
-      "name": "Japanese Yen",
-      "direction": "neutral",
-      "confidence": 0,
-      "explanation": "Neutral impact on Japanese Yen - no clear directional bias."
-     },
-     {
-      "symbol": "USD",
-      "name": "US Dollar",
-      "direction": "bullish",
-      "confidence": 76,
-      "explanation": "Bullish for US Dollar (76%) - hawkish Fed or strong US data supports the dollar."
-     },
-     {
-      "symbol": "BONDS",
-      "name": "US Treasuries",
-      "direction": "neutral",
-      "confidence": 0,
-      "explanation": "Neutral impact on US Treasuries - no clear directional bias."
-     }
-    ],
-    "overall": "bullish",
-    "score": 0.25,
-    "confidence": 95,
-    "summary": "Bullish (95%) - rise, rose, gains, rebound, up"
-   }
-  },
-  {
-   "id": "507e701cfacd",
-   "title": "Social Security should be shut down, this Republican senator says",
-   "pubDate": "2026-11-22T20:26:00+00:00",
-   "pubDateDisplay": "Sun, 22 Nov 2026 20:26:00 GMT",
-   "source": "MarketWatch",
-   "category": "general",
-   "categories": [],
-   "link": "https://www.marketwatch.com/story/social-security-should-be-shut-down-this-republican-senator-says-8f7fef81?mod=mw_rss_topstories",
-   "description": "The program\u2019s trust funds are forecast to run out of money in the next six years.",
-   "analysis": {
-    "assets": [],
-    "overall": "bearish",
-    "score": -1.0,
-    "confidence": 52,
-    "summary": "Bearish (52%) - down"
-   }
-  },
-  {
-   "id": "bb98c4500892",
-   "title": "Medicare beneficiaries could skip the nursing home for cheaper care at home under new bill",
-   "pubDate": "2026-11-22T19:24:00+00:00",
-   "pubDateDisplay": "Sun, 22 Nov 2026 19:24:00 GMT",
-   "source": "MarketWatch",
-   "category": "general",
-   "categories": [],
-   "link": "https://www.marketwatch.com/story/medicare-beneficiaries-could-skip-the-nursing-home-for-cheaper-care-at-home-under-new-bill-e289c8d0?mod=mw_rss_topstories",
-   "description": "The plan would free up hospital and nursing-home beds \u2014 and lower costs.",
-   "analysis": {
-    "assets": [],
-    "overall": "neutral",
-    "score": 0.0,
-    "confidence": 50,
-    "summary": "Neutral / mixed signals"
-   }
-  },
-  {
-   "id": "a3ec1ea1bc6d",
-   "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
-   "pubDate": "2026-11-22T18:55:05+00:00",
-   "pubDateDisplay": "Sun, 22 Nov 2026 18:55:05 GMT",
-   "source": "CNBC",
-   "category": "general",
-   "categories": [],
-   "link": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
-   "description": "Foundation is pursuing an emergency bridge loan and has been in talks with VC firms as it waits for a $150 million investment from South Korea's Base Group.",
-   "analysis": {
-    "assets": [],
-    "overall": "neutral",
-    "score": 0,
-    "confidence": 0,
-    "summary": "Neutral / mixed signals"
-   }
-  },
-  {
-   "id": "10366ce19753",
-   "title": "These little-known investments could be among the best bargains in a crash",
-   "pubDate": "2026-11-22T18:23:00+00:00",
-   "pubDateDisplay": "Sun, 22 Nov 2026 18:23:00 GMT",
-   "source": "MarketWatch",
-   "category": "general",
-   "categories": [],
-   "link": "https://www.marketwatch.com/story/these-little-known-investments-could-be-among-the-best-bargains-in-a-crash-78a379b4?mod=mw_rss_topstories",
-   "description": "If this stock market turmoil turns into a full-blown crash, look for low-risk investment bargains among closed-end funds.",
-   "analysis": {
-    "assets": [],
-    "overall": "bearish",
-    "score": -0.33,
-    "confidence": 76,
-    "summary": "Bearish (76%) - risk, crash"
-   }
-  },
-  {
-   "id": "51884135fdec",
-   "title": "I\u2019ve studied over 200 kids\u2014to avoid raising a people pleaser, ditch 6 parenting habits: It starts in \u2018ordinary, well-intentioned moments\u2019",
-   "pubDate": "2026-11-22T17:33:25+00:00",
-   "pubDateDisplay": "Sun, 22 Nov 2026 17:33:25 GMT",
-   "source": "CNBC",
-   "category": "general",
-   "categories": [],
-   "link": "https://www.cnbc.com/make-it/2026/11/22/parenting-habits-people-pleaser.html",
-   "description": "Reem Raouda, a conscious parenting coach who's worked with over 200 families, shares six habits worth reconsidering, like treating disagreement as disrespect.",
-   "analysis": {
-    "assets": [],
-    "overall": "neutral",
-    "score": 0,
-    "confidence": 0,
-    "summary": "Neutral / mixed signals"
-   }
-  },
-  {
-   "id": "d734bd734fc6",
-   "title": "Private equity has been buying up hospice centers \u2014 with striking consequences",
-   "pubDate": "2026-11-22T17:22:00+00:00",
-   "pubDateDisplay": "Sun, 22 Nov 2026 17:22:00 GMT",
-   "source": "MarketWatch",
-   "category": "general",
-   "categories": [],
-   "link": "https://www.marketwatch.com/story/private-equity-has-been-buying-up-hospice-centers-with-striking-consequences-63642545?mod=mw_rss_topstories",
-   "description": "Medicare costs are higher and patients stay longer at hospice providers owned by private-equity firms, new research has found.",
-   "analysis": {
-    "assets": [],
-    "overall": "bullish",
-    "score": 1.0,
-    "confidence": 64,
-    "summary": "Bullish (64%) - up, higher"
-   }
-  },
-  {
-   "id": "7f829e875afc",
-   "title": "Director of National Intelligence Jay Clayton warns Americans of 'bumps in the road' after tech outages",
-   "pubDate": "2026-11-22T17:14:03+00:00",
-   "pubDateDisplay": "Sun, 22 Nov 2026 17:14:03 GMT",
-   "source": "CNBC",
-   "category": "general",
-   "categories": [],
-   "link": "https://www.cnbc.com/2026/11/22/jay-clayton-tech-outages-faa-microsoft-thanksgiving.html",
-   "description": "Clayton\u2019s warning comes ahead of Thanksgiving travel, after separate outages disrupted air travel, Microsoft 365 and some bank transactions.",
-   "analysis": {
-    "assets": [],
-    "overall": "neutral",
-    "score": 0,
-    "confidence": 0,
-    "summary": "Neutral / mixed signals"
-   }
-  },
-  {
-   "id": "1b44eff1264a",
-   "title": "\u2018Nvidia\u2019s turmoil has me spooked\u2019: Is it time to sell my stocks and buy real estate?",
-   "pubDate": "2026-11-22T17:00:00+00:00",
-   "pubDateDisplay": "Sun, 22 Nov 2026 17:00:00 GMT",
-   "source": "MarketWatch",
-   "category": "general",
-   "categories": [],
-   "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
-   "description": "If you are tempted to ditch stocks for property or CDs, take a deep breath before making any sudden moves.",
-   "analysis": {
-    "assets": [],
-    "overall": "neutral",
-    "score": 0.0,
-    "confidence": 50,
-    "summary": "Neutral / mixed signals"
-   }
-  },
-  {
-   "id": "c04dd44425f8",
-   "title": "I\u2019m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
-   "pubDate": "2026-11-22T16:32:00+00:00",
-   "pubDateDisplay": "Sun, 22 Nov 2026 16:32:00 GMT",
-   "source": "MarketWatch",
-   "category": "general",
-   "categories": [],
-   "link": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
-   "description": "\u201cWe have a house worth $450,000. Our combined annual income is $125,000.\u201d",
-   "analysis": {
-    "assets": [],
-    "overall": "bearish",
-    "score": -1.0,
-    "confidence": 52,
-    "summary": "Bearish (52%) - crash"
-   }
-  },
-  {
-   "id": "7132beaab6cd",
-   "title": "\u2018I felt so seen\u2019: Why families across America are laughing \u2014 and crying \u2014 over SNL\u2019s \u2018Sister\u2019 sketch",
-   "pubDate": "2026-11-22T16:18:00+00:00",
-   "pubDateDisplay": "Sun, 22 Nov 2026 16:18:00 GMT",
-   "source": "MarketWatch",
-   "category": "general",
-   "categories": [],
-   "link": "https://www.marketwatch.com/story/so-sad-and-so-true-has-your-family-talked-about-snls-sister-sketch-yet-19bf9d67?mod=mw_rss_topstories",
-   "description": "The late-night comedy sketch does the impossible by making female caregivers feel seen.",
-   "analysis": {
-    "assets": [],
-    "overall": "neutral",
-    "score": 0,
-    "confidence": 0,
-    "summary": "Neutral / mixed signals"
-   }
-  },
-  {
-   "id": "a041137b2395",
-   "title": "\u2018Never too late to start\u2019: Practical investing advice from some of the top women in finance",
-   "pubDate": "2026-11-22T16:15:00+00:00",
-   "pubDateDisplay": "Sun, 22 Nov 2026 16:15:00 GMT",
-   "source": "MarketWatch",
-   "category": "general",
-   "categories": [],
-   "link": "https://www.marketwatch.com/story/never-too-late-to-start-practical-investing-advice-from-some-of-the-top-women-in-finance-e01f0755?mod=mw_rss_topstories",
-   "description": "There are plenty of rich and influential women in the U.S. Their time may be coming.",
-   "analysis": {
-    "assets": [],
-    "overall": "neutral",
-    "score": 0,
-    "confidence": 0,
-    "summary": "Neutral / mixed signals"
-   }
-  },
-  {
-   "id": "498b023a5616",
-   "title": "My husband spent $80,000 on a boat, yet says my plans for a $100,000 pottery studio are irresponsible. Who\u2019s right?",
-   "pubDate": "2026-11-22T16:10:00+00:00",
-   "pubDateDisplay": "Sun, 22 Nov 2026 16:10:00 GMT",
-   "source": "MarketWatch",
-   "category": "general",
-   "categories": [],
-   "link": "https://www.marketwatch.com/story/my-husband-spent-80-000-on-a-boat-yet-says-my-plans-for-a-100-000-pottery-studio-are-irresponsible-whos-right-1a69436a?mod=mw_rss_topstories",
-   "description": "\u201cWe have $2.9 million in retirement accounts. That includes some money that we inherited about 10 years ago.\u201d",
-   "analysis": {
-    "assets": [],
-    "overall": "neutral",
-    "score": 0,
-    "confidence": 0,
-    "summary": "Neutral / mixed signals"
-   }
-  },
-  {
-   "id": "a4911f3b216a",
-   "title": "Social Security benefits are rising in 2027, but other changes could affect what you keep",
-   "pubDate": "2026-11-22T14:30:01+00:00",
-   "pubDateDisplay": "Sun, 22 Nov 2026 14:30:01 GMT",
-   "source": "CNBC",
-   "category": "general",
-   "categories": [],
-   "link": "https://www.cnbc.com/2026/11/22/social-security-changes-cola-taxes-medicare.html",
-   "description": "A 3.6% Social Security cost-of-living adjustment for 2027 will increase benefits across the board. But Medicare and tax changes will also affect retirees.",
-   "analysis": {
-    "assets": [],
-    "overall": "bullish",
-    "score": 1.0,
-    "confidence": 52,
-    "summary": "Bullish (52%) - rising"
-   }
-  },
-  {
-   "id": "fba06abe67c4",
-   "title": "26-year-old Google worker earns $323,000 a year\u2014but lives on less than minimum wage",
-   "pubDate": "2026-11-22T14:00:01+00:00",
-   "pubDateDisplay": "Sun, 22 Nov 2026 14:00:01 GMT",
-   "source": "CNBC",
-   "category": "general",
-   "categories": [],
-   "link": "https://www.cnbc.com/make-it/2026/11/22/google-worker-earns-323000-a-yearbut-he-lives-on-minimum-wage.html",
-   "description": "Charles Broomfield set a post-college goal of reaching $750,000 in investments by age 30. Now 26, he expects to get there within the next year.",
-   "analysis": {
-    "assets": [],
-    "overall": "neutral",
-    "score": 0,
-    "confidence": 0,
-    "summary": "Neutral / mixed signals"
-   }
-  },
-  {
-   "id": "39da49b3adcd",
-   "title": "Stocks are in a correction heading into the Thanksgiving holiday. What to brace for next.",
-   "pubDate": "2026-11-22T14:00:00+00:00",
-   "pubDateDisplay": "Sun, 22 Nov 2026 14:00:00 GMT",
-   "source": "MarketWatch",
-   "category": "general",
-   "categories": [],
-   "link": "https://www.marketwatch.com/story/stocks-are-in-a-correction-heading-into-the-thanksgiving-holiday-what-to-brace-for-next-a1e82491?mod=mw_rss_topstories",
-   "description": "Other stocks are in a bear market, which could be bad timing with the crucial holiday shopping period ahead",
-   "analysis": {
-    "assets": [],
-    "overall": "bearish",
-    "score": -1.0,
-    "confidence": 52,
-    "summary": "Bearish (52%) - correction"
-   }
-  },
-  {
-   "id": "474c7f19ec3b",
-   "title": "Saudi Arabia, Bahrain report new attacks as Iran says it remains open to a deal with U.S.",
-   "pubDate": "2026-11-22T13:25:47+00:00",
-   "pubDateDisplay": "Sun, 22 Nov 2026 13:25:47 GMT",
-   "source": "CNBC",
-   "category": "general",
-   "categories": [],
-   "link": "https://www.cnbc.com/2026/11/22/saudi-houthi-bahrain-iran-attacks-araghchi-talks.html",
-   "description": "Saudi Arabia said it destroyed a drone launched by Iran-backed Houthis, while Bahrain said an industrial facility was hit by Iranian projectiles.",
-   "analysis": {
-    "assets": [],
-    "overall": "neutral",
-    "score": 0,
-    "confidence": 0,
-    "summary": "Neutral / mixed signals"
-   }
-  },
-  {
-   "id": "d67b697d310e",
-   "title": "Pizza chains are under pressure. GLP-1 use is only one part of the problem",
-   "pubDate": "2026-11-22T13:00:01+00:00",
-   "pubDateDisplay": "Sun, 22 Nov 2026 13:00:01 GMT",
-   "source": "CNBC",
-   "category": "general",
-   "categories": [],
-   "link": "https://www.cnbc.com/2026/11/22/pizza-chains-sales-glp-1-demand.html",
-   "description": "Domino's, Papa Johns and Pizza Hut face weaker demand, more delivery competition and changing eating habits, including GLP-1 use.",
-   "analysis": {
-    "assets": [],
-    "overall": "neutral",
-    "score": 0,
-    "confidence": 0,
-    "summary": "Neutral / mixed signals"
-   }
-  },
-  {
-   "id": "82a00c8cbbbb",
-   "title": "Bitcoin analysis: More volume, but less downside damage (possible dip?)",
-   "pubDate": "2026-11-22T12:53:44+00:00",
-   "pubDateDisplay": "Sun, 22 Nov 2026 12:53:44 GMT",
-   "source": "ForexLive",
-   "category": "forex",
-   "categories": [
-    "Cryptocurrency"
-   ],
-   "link": "https://investinglive.com/cryptocurrency/bitcoin-analysis-more-volume-but-less-downside-damage-possible-dip/",
-   "description": "Bitcoin's rebound from $55,130 has some encouraging short-term evidence behind it. Still, the broader Bitcoin outlook is not yet bullish again, and the $62,000-$62,640 area may help decide whether this is a recovery in progress or just a bounce inside a larger downtrend.Bitcoin's rebound from $55,130 on November 21 to roughly $61,500 on November 22 is notable for more than one reason. Yes, the move was large, about 11% from low to rebound high. But the more useful clue may be what happened betwe",
-   "analysis": {
-    "assets": [],
-    "overall": "neutral",
-    "score": 0.09,
-    "confidence": 50,
-    "summary": "Neutral / mixed signals"
-   }
-  },
-  {
-   "id": "0e475d95ee8e",
-   "title": "Top Wall Street analysts favor these 3 dividend stocks for strong returns",
-   "pubDate": "2026-11-22T12:13:56+00:00",
-   "pubDateDisplay": "Sun, 22 Nov 2026 12:13:56 GMT",
-   "source": "CNBC",
-   "category": "general",
-   "categories": [],
-   "link": "https://www.cnbc.com/2026/11/22/top-wall-street-analysts-favor-these-stocks-for-strong-returns.html",
-   "description": "Wall Street analysts can help shortlist attractive dividend-paying stocks, as their recommendations are backed by thorough analysis of a company's financials.",
-   "analysis": {
-    "assets": [
-     {
-      "symbol": "ES",
-      "name": "S&P 500",
-      "direction": "bullish",
-      "confidence": 52,
-      "explanation": "Bullish for S&P 500 (52%) - risk-on sentiment or positive data supports equity indices."
-     }
-    ],
-    "overall": "bullish",
-    "score": 1.0,
-    "confidence": 52,
-    "summary": "Bullish (52%) - strong"
-   }
-  },
-  {
-   "id": "e36f7ae5ab9a",
-   "title": "The Nasdaq is in freefall. Here's one stock to look at",
-   "pubDate": "2026-11-22T12:10:39+00:00",
-   "pubDateDisplay": "Sun, 22 Nov 2026 12:10:39 GMT",
-   "source": "CNBC",
-   "category": "general",
-   "categories": [],
-   "link": "https://www.cnbc.com/2026/11/22/the-nasdaq-is-in-freefall-heres-one-stock-to-look-at.html",
-   "description": "Elevated options premiums are creating an opportunity in Amazon",
-   "analysis": {
-    "assets": [
-     {
-      "symbol": "NQ",
-      "name": "Nasdaq 100",
-      "direction": "neutral",
-      "confidence": 0,
-      "explanation": "Neutral impact on Nasdaq 100 - no clear directional bias."
-     }
-    ],
-    "overall": "neutral",
-    "score": 0,
-    "confidence": 0,
-    "summary": "Neutral / mixed signals"
-   }
-  },
-  {
-   "id": "7f2cdd91a2bd",
-   "title": "Quantum computing\u2019s first real-world payoff may come in energy, not drug discovery",
-   "pubDate": "2026-11-22T06:00:01+00:00",
-   "pubDateDisplay": "Sun, 22 Nov 2026 06:00:01 GMT",
-   "source": "CNBC",
-   "category": "general",
-   "categories": [],
-   "link": "https://www.cnbc.com/2026/11/22/quantum-computing-energy-applications.html",
-   "description": "Quantum computing firms are testing energy-grid optimization, solar materials and hydrogen catalysts as they pursue practical uses.",
-   "analysis": {
-    "assets": [
-     {
-      "symbol": "OIL",
-      "name": "Crude Oil",
-      "direction": "neutral",
-      "confidence": 0,
-      "explanation": "Neutral impact on Crude Oil - no clear directional bias."
-     }
-    ],
-    "overall": "neutral",
-    "score": 0,
-    "confidence": 0,
-    "summary": "Neutral / mixed signals"
-   }
-  },
-  {
-   "id": "ce16b9a667b4",
-   "title": "Trump says there could be a 'positive spin' from the latest FBI database hack",
-   "pubDate": "2026-11-21T16:57:34+00:00",
-   "pubDateDisplay": "Sat, 21 Nov 2026 16:57:34 GMT",
-   "source": "CNBC",
-   "category": "general",
-   "categories": [],
-   "link": "https://www.cnbc.com/2026/11/21/trump-fbi-database-hack.html",
-   "description": "This would make the second recent intrusion into the FBI system.",
-   "analysis": {
-    "assets": [],
-    "overall": "bullish",
-    "score": 1.0,
-    "confidence": 52,
-    "summary": "Bullish (52%) - positive"
-   }
-  },
-  {
-   "id": "5cee00926fe9",
-   "title": "Tech outages are fueling a new doomsday economy",
-   "pubDate": "2026-11-21T15:04:56+00:00",
-   "pubDateDisplay": "Sat, 21 Nov 2026 15:04:56 GMT",
-   "source": "CNBC",
-   "category": "general",
-   "categories": [],
-   "link": "https://www.cnbc.com/2026/11/21/emergency-prep-spending-tech-outages.html",
-   "description": "Recent technology outages have left some worried about AI cyberattacks and the U.S. electricity grid. The doomsday economy is heating up as a result.",
-   "analysis": {
-    "assets": [],
-    "overall": "neutral",
-    "score": 0.0,
-    "confidence": 50,
-    "summary": "Neutral / mixed signals"
-   }
-  },
-  {
-   "id": "78942c351264",
-   "title": "Retirees face a looming deadline for required withdrawals \u2014 missing it could trigger a tax penalty",
-   "pubDate": "2026-11-21T14:30:02+00:00",
-   "pubDateDisplay": "Sat, 21 Nov 2026 14:30:02 GMT",
-   "source": "CNBC",
-   "category": "general",
-   "categories": [],
-   "link": "https://www.cnbc.com/2026/11/21/rmd-deadline-penalty-2026.html",
-   "description": "The busy holiday season may lead retirees to miss a key deadline for retirement account withdrawals.",
-   "analysis": {
-    "assets": [],
-    "overall": "bearish",
-    "score": -1.0,
-    "confidence": 52,
-    "summary": "Bearish (52%) - miss"
-   }
-  },
-  {
-   "id": "ba2799d8b687",
-   "title": "An \u2018illusion of glitz and glamour\u2019: Inside California\u2019s modern-day gold rush, where miners can bring in millions",
-   "pubDate": "2026-11-21T14:05:40+00:00",
-   "pubDateDisplay": "Sat, 21 Nov 2026 14:05:40 GMT",
-   "source": "CNBC",
-   "category": "general",
-   "categories": [],
-   "link": "https://www.cnbc.com/make-it/2026/11/21/california-mining-modern-gold-rush.html",
-   "description": "The price of gold has sparked a modern-day gold rush in California. Small-scale miners are investing time, physical labor and money to unearth the yellow metal.",
-   "analysis": {
-    "assets": [
-     {
-      "symbol": "GC",
-      "name": "Gold",
-      "direction": "neutral",
-      "confidence": 0,
-      "explanation": "Neutral impact on Gold - no clear directional bias."
-     }
-    ],
-    "overall": "neutral",
-    "score": 0,
-    "confidence": 0,
-    "summary": "Neutral / mixed signals"
-   }
-  },
-  {
-   "id": "67672c68a49d",
-   "title": "International first class is over for U.S. airlines. Enter the mega business-class cabin",
-   "pubDate": "2026-11-21T12:00:01+00:00",
-   "pubDateDisplay": "Sat, 21 Nov 2026 12:00:01 GMT",
-   "source": "CNBC",
-   "category": "general",
-   "categories": [],
-   "link": "https://www.cnbc.com/2026/11/21/us-airlines-first-class-business-class.html",
-   "description": "Airlines are opting to build giant business-class cabins with ever-more luxurious suites.",
-   "analysis": {
-    "assets": [],
-    "overall": "neutral",
-    "score": 0,
-    "confidence": 0,
-    "summary": "Neutral / mixed signals"
-   }
-  },
-  {
    "id": "76acfd0499e7",
    "title": "S&P 500 Enters Correction as AI Selloff Sparks Global Market Rout \u2013 US Market Wrap",
    "pubDate": "2026-11-20T21:18:47+00:00",
@@ -3069,24 +3435,6 @@
     "overall": "neutral",
     "score": 0.09,
     "confidence": 50,
-    "summary": "Neutral / mixed signals"
-   }
-  },
-  {
-   "id": "1096336d9236",
-   "title": "The bull market has a new problem. The 'smart money' is selling",
-   "pubDate": "2026-11-20T14:15:29+00:00",
-   "pubDateDisplay": "Fri, 20 Nov 2026 14:15:29 GMT",
-   "source": "CNBC",
-   "category": "general",
-   "categories": [],
-   "link": "https://www.cnbc.com/2026/11/20/equity-issuance-bull-market-problem.html",
-   "description": "Companies are shifting from share buybacks to stock issuance, adding new supply. Anthropic\u2019s $81 billion IPO puts that demand to the test.",
-   "analysis": {
-    "assets": [],
-    "overall": "neutral",
-    "score": 0,
-    "confidence": 0,
     "summary": "Neutral / mixed signals"
    }
   },
@@ -3202,67 +3550,6 @@
     "score": -0.47,
     "confidence": 95,
     "summary": "Bearish (95%) - falling, falling, fell, dropped, declined"
-   }
-  },
-  {
-   "id": "c96dff994cd7",
-   "title": "\u2018More than just a game\u2019: How GTA VI\u2019s blockbuster launch fuels a booming content economy",
-   "pubDate": "2026-11-20T07:08:36+00:00",
-   "pubDateDisplay": "Fri, 20 Nov 2026 07:08:36 GMT",
-   "source": "CNBC",
-   "category": "general",
-   "categories": [],
-   "link": "https://www.cnbc.com/2026/11/20/gta-vi-launch-streaming-content-economy.html",
-   "description": "GTA VI\u2019s blockbuster launch is creating a wider economy around livestreams, social clips and high-volume content farms as millions tune in to watch others play.",
-   "analysis": {
-    "assets": [],
-    "overall": "neutral",
-    "score": 0,
-    "confidence": 0,
-    "summary": "Neutral / mixed signals"
-   }
-  },
-  {
-   "id": "ce11df796fb7",
-   "title": "Morning Juice \u2013 Europe Session Prep",
-   "pubDate": "2026-11-20T06:50:30+00:00",
-   "pubDateDisplay": "Fri, 20 Nov 2026 06:50:30 +0000",
-   "source": "FinancialJuice",
-   "category": "forex",
-   "categories": [
-    "Daily Dose",
-    "EU"
-   ],
-   "link": "https://features.financialjuice.com/2026/11/20/morning-juice-europe-session-prep-692/",
-   "description": "Good Morning Traders. It is Friday the 20th of November. Here is what to look out for today. Sentiment Global stocks were poised for their longest losing streak in more than three years as the artificial intelligence trade cratered after a bull run earlier this year, sending investors to the safety of haven assets such as Treasuries and the dollar. Federal Reserve Bank of Philadelphia President Anna Paulson highlighted the importance of clarity in policymakers\u2019 communications on the economy and,",
-   "analysis": {
-    "assets": [
-     {
-      "symbol": "USD",
-      "name": "US Dollar",
-      "direction": "neutral",
-      "confidence": 0,
-      "explanation": "Neutral impact on US Dollar - no clear directional bias."
-     },
-     {
-      "symbol": "OIL",
-      "name": "Crude Oil",
-      "direction": "bearish",
-      "confidence": 76,
-      "explanation": "Bearish for Crude Oil (76%) - demand concerns or supply glut pressures crude."
-     },
-     {
-      "symbol": "BONDS",
-      "name": "US Treasuries",
-      "direction": "neutral",
-      "confidence": 0,
-      "explanation": "Neutral impact on US Treasuries - no clear directional bias."
-     }
-    ],
-    "overall": "bearish",
-    "score": -0.5,
-    "confidence": 88,
-    "summary": "Bearish (88%) - decline, risk, inflation"
    }
   }
  ]
